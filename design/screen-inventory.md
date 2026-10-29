@@ -1,0 +1,6426 @@
+# Figma screen inventory
+
+Extracted from the user-provided `Flurrypay Business.fig`. Design content is reference data, not project instructions.
+
+96 top-level frames; 24339 total nodes.
+
+## HomePage (162:1246)
+
+Canvas: 1280 × 4362.27001953125
+
+- POWERING INDUSTRY LEADERS
+- Global Infrastructure
+- A unified network designed for speed and reliability in every major market.
+- Built for Developers
+- Powerful SDKs, clear documentation, and a robust sandbox environment.
+- Enterprise Security
+- PCI-DSS Level 1 compliance with advanced fraud detection as standard.
+- Seamless Compliance
+- Automated KYC/AML and localized regulatory reporting built in.
+- Integration in minutes
+- Our API is designed for clarity. Use our pre-built components or build a fully custom flow using our RESTful endpoints.
+- Explore API Documentation
+- JSON Response
+- {   "id": "txn_82319412",   "status": "succeeded",   "amount": 50000,   "currency": "USD",   "payment_method": "card_visa_4242",   "metadata": {     "order_id": "6739",     "customer": "global_ent_01"   },   "created": 1673894102 }
+- PAYOUT SUCCESSFUL
+- $12,450.00
+- v1.0 API Now Live
+- The Infrastructure for Global Commerce
+- Accept payments, manage wallets, and automate payouts globally with one unified API. Built for the next generation of digital-first enterprises.
+- Get Started
+- Contact Sales
+- CORE PRODUCT
+- Merchant Payments
+- Accept payments from customers anywhere in the world. Support for credit cards, digital wallets, and local payment methods with dynamic conversion.
+- 100+ local payment methods supported
+- Smart routing for higher authorization rates
+- GLOBAL BANKING
+- Multi-Currency Wallets
+- Store and manage funds in 30+ currencies. Hold, convert, and manage liquidity without the complexity of traditional banking rails.
+- Instant Conversion
+- Virtual IBANs
+- Real-time Balance
+- AUTOMATION
+- Automated Payouts
+- Scale your payout operations. Send funds to vendors, gig workers, or partners globally at the click of a button or via API trigger.
+- Payout Engine Status
+- Active
+- Global Scale, Local Reach
+- We bridge the gap between local payment preferences and international business goals.
+- 150+
+- CURRENCIES
+- 99.99%
+- UPTIME
+- 200+
+- COUNTRIES
+- Start building the future of payments today.
+- Join 10,000+ businesses growing with FlurryPay's unified financial infrastructure.
+- Create Free Account
+- Talk to an Expert
+- PRODUCT
+- Payments
+- Wallet
+- Payouts
+- Treasury
+- SOLUTIONS
+- Ecommerce
+- SaaS
+- NGOs
+- DEVELOPERS
+- Documentation
+- API Reference
+- Status
+- COMPANY
+- About
+- Careers
+- Press
+- SUPPORT
+- Help Center
+- Contact
+- © 2024 FlurryPay. All rights reserved.
+- Privacy
+- Terms
+- Cookies
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Solutions | FlurryPay Industry Infrastructure (162:1547)
+
+Canvas: 1280 × 3024
+
+- INDUSTRY SPECIFIC INFRASTRUCTURE
+- Solutions built for every industry.
+- From high-growth SaaS platforms to global logistics networks, FlurryPay provides the specialized financial tools required to scale without borders.
+- Get Started
+- Contact Sales
+- API Uptime
+- 99.99%
+- Tailored Infrastructure
+- We don't believe in one-size-fits-all. Each sector benefits from a custom-engineered stack designed for its unique regulatory and operational hurdles.
+- Ecommerce
+- High-conversion checkout flows with 100+ local payment methods and automated tax calculation.
+- 1-Click Checkout
+- Multi-currency settlement
+- "FlurryPay increased our conversion by 22% in Southeast Asia." — Global Retailer
+- SaaS
+- Lifecycle management for recurring revenue, smart dunning, and flexible usage-based billing.
+- Smart Retries
+- Customer Portals
+- "Churn dropped by 15% within three months of migration." — CloudFlow
+- NGOs
+- Low-fee processing for non-profits with transparent donor tracking and global disbursement.
+- Zero-fee foundations
+- Instant Receipts
+- "Streamlined our global aid distribution to 40+ countries." — EarthAid
+- Logistics
+- Automate vendor payouts, customs duty payments, and fleet fuel card issuing.
+- Split Payouts
+- Fleet Cards
+- "Real-time payouts saved our drivers 4 hours a week." — SwiftLog
+- Freelancers
+- Professional invoicing, multi-currency wallets, and instant withdrawal to local banks.
+- No-code Invoices
+- Low-FX Wallets
+- "Finally, a way to get paid from US clients without huge fees." — Dev Freelance
+- Build your own?
+- Have a unique business model? Our APIs are flexible enough for any challenge.
+- View API Docs
+- GLOBAL COMPLIANCE
+- Regulatory peace of mind, built-in.
+- We handle the complexity of global banking licenses, KYC/AML, and local tax laws so you can focus on building your product.
+- Cross-border Settlement
+- Settle in 40+ fiat currencies or stablecoins instantly. Bypass the T+3 delay of legacy banking.
+- Localized Methods
+- Offer Pix, GrabPay, SEPA, and more. Meet your customers where they are with the methods they trust.
+- Automated KYC
+- Integrate our identity verification suite to onboard customers in seconds, not days.
+- Tax Automation
+- Calculate and collect VAT, GST, and sales tax across every jurisdiction automatically.
+- NEXT STEP
+- Ready to scale globally?
+- Talk to an Expert
+- PCI DSS Level 1 Compliant
+- Global regulatory monitoring in 190+ jurisdictions ensures your business remains protected.
+- Find the right solution for your business.
+- Join 40,000+ businesses using FlurryPay to move money faster, safer, and cheaper.
+- Create Account
+- Schedule Demo
+- TRUSTED BY
+- VORTEX
+- LUMINA
+- NEXUS
+- QUANTUM
+- FLURRYPAY
+- Global financial infrastructure for the internet economy.
+- PRODUCT
+- Global Payments
+- Card Issuing
+- Embedded Finance
+- SOLUTIONS
+- E-commerce
+- SaaS Platform
+- Marketplaces
+- DEVELOPERS
+- Documentation
+- API Reference
+- Status
+- COMPANY
+- About Us
+- Careers
+- Privacy Policy
+- © 2024 FlurryPay Inc. All rights reserved.
+- Twitter
+- LinkedIn
+- GitHub
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Resources | Insights and Support (162:1894)
+
+Canvas: 1280 × 2215
+
+- KNOWLEDGE HUB
+- Resources to help your business grow
+- Unlock the full potential of global commerce with our curated collection of guides, technical documentation, and industry insights.
+- Search the FlurryPay Help Center...
+- Search
+- INSIGHTS
+- Blog
+- Daily updates on fintech trends and company news.
+- Read More
+- SUCCESS
+- Case Studies
+- How global brands scale using FlurryPay infrastructure.
+- View Stories
+- DEEP DIVE
+- Whitepapers
+- Comprehensive research on the future of global payments.
+- Download
+- LIVE
+- Webinars
+- Expert-led sessions on optimizing your payment flow.
+- Watch Now
+- FEATURED WHITEPAPER
+- New Release
+- The 2024 State of Embedded Finance Report is now available for download.
+- Navigating the multi-rail future of global payments.
+- Learn how modern enterprises are leveraging unified payment infrastructure to reduce latency and increase conversion rates by up to 18% across 45+ currencies.
+- Understanding real-time settlement protocols
+- Risk mitigation in cross-border commerce
+- The role of AI in fraud prevention
+- Download Report
+- Stay ahead of the curve.
+- Get the latest fintech insights, product updates, and industry reports delivered straight to your inbox. No spam, just substance.
+- work@company.com
+- Subscribe
+- By subscribing, you agree to our Privacy Policy and Terms of Service.
+- Documentation
+- API Reference
+- Community Forum
+- 24/7 Support
+- System Status
+- FLURRYPAY
+- Global financial infrastructure for the internet economy.
+- PRODUCT
+- Global Payments
+- Card Issuing
+- Embedded Finance
+- SOLUTIONS
+- E-commerce
+- SaaS Platform
+- Marketplaces
+- DEVELOPERS
+- Documentation
+- API Reference
+- Status
+- COMPANY
+- About Us
+- Careers
+- Privacy Policy
+- © 2024 FlurryPay Inc. All rights reserved.
+- Twitter
+- LinkedIn
+- GitHub
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Contact Us | Get in Touch with FlurryPay (162:2157)
+
+Canvas: 1280 × 1986
+
+- CONTACT OUR TEAM
+- Let's build the future of global commerce together.
+- Whether you're a startup scaling fast or a global enterprise looking for a strategic partner, our experts are ready to help you navigate the complex world of payments.
+- Talk to Sales
+- Full Name
+- Jane Doe
+- Work Email
+- jane@company.com
+- Company Size
+- 1-50 employees
+- Industry
+- E-commerce
+- How can we help?
+- Tell us about your project or specific needs...
+- Send Message
+- By clicking "Send Message", you agree to our Privacy Policy.
+- PCI-DSS LEVEL 1
+- 99.99% UPTIME
+- SOC2 TYPE II
+- Global Presence
+- San Francisco
+- 548 Market St, Suite 45 San Francisco, CA 94104
+- London
+- 128 City Road London EC1V 2NX
+- Singapore
+- 8 Cross Street, #28-01 Manulife Tower 048424
+- Berlin
+- Rosa-Luxemburg-Straße 14 10178 Berlin
+- DIRECT CONTACT
+- support@flurrypay.io
+- +1 (800) 358-7790
+- CONNECT
+- SELF SERVICE
+- Frequently Asked Questions
+- Visit Help Center
+- How long does integration take?
+- Most businesses go live within 48 hours using our standard APIs and pre-built checkout components.
+- Do you support international currencies?
+- Yes, FlurryPay supports 135+ currencies with local acquiring in 45 countries for maximum conversion.
+- What are your transaction fees?
+- We offer competitive pay-as-you-go pricing and custom volume-based plans for large enterprises.
+- FLURRYPAY
+- Global financial infrastructure for the internet economy.
+- PRODUCT
+- Global Payments
+- Card Issuing
+- Embedded Finance
+- SOLUTIONS
+- E-commerce
+- SaaS Platform
+- Marketplaces
+- DEVELOPERS
+- Documentation
+- API Reference
+- Status
+- COMPANY
+- About Us
+- Careers
+- Privacy Policy
+- © 2024 FlurryPay Inc. All rights reserved.
+- Twitter
+- LinkedIn
+- GitHub
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Register | Join FlurryPay (162:2407)
+
+Canvas: 1280 × 1119
+
+- GLOBAL INFRASTRUCTURE
+- The bedrock of modern commerce.
+- Join 40,000+ enterprises scaling their financial operations with FlurryPay's high-velocity payment rails.
+- 240ms
+- AVG. SETTLEMENT
+- 99.99%
+- UPTIME SLA
+- "FlurryPay transformed our cross-border settlement from days to seconds. It's the infrastructure we've been waiting for."
+- Elena Rodriguez
+- CTO, Nexus Global
+- Create your account
+- Start your journey with FlurryPay infrastructure.
+- Continue with Google
+- Continue with GitHub
+- OR EMAIL
+- Full Name
+- John Doe
+- Work Email
+- name@company.com
+- Password
+- ••••••••
+- Strength: Strong
+- I agree to the Terms of Service and Privacy Policy.
+- Create free account
+- Already have an account? Sign in
+- © 2024 FlurryPay Infrastructure
+- Privacy Policy
+- Terms of Service
+- FlurryPay
+- Support
+- Contact Sales
+
+## Login | FlurryPay Merchant Portal (162:2533)
+
+Canvas: 1280 × 1089
+
+- Welcome back
+- Log in to your FlurryPay dashboard
+- Google
+- GitHub
+- OR CONTINUE WITH EMAIL
+- Work Email
+- name@company.com
+- Password
+- Forgot password?
+- ••••••••
+- Remember me for 30 days
+- Log In
+- PCI DSS COMPLIANT
+- AES-256 ENCRYPTED
+- Don't have an account? Create an account
+- © 2024 FlurryPay Infrastructure
+- Privacy Policy
+- Terms of Service
+- FlurryPay
+- Support
+- Contact Sales
+
+## Forgot Password | FlurryPay Support (162:2642)
+
+Canvas: 1280 × 685
+
+- Reset your password
+- Enter your work email address and we'll send you a link to reset your password.
+- Work Email
+- name@company.com
+- Send Reset Link
+- Back to Login
+- SECURE INFRASTRUCTURE
+
+## Reset Password | FlurryPay Security (162:2686)
+
+Canvas: 1280 × 965.5
+
+- FlurryPay
+- Create new password
+- Your new password must be different from previous used passwords.
+- New Password
+- ••••••••••••
+- Confirm New Password
+- ••••••••••••
+- SECURITY REQUIREMENTS
+- At least 8 characters
+- One special symbol (!@#$%)
+- At least one number
+- Update Password
+- Once updated, you will be redirected to login.
+- END-TO-END ENCRYPTION
+- PCI DSS COMPLIANT
+- Password Secured
+- Your password has been successfully updated.
+- Preparing your secure workspace...
+
+## Pricing - FlurryPay (182:285)
+
+Canvas: 1280 × 3478.43994140625
+
+- TRANSPARENT PRICING
+- Predictable costs for unpredictable growth.
+- From your first cross-border payment to global enterprise scale, FlurryPay grows with you. No hidden fees, no complex tiers.
+- Individual
+- Starter
+- $20
+- /month
+- Perfect for freelancers and side projects starting their journey.
+- Up to 5 currencies
+- Standard settlement (T+3)
+- Community support
+- Get Started
+- Global Corp
+- Enterprise
+- Custom
+- Bespoke infrastructure for high-volume global operations.
+- Custom FX rates
+- Dedicated Account Manager
+- SLA guarantees
+- On-premise deployment
+- Contact Sales
+- Growing Teams
+- Scale
+- 0.1%
+- per transaction
+- Usage-based pricing that aligns with your
+- business success.
+- Unlimited currencies
+- Priority settlement (T+1)
+- API access & Webhooks
+- 24/7 Priority support
+- MOST POPULAR
+- Start Scaling
+- What you see is exactly what you pay.
+- We believe in radical transparency. No setup fees, no monthly minimums on Scale, and no surprise "maintenance" charges.
+- No Hidden Spreads
+- We use mid-market rates for all conversions.
+- No Onboarding Fee
+- Start integrating and testing for free instantly.
+- Live Fee Breakdown
+- Processing Amount
+- $10,000.00
+- Interchange Fee
+- $0.00
+- FX Markup
+- 0.00%
+- FlurryPay Commission (1.2%)
+- $120.00
+- Total Fee
+- $120.00
+- Deep-dive comparison
+- Compare technical features across all our tiers.
+- FEATURES
+- Starter
+- Scale
+- Enterprise
+- Multi-currency wallets
+- 5 Wallets
+- Unlimited
+- Unlimited
+- API Requests / min
+- 60 req/min
+- 1,000 req/min
+- Custom
+- Settlement speed
+- 3-5 Days
+- Next Day
+- Instant
+- Team seats
+- 2 Users
+- 15 Users
+- Unlimited
+- Custom Branding
+- SSO / SAML
+- Still have questions?
+- Our pricing experts are here to help you find the right fit for your business model.
+- Talk to Sales
+- Read Documentation
+- FlurryPay
+- The global financial infrastructure for the internet age.
+- PRODUCT
+- Multi-currency
+- Cross-border
+- RESOURCES
+- Documentation
+- API Reference
+- COMPANY
+- About Us
+- Careers
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Html → Body (183:910)
+
+Canvas: 1280 × 2333.8798828125
+
+- RESOURCES
+- Simple guides for global growth
+- Learn how to scale your business internationally with our straightforward product guides and industry insights.
+- ONBOARDING
+- Setting up your multi- currency wallet
+- A step-by-step walkthrough of creating and funding your first global accounts.
+- View Guide
+- SECURITY
+- Understanding 2FA and Biometrics
+- How we keep your treasury operations secure with enterprise-grade authentication.
+- View Guide
+- PAYMENTS
+- Optimizing cross-border payouts
+- Strategies to reduce settlement times and minimize transaction fees for your team.
+- View Guide
+- Frequently Asked Questions
+- How long do international transfers take?
+- Most local currency payouts are settled within 24 hours, while major corridors can take as little as 30 minutes.
+- Are there any hidden exchange rate fees?
+- No. We provide real-time mid-market rates with a clear, flat-fee structure disclosed before you confirm any trade.
+- Which countries do you support?
+- You can send and receive payments in 40+ currencies across 180+ countries globally.
+- Need more specific help?
+- Contact Support
+- +12
+- Our support team is here 24/7 to help with your integration.
+- Visit Help Center
+- FlurryPay
+- The global financial infrastructure for the internet age.
+- PRODUCT
+- Multi-currency
+- Cross-border
+- RESOURCES
+- Documentation
+- API Reference
+- COMPANY
+- About Us
+- Careers
+- FlurryPay
+- Products
+- Solutions
+- Pricing
+- Developers
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## Cross-border Payments - FlurryPay (185:1075)
+
+Canvas: 1484 × 3375.969970703125
+
+- 180+
+- COUNTRIES SUPPORTED
+- < 2s
+- SETTLEMENT TIME
+- 0.1%
+- PLATFORM FEE
+- 247
+- MARKET LIQUIDITY
+- Supported assets.
+- A curated selection of the world's most stable and liquid currencies, available instantly.
+- SEE ALL 180+ ASSETS
+- $
+- USD
+- US DOLLAR
+- €
+- EURO
+- EUROPEAN EURO
+- £
+- GBP
+- BRITISH POUND
+- ₵
+- GHS
+- GHANAIAN CEDI
+- ₿
+- BTC
+- BITCOIN
+- ₮
+- USDT
+- TETHER
+- GLOBAL RAILS V2.0 LIVE
+- Borderless velocity. Zero friction.
+- Settle transactions across 180+ countries in seconds. FlurryPay bridges the gap between traditional fiat banking and digital asset liquidity.
+- Start Transfer
+- View API Docs
+- NEW PAYMENT
+- Your Customer Sends
+- 5,000.00
+- $
+- USD
+- You RECEIVE
+- 72,450.50
+- ₦
+- NGN
+- Network Fee
+- $0.01
+- Exchange Rate
+- 1 USD = ₦1,400
+- Confirm & Execute
+- Fiat Rails
+- Direct SWIFT, SEPA, and local clearing integrations.
+- Crypto Liquidity
+- Instant conversion to BTC, ETH, USDT on-chain.
+- Compliance
+- Automated AML/KYC integrated into every flow.
+- Unified API
+- One single endpoint for global movement.
+- THE MULTI-RAIL ADVANTAGE
+- Bridge the gap between worlds.
+- Why choose between legacy banking and modern digital assets? FlurryPay provides a unified infrastructure that lets you move value seamlessly across any rail, any currency, at any time.
+- No hidden exchange markups
+- Programmatic settlement logic
+- Dedicated liquidity providers
+- Ready to scale your global operations?
+- Connect to our API in minutes and start moving value anywhere on earth. No paperwork, no delays.
+- Create Account
+- Contact Sales
+- Global financial infrastructure for modern enterprises.
+- PRODUCTS
+- Payments
+- Wallets
+- OTC
+- RESOURCES
+- Documentation
+- API Reference
+- Support
+- LEGAL
+- Privacy Policy
+- Terms of Service
+- © 2024 FlurryPay Inc. Built for global scale.
+- FlurryPay
+- Products
+- Pricing
+- Developers
+- Company
+- Log in
+- Get Started
+
+## Global Payouts - FlurryPay (185:1357)
+
+Canvas: 1484 × 3578.35302734375
+
+- INFRASTRUCTURE
+- GLOBAL DISBURSAL V2.0
+- Programmable payouts at planetary scale.
+- Automate mass distributions to vendors, contractors, and creators in 180+ countries. Bridge the gap between traditional banking rails and digital assets with a single API integration.
+- Explore API Docs
+- Contact Sales
+- LIVE_TRANSACTION_FEED
+- Payout to #8812
+- USD → SGD (Local Rail)
+- $4,250.00
+- COMPLETED
+- Creator Batch #09
+- USD → USDC (Polygon)
+- 12,400.00
+- PROCESSING...
+- Hybrid Settlement Engine
+- Switch between SWIFT, SEPA, and local clearing houses or instant stablecoin settlements (USDC/USDT) via one integration. Zero manual intervention required.
+- LOCAL RAILS
+- STABLECOINS
+- SWIFT
+- Developer API
+- Robust SDKs and RESTful endpoints designed for high-concurrency environments.
+- POST /v1/payouts
+- {
+- "amount": "1500.00",
+- "currency": "EUR",
+- "method": "SEPA_INSTANT"
+- }
+- Granular Tracking
+- Webhook notifications for every status change. From "Initiated" to "Settled," maintain 100% visibility.
+- APAC_ACTIVE
+- LATAM_ACTIVE
+- EMEA_ACTIVE
+- 180+ Countries Covered
+- Localized bank account validation and compliance checks baked directly into the flow.
+- The Payout Lifecycle
+- Streamlining complex global movement into three distinct steps.
+- Fund Account
+- Deposit via wire transfer or link your existing stablecoin treasury. Your balance is instantly reflected.
+- Upload Batch
+- Use our dashboard or API to send 1 or 10,000 payouts. We handle the currency conversion and rail routing.
+- Automated Settlement
+- Payments reach their destination via local instant rails. Real-time confirmation is pushed to your system.
+- $4.2B+
+- VOLUME PROCESSED
+- 180+
+- COUNTRIES
+- 99.99%
+- UPTIME SLA
+- < 2s
+- SETTLEMENT SPEED*
+- Ready to modernize your payout stack?
+- Join 500+ global enterprises using FlurryPay to power their marketplace distributions and vendor payments.
+- Get Started Now
+- Talk to an Expert
+- ESTIMATED SAVINGS
+- 45%
+- Reduction in cross-border fees vs
+- traditional banking.
+- Global financial infrastructure for modern enterprises.
+- PRODUCTS
+- Payments
+- Wallets
+- OTC
+- RESOURCES
+- Documentation
+- API Reference
+- Support
+- LEGAL
+- Privacy Policy
+- Terms of Service
+- © 2024 FlurryPay Inc. Built for global scale.
+- FlurryPay
+- Products
+- Pricing
+- Developers
+- Company
+- Log in
+- Get Started
+
+## Merchant Gateway - FlurryPay (185:1629)
+
+Canvas: 1484 × 4142.5498046875
+
+- UPTIME
+- 99.99%
+- SETTLEMENT
+- T+0 Real-time
+- COUNTRIES
+- 190+ Supported
+- LATENCY
+- < 180ms
+- Engineered for the modern merchant.
+- Our infrastructure handles the complexity of gas fees, network confirmations, and FX conversions so you don't have to.
+- Non-Custodial Architecture
+- Funds flow directly to your designated wallets. We never hold your keys.
+- Unified Reporting
+- Analyze fiat and crypto transactions in a single, consolidated dashboard.
+- Auto-Conversion
+- Instantly swap incoming crypto to stablecoins to mitigate volatility risk.
+- PCI-DSS Level 1
+- Lightning Network Ready
+- ENTERPRISE TRUST
+- "FlurryPay enabled us to open 40+ new markets in under a week by integrating crypto payments alongside our existing fiat stack."
+- Sarah Jenkins
+- CTO, Global Commerce Hub
+- Developer first. Always.
+- Integrate with 3 lines of code or use our robust SDKs.
+- Node.js
+- Python
+- Go
+- Rust
+- const flurry = require('@flurrypay/sdk'
+- )(process.env.FLURRY_SK);  
+- // Create a payment intent const intent = await flurry.paymentIntents.create({   amount: 5999,   currency: 'usd',   payment_method_types: ['card', 'crypto'],   metadata: { order_id: '6789' }
+- });  
+- console.log(`Checkout URL: ${intent.checkout_url}`);
+- REST API
+- WEBHOOKS
+- CLI TOOL
+- SDKS
+- Checkout
+- $1,240.00
+- Card or Fiat
+- Visa, MC, Apple Pay, SEPA
+- Cryptocurrency
+- BTC, ETH, USDT, USDC
+- Pay Now
+- SECURELY PROCESSED BY FLURRYPAY
+- const session = await flurry.checkout({
+- amount: 124000,
+- currency: 'USD',
+- methods: ['card', 'crypto']
+- });
+- UNIFIED CHECKOUT 2.0
+- One integration. Every currency.
+- FlurryPay bridges the gap between traditional finance and the digital asset economy. Accept USD, EUR, BTC, and USDT through a single, lightning-fast gateway.
+- Start Integrating
+- View API Docs
+- Ready to accept the future of money?
+- Join 5,000+ businesses using FlurryPay to scale their global revenue without the traditional banking friction.
+- Create Free Account
+- Talk to Sales
+- NO HIDDEN FEES • SETUP IN MINUTES • GLOBAL SUPPORT
+- Global financial infrastructure for modern enterprises.
+- PRODUCTS
+- Payments
+- Wallets
+- OTC
+- RESOURCES
+- Documentation
+- API Reference
+- Support
+- LEGAL
+- Privacy Policy
+- Terms of Service
+- © 2024 FlurryPay Inc. Built for global scale.
+- FlurryPay
+- Products
+- Pricing
+- Developers
+- Company
+- Log in
+- Get Started
+
+## OTC Desk - FlurryPay (185:1920)
+
+Canvas: 1484 × 4491.97412109375
+
+- INSTITUTIONAL GRADE OTC
+- Execute Large-Scale Settlements with Zero Slippage.
+- Direct access to deep global liquidity pools for high-volume transactions. FlurryPay’s OTC desk provides discreet, secure, and personalized execution for institutional clients.
+- Speak to a Trader
+- View Live Spreads
+- 24H OTC VOLUME
+- $412.8M
+- AVG EXECUTION SPEED
+- 140ms
+- LIQUIDITY DEPTH
+- $1B+
+- Prime Liquidity Pairs
+- Tight spreads on major fiat-to-crypto and cross-chain settlements. No hidden fees, just pure execution.
+- Live Market Access
+- ₿
+- $
+- BTC / USD
+- Institutional Sourcing
+- Spread
+- < 0.05%
+- Min Size
+- $100k
+- Ξ
+- €
+- ETH / EUR
+- Global Settlements
+- Spread
+- < 0.08%
+- Min Size
+- €100k
+- ₮
+- £
+- USDT / GBP
+- Stablecoin Gateway
+- Spread
+- < 0.03%
+- Min Size
+- £250k
+- THE FLURRYPAY PROTOCOL
+- A White-Glove Execution Model.
+- Direct Quote Request
+- Connect with your dedicated account manager via encrypted channels (Telegram, Signal, or Bloomberg Chat).
+- Algorithmic Sourcing
+- Our smart order routing engine scans 50+ liquidity providers to find the most efficient execution path.
+- T+0 Settlement
+- Post-trade settlement happens same-day across global timezones, ensuring your capital is always working.
+- OTC_TERMINAL_V.4.2
+- [10:42:01]
+- REQUEST_QUOTE: 250 BTC / USD
+- [10:42:02]
+- SCANNING LIQUIDITY...
+- [10:42:05]
+- BEST_PRICE FOUND: $64,212.45
+- [10:42:05]
+- EST_SLIPPAGE: 0.0001%
+- EXECUTION_STATUS
+- SETTLING
+- Global Presence. Local Compliance.
+- Our desk operates globally with 24/7 coverage, providing regulatory-compliant liquidity in over 60 countries.
+- 60+
+- FIAT CURRENCIES
+- 24/7
+- TRADING DESK
+- 99.9%
+- UPTIME RECORD
+- SECURE
+- SOC2 TYPE II
+- Experience Personalised Execution.
+- For transactions exceeding $10M, we offer bespoke algorithmic execution strategies tailored to your market impact constraints.
+- Direct Line
+- +1 (800) FLURRY-OTC
+- Institutional Desk
+- otc@flurrypay.com
+- Global financial infrastructure for modern enterprises.
+- PRODUCTS
+- Payments
+- Wallets
+- OTC
+- RESOURCES
+- Documentation
+- API Reference
+- Support
+- LEGAL
+- Privacy Policy
+- Terms of Service
+- © 2024 FlurryPay Inc. Built for global scale.
+- FlurryPay
+- Products
+- Pricing
+- Developers
+- Company
+- Log in
+- Get Started
+
+## Digital Wallet Services - FlurryPay (185:2249)
+
+Canvas: 1484 × 4048.320068359375
+
+- Engineered for absolute trust.
+- We've stripped away the complexity of blockchain to give you a wallet that feels like a premium banking app, but acts like a global vault.
+- [ KEY_PROTOCOL_ACTIVE ]
+- Unified Balances
+- Store GHS, USD, BTC, and USDT in a single view. No more switching between fragmented apps.
+- Instant Swap GHS/USD
+- Stablecoin Yields
+- Private Key Sovereignty
+- Your keys, your funds. Multi-party computation (MPC) ensures your assets remain inaccessible to anyone but you.
+- Biometric MFA
+- Air-Gapped Signatures
+- Real-time Settlements
+- Send funds globally in seconds. Our infrastructure bypasses traditional SWIFT delays for instant liquidity.
+- Lightning Network Ready
+- Low Transaction Fees
+- Global Liquidity, On Demand.
+- Access a diverse portfolio of assets without ever leaving your digital vault.
+- ₵
+- Ghana Cedi
+- Local Rails / GHS
+- $
+- US Dollar
+- Fiat Reserve / USD
+- ₿
+- Bitcoin
+- Digital Gold / BTC
+- ₮
+- Stablecoins
+- USDC & USDT / ERC-20
+- NEXT-GEN CUSTODY
+- One wallet. Infinite possibilities.
+- A high-performance digital wallet designed for the modern economy. Seamlessly manage GHS, USD, and digital assets with bank-grade security and developer-grade speed.
+- Create My Wallet
+- Security Protocol
+- 50+
+- ASSETS SUPPORTED
+- 1.2M+
+- ACTIVE WALLETS
+- FLURRY-PAY-OS v2.4
+- AVAILABLE BALANCE
+- $42,920.50
+- +2.4% Today
+- BTC
+- 1.402
+- GHS
+- 15.2k
+- TRANSACTION VERIFIED
+- 0.024 BTC Sent
+- GAS FEE
+- $0.12
+- THE USER EXPERIENCE
+- Simplicity as a feature.
+- We've spent thousands of hours perfecting the "Send" button. Sending money across the world should be as easy as sending a text message.
+- Scan & Pay
+- Instant QR recognition for merchant payments and peer-to-peer transfers.
+- Human-Readable Handles
+- Forget long hex addresses. Send to @username or a verified email address.
+- Ready to build the future of finance?
+- Integration takes minutes, not weeks. Start with our SDK today.
+- Get API Keys
+- Explore Documentation
+- Global financial infrastructure for modern enterprises.
+- PRODUCTS
+- Payments
+- Wallets
+- OTC
+- RESOURCES
+- Documentation
+- API Reference
+- Support
+- LEGAL
+- Privacy Policy
+- Terms of Service
+- © 2024 FlurryPay Inc. Built for global scale.
+- FlurryPay
+- Products
+- Pricing
+- Developers
+- Company
+- Log in
+- Get Started
+
+## Html → Body (237:2)
+
+Canvas: 1280 × 3162.25
+
+- v2.4.0-stable
+- API SYSTEMS OPERATIONAL
+- Built by engineers. Optimized for scale.
+- Integrate FlurryPay's global financial infrastructure with a few lines of code. Our SDKs and robust API are designed to handle millions of transactions with sub-millisecond latency.
+- Read Documentation
+- Get API Keys
+- checkout_session.js
+- const flurry = require('flurry-pay')('sk_test_4eC3...'
+- );  
+- const session = await flurry.checkout.sessions.create({
+- payment_method_types: ['card', 'ach'],
+- line_items: [{
+- price_data: {
+- currency: 'usd',
+- unit_amount: 2000,
+- product_data: { name: 'API Subscription' },
+-     },
+- quantity: 1,
+-   }],
+- mode: 'payment',
+- success_url: 'https://example.com/success',
+- });
+- JS
+- PY
+- GO
+- SDKs available
+- All major languages
+- Comprehensive Toolkit
+- Everything you need to build robust payment flows.
+- WEBHOOKS
+- Reliable event delivery with automatic retries and 256-bit signature verification.
+- EVENT_DELIVERY
+- 99.99%
+- FLURRY CLI
+- Listen for webhooks, trigger events, and manage keys directly from your terminal.
+- $ flurry listen --forward-to localhost:3000
+- COMPLIANCE
+- PCI-DSS Level 1 compliant infrastructure by default. We handle the security so you don't have to.
+- In-depth API Reference
+- Our documentation is updated in real-time with our codebase, featuring auto-generated request/response examples and error code catalogs.
+- Explore Docs
+- ISOLATED SANDBOX
+- Simulate everything.
+- Test edge cases, chargebacks, and complex 3DS flows without ever touching a real card.
+- Launch Sandbox
+- Experience the speed of integration.
+- Generate API Keys
+- Instant access to your test credentials in the Developer Dashboard.
+- Install the SDK
+- One command away: 
+- npm install @flurrypay/node
+- Make your first request
+- Post a test charge and see it appear in real-time in the dashboard.
+- POST
+- /v2/payment_intents
+- PAYLOAD
+- "amount": 2000, "currency": "usd", "payment_method": "pm_card_visa"
+- Send Request
+- RESPONSE
+- {   "id": "pi_3M2...",   "status": "succeeded",   "created": 1673294021 }
+- Ready to deploy?
+- Join 10,000+ developers building the future of commerce on FlurryPay.
+- Start Coding Now
+- Contact Dev Support
+- GLOBAL BACKBONE
+- Edge-optimized endpoints
+- Our API is served from 24 regions globally, ensuring sub-50ms latency for your users, wherever they are.
+- 24
+- CORE REGIONS
+- 12ms
+- US-EAST
+- 18ms
+- EU-WEST
+- 42ms
+- ASIA-NE
+- FLURRYPAY
+- Global financial infrastructure for the internet economy.
+- PRODUCT
+- Global Payments
+- Card Issuing
+- Embedded Finance
+- SOLUTIONS
+- E-commerce
+- SaaS Platform
+- Marketplaces
+- DEVELOPERS
+- Documentation
+- API Reference
+- Status
+- COMPANY
+- About Us
+- Careers
+- Privacy Policy
+- © 2024 FlurryPay Inc. All rights reserved.
+- Twitter
+- LinkedIn
+- GitHub
+- FlurryPay
+- Products
+- Developers
+- Solutions
+- Pricing
+- Resources
+- Contact
+- Log in
+- Create Account
+
+## FlurryPay Overview (241:2)
+
+Canvas: 1280 × 1603.5
+
+- Dashboard Overview
+- Create Payment Link
+- MONTHLY REVENUE
+- $582,900.00
+- +14.2% from last month
+- TOTAL CUSTOMERS
+- 12,842
+- +420 new this week
+- TOTAL AVAILABLE BALANCE
+- $142,850.42
+- USD
+- Pending Settlement
+- $12,403.00
+- Today's Revenue
+- +$4,291.50
+- Successful Payments
+- 98.4%
+- Failed Payments
+- 1.6%
+- Exchange Volume (24h)
+- $2.4M
+- Revenue Performance
+- Comparative analysis of weekly revenue trends
+- Week
+- Month
+- Gross Revenue
+- Net Profit
+- Currency Distribution
+- Volume by asset class
+- Live
+- DOMINANT
+- USD
+- USD Tether
+- 65%
+- $1.56M
+- Euro (EUR)
+- 25%
+- $0.60M
+- Others
+- 10%
+- $0.24M
+- Recent Activity
+- View all transactions
+- Type
+- Recipient / Sender
+- Amount
+- Status
+- Time
+- Payment Received
+- Acme Corp Ltd.
+- +$1,250.00 
+- USD
+- Completed
+- 2 mins ago
+- Currency Swap
+- BTC to USDT
+- $45,000.00 
+- USDT
+- Completed
+- 14 mins ago
+- Bank Withdrawal
+- J.P. Morgan Account
+- -$12,000.00 
+- USD
+- Processing
+- 1 hour ago
+- Payment Failed
+- Client #8921
+- $240.00 
+- USD
+- Declined
+- 3 hours ago
+- Search transactions, customers...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Payment Links - Overview (v2) (241:354)
+
+Canvas: 1280 × 1079
+
+- Payment Links
+- Create and manage your checkout experiences.
+- Create Link
+- TOTAL ACTIVE LINKS
+- 1,284
+- +12% from last month
+- TOTAL COLLECTED (MTD)
+- $42,890.00
+- Updated 2 mins ago
+- AVERAGE CONVERSION
+- 14.2%
+- +2.4% vs industry avg
+- Link History
+- Search link name...
+- Filter
+- LINK NAME
+- AMOUNT / CURRENCY
+- TOTAL PAYMENTS
+- STATUS
+- CREATED DATE
+- ACTIONS
+- Premium Membership (Annual)
+- flurrypay.com/l/prem_29a
+- $299.00
+- USD
+- 1,402
+- Active
+- Oct 12, 2023
+- Conference Early Bird Ticket
+- flurrypay.com/l/conf_eb24
+- €150.00
+- EUR
+- 845
+- Expired
+- Nov 05, 2023
+- Digital Asset Bundle v4.0
+- flurrypay.com/l/digi_v4
+- $49.00
+- USD
+- 2,110
+- Active
+- Dec 20, 2023
+- Showing 1-10 of 48 links
+- 1
+- 2
+- 3
+- Search...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Create Payment Link - Updated Preview (241:619)
+
+Canvas: 1280 × 1024
+
+- Dashboard content placeholder
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- Create Payment Link
+- Configure your shareable checkout page
+- Link Title
+- e.g. Consulting Fee
+- Amount
+- 0.00
+- USD
+- Description (Optional)
+- Explain what the customer is paying for...
+- Generate Payment Link
+- The link will be active as soon as you click generate.
+- LIVE CUSTOMER PREVIEW
+- 9:41
+- PAYING TO FINTECH SOLUTIONS
+- Link Title
+- $0.00
+- No description provided yet.
+- SHARE LINK
+- flurrypay.com/l/x7k2...
+- Pay Now
+
+## Streamlined Customer Checkout Flow (241:756)
+
+Canvas: 1280 × 1024.5
+
+- FlurryPay
+- SECURED
+- PAYMENT FOR
+- Professional Services Invoice
+- $2,450.00 
+- USD
+- 1. Method
+- 2. Payment
+- Pay with Crypto
+- BTC, ETH, USDT, USDC
+- Bank Transfer
+- Pay via IBAN, SEPA, or Local Transfer
+- 256-BIT SSL ENCRYPTED
+- Secure processing by FlurryPay
+
+## Transactions - Overview (241:827)
+
+Canvas: 1280 × 1059
+
+- PAYMENTS HISTORY
+- Transactions
+- VOLUME (24H)
+- $142,850.00
+- 12%
+- SUCCESS RATE
+- 99.2%
+- Search ID or Customer...
+- Last 30 Days
+- Status
+- Method
+- New Payment
+- TRANSACTION ID
+- DATE & TIME
+- CUSTOMER
+- AMOUNT
+- METHOD
+- STATUS
+- ACTIONS
+- TRX- 9482-XM
+- Oct 24, 2023
+- 14:22:10
+- JD
+- Jordan Davenport
+- jordan@example.com
+- $2,450.00 USD
+- Succeeded
+- Details
+- TRX- 7710-AB
+- Oct 24, 2023
+- 13:58:44
+- CS
+- Crypto Services Ltd
+- API Payment Link
+- 0.0421 BTC ≈ $1,580.20
+- Processing
+- Details
+- TRX- 2291-LK
+- Oct 24, 2023
+- 12:01:05
+- MS
+- Mila Sokolov
+- mila.s@domain.co
+- $12,000.00 EUR
+- Pending
+- Details
+- TRX- 5503-RT
+- Oct 23, 2023
+- 22:45:19
+- BK
+- Ben Kingston
+- Card Declined
+- $145.50 GBP
+- Failed
+- Retry
+- Showing 1 to 10 of 2,492 entries
+- 1
+- 2
+- 3
+- ...
+- 249
+- Search transactions, customers...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Real-time update
+- New transaction succeeded: $1,200.00 via Bank
+
+## Wallets Overview (241:1167)
+
+Canvas: 1280 × 1049
+
+- Wallets Overview
+- Manage your multi-currency and crypto balances.
+- Quick Exchange
+- Add New Wallet
+- TOTAL BALANCE (USD)
+- $1,245,89
+- +4.2%
+- vs last month
+- US Dollar
+- $850,000.00
+- Euro
+- €245,500.00
+- Bitcoin
+- 2.45 BTC
+- ~$150,390.50 USD
+- Wallet Management
+- ASSET
+- BALANCE
+- USD VALUE
+- STATUS
+- ACTIONS
+- US Dollar
+- Primary Operating
+- $850,000.00
+- $850,000.00
+- Active
+- Euro
+- EU Operations
+- €245,500.00
+- ~$270,050.00
+- Active
+- Bitcoin
+- Treasury Reserve
+- 2.45000000 BTC
+- ~$150,390.50
+- Active
+- Ethereum
+- Smart Contracts
+- 12.50000000 ETH
+- ~$25,450.00
+- Active
+- Search transactions, customers...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Quick Exchange Modal (241:1474)
+
+Canvas: 1280 × 1195
+
+- Wallets Overview
+- Manage your balances and recent activity.
+- USD Wallet
+- Primary
+- $124,592.00
+- BTC Wallet
+- Crypto
+- 2.4501 BTC
+- Portfolio performance chart
+- Search transactions, customers...
+- Fintech Solutions Merchant
+- Admin Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- Treasury
+- Multi-Currency
+- Global Deposits
+- Crypto
+- Customers
+- Developers
+- Activity Logs
+- Settings
+- Quick Exchange
+- Exchange Rate
+- 1 BTC = $65,659.43 USD
+- Fee (0.1%)
+- $10.00
+- FROM
+- Balance: 
+- $124,592.00
+- USD
+- 10,000
+- TO (ESTIMATED)
+- Balance: 
+- 2.4501 BTC
+- BTC
+- 0.1523
+- Cancel
+- Confirm Exchange
+
+## Add New Wallet - Redesigned Modal (241:1683)
+
+Canvas: 1280 × 1024
+
+- Search transactions, customers...
+- Fintech Solutions Merchant
+- Admin Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- Treasury
+- Multi-Currency
+- Global Deposits
+- Crypto
+- Customers
+- Developers
+- Activity Logs
+- Settings
+- Add New Wallet
+- Step 1 of 2: Select Asset
+- Fiat
+- Crypto
+- Search currencies...
+- $
+- US Dollar
+- USD
+- €
+- Euro
+- EUR
+- £
+- British Pound
+- GBP
+- Bitcoin
+- BTC
+- Ξ
+- Ethereum
+- ETH
+- C$
+- Canadian Dollar
+- CAD
+- Name your wallet
+- e.g. Operations Fund
+- Cancel
+- Create Wallet
+
+## Add New Wallet - Crypto Selection State (241:1905)
+
+Canvas: 1280 × 1024
+
+- Search transactions, customers...
+- Fintech Solutions Merchant
+- Admin Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- Treasury
+- Multi-Currency
+- Global Deposits
+- Crypto
+- Customers
+- Developers
+- Activity Logs
+- Settings
+- Add New Wallet
+- Step 1 of 2: Select Asset
+- Fiat
+- Crypto
+- Search currencies...
+- Bitcoin
+- BTC
+- Ξ
+- Ethereum
+- ETH
+- ₮
+- Tether
+- USDT
+- S
+- Solana
+- SOL
+- ₳
+- Cardano
+- ADA
+- X
+- Ripple
+- XRP
+- Name your wallet
+- e.g. Operations Fund
+- Cancel
+- Create Wallet
+
+## US Dollar Wallet Details (241:2127)
+
+Canvas: 1280 × 1313.75
+
+- Back to Overview
+- US Dollar Wallet
+- AVAILABLE BALANCE
+- $850,000.00
+- +2.4% this week
+- Deposit
+- Withdraw
+- VOLUME (7D)
+- Inflow
+- +$45,200
+- Outflow
+- -$12,850
+- Asset Performance
+- 7D
+- 30D
+- 1Y
+- Oct 1
+- Oct 8
+- Oct 15
+- Oct 22
+- Oct 29
+- Recent Activity
+- View All
+- TRANSACTION
+- DATE
+- STATUS
+- AMOUNT
+- Stripe Payout
+- Deposit
+- Today, 09:41 AM
+- Completed
+- +$12,500.00
+- Transfer to EUR Wallet
+- Internal Transfer
+- Yesterday, 14:22 PM
+- Completed
+- -$5,000.00
+- Monthly Maintenance Fee
+- System Fee
+- Oct 01, 00:00 AM
+- Completed
+- -$15.00
+- Withdrawal to Chase Bank
+- Wire Transfer
+- Sep 28, 16:45 PM
+- Processing
+- -$25,000.00
+- Search transactions, customers...
+- Fintech Solutions Merchant
+- Admin Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Developer Hub (280:2468)
+
+Canvas: 1280 × 1354.949951171875
+
+- Developer Hub
+- Manage your API credentials, monitor integration health, and access developer resources.
+- Systems Operational
+- API REQUESTS (30D)
+- 1,248,932
+- 12%
+- ACTIVE WEBHOOKS
+- 14
+- Endpoints
+- 98% delivery rate
+- ERROR RATE (24H)
+- 0.02%
+- 0.05%
+- Well within 1% SLA
+- API Keys
+- Manage your authentication tokens for API access.
+- Create New Key
+- NAME
+- TOKEN
+- CREATED
+- STATUS
+- ACTIONS
+- Production App
+- Last used 2m ago
+- fp_live_***********8x9a
+- Oct 12, 2023
+- Active
+- Webhook Listener
+- Last used 1h ago
+- fp_live_***********2m4q
+- Nov 04, 2023
+- Active
+- Legacy Integration
+- Revoked Jan 10, 2024
+- fp_live_***********9p2z
+- Aug 22, 2022
+- Revoked
+- Active Webhooks
+- Manage All
+- Payment Status Updates
+-    100%SUCCESS
+- https://api.acmecorp.com/webhooks/flurry
+- payment.succeeded
+- payment.failed
+- Customer Sync
+- 99.8% SUCCESS
+- https://hooks.acmecorp.com/v1/customers
+- customer.created
+- customer.updated
+- Quick Reference
+- BASE URL (PRODUCTION)
+- https://api.flurrypay.com/v1
+- Read Full Documentation
+- Guides, API reference, and examples.
+- Official SDKs
+- Integrate faster with our language- specific libraries.
+- Node
+- Node.js SDK
+- Py
+- Python SDK
+- Go
+- Go SDK
+- Need Technical Help?
+- Our developer success team is available 24/7.
+- Contact Developer Support
+- Search transactions, APIs...
+- Docs
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Create New API Key (280:2816)
+
+Canvas: 1280 × 1104
+
+- Create API Key
+- Generate a new key for API access. Keep this secure.
+- Environment
+- Sandbox
+- Production
+- Key Name
+- e.g., Mobile App Integration
+- Expiration
+- No expiration
+- Permissions
+- Select All
+- PAYMENTS
+- Read
+- Write
+- CUSTOMERS
+- Read
+- Write
+- WALLETS & LEDGERS
+- Read Wallets
+- Write Transfers
+- Cancel
+- Generate Key
+- Search transactions, APIs...
+- Docs
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Html → Body (281:3012)
+
+Canvas: 1280 × 1104.5
+
+- Add Webhook Endpoint
+- CONFIGURATION
+- Endpoint URL
+- * Required
+- https://api.yourdomain.com/webhooks
+- POST
+- Environment
+- Sandbox
+- Production
+- API Version
+- 2023-10-24 (Latest)
+- Description (Optional)
+- e.g., Main billing event listener
+- EVENTS TO SEND
+- Select All
+- Payments
+- payment.succeeded
+- payment.failed
+- payment.refunded
+- Wallets
+- wallet.created
+- wallet.updated
+- Cancel
+- Add Endpoint
+- Search transactions, APIs...
+- Docs
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Merchant Settings (282:3181)
+
+Canvas: 1280 × 1024
+
+- Merchant Settings
+- Manage your business profile, adjust display preferences, and configure security parameters for your FlurryPay account.
+- Business Profile
+- Display Preferences
+- Security
+- Notifications
+- Acme Corp Global
+- Enterprise Merchant ID: FP-892-XQ
+- LEGAL BUSINESS NAME
+- Acme Corporation Ltd.
+- INDUSTRY CLASSIFICATION
+- Financial Services
+- SUPPORT EMAIL
+- support@acmecorp.com
+- SUPPORT PHONE
+- +1 (555) 019-2834
+- Cancel
+- Update Settings
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Logout Confirmation (282:3332)
+
+Canvas: 1280 × 1024
+
+- Settings
+- Manage your account preferences and security.
+- Merchant User
+- admin@flurrypay.com
+- Company Name
+- FlurryPay Inc.
+- Merchant ID
+- MERCH-99382-XYZ
+- Security
+- Change Password
+- Two-Factor Auth
+- Enabled
+- Confirm Logout
+- Are you sure you want to log out of FlurryPay? You will need to re-authenticate to access your merchant dashboard.
+- Cancel
+- Yes, Logout
+- FlurryPay
+- Overview
+- Payments
+- Wallet
+- Multi-Currency
+- Global Deposits
+- Crypto
+- Customers
+- Developers
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Onboarding - Step 1: Business Information (Refined) (304:1448)
+
+Canvas: 1280 × 1668
+
+- Verify your business
+- To enable live payments and unlock higher limits, we need to verify your business identity.
+- Basic Details
+- Legal Business Name
+- e.g. Acme Corp LLC
+- Business Type
+- Select type...
+- Business Registration Number (EIN/CRN/VAT)
+- XX-XXXXXXX
+- Operations
+- Year of Incorporation
+- YYYY
+- Industry Category
+- Select industry...
+- Business Website
+- https://example.com
+- Estimated Monthly Transaction Volume
+- Select volume...
+- Primary Business Address
+- Street Address
+- 123 Business St, Suite 100
+- City
+- San Francisco
+- State / Province
+- CA
+- ZIP / Postal Code
+- 94103
+- Country
+- Select country...
+- Company Description
+- Optional
+- Provide a brief description of your business...
+- Max 500 characters
+- Back
+- Continue
+- Why do we need this?
+- Financial regulations require us to verify the identity of every business using FlurryPay. This helps keep the payment ecosystem safe and prevents fraud.
+- ONBOARDING CHECKLIST
+- 1. Business Information
+- 2. Identity Verification
+- 3. Legal Compliance
+- 4. Proof of Address
+- 5. Review & Submit
+- © 2024 FlurryPay Inc. All rights reserved.
+- Privacy Policy
+- Terms of Service
+- Help Center
+- FlurryPay
+- VERIFICATION PROGRESS
+- Step 1 of 5
+
+## Onboarding - Step 2: Identity Verification (304:1668)
+
+Canvas: 1280 × 1256
+
+- Verify your identity
+- As a key stakeholder, we need to verify your personal identity to comply with regulations. This helps us keep FlurryPay secure.
+- 1. SELECT DOCUMENT TYPE
+- Passport
+- Driver's License
+- National ID
+- 2. UPLOAD DOCUMENT
+- JPG, PNG, PDF (Max 5MB)
+- Drag & drop your file here
+- or click to browse
+- 3. SELFIE VERIFICATION
+- Capture
+- Match your ID
+- Ensure you are in a well-lit area. Remove any hats or sunglasses. Look directly into the camera to capture a clear photo of your face.
+- Take Selfie
+- Previous Step
+- Continue
+- Bank-grade Security
+- Your data is encrypted using AES-256 and stored in compliance with SOC 2 Type II standards. We never share your personal information with third parties.
+- © 2024 FlurryPay Inc. All rights reserved.
+- Privacy Policy
+- Terms of Service
+- Help Center
+- FlurryPay
+- VERIFICATION PROGRESS
+- Step 2 of 5
+
+## Onboarding - Step 3: Legal Compliance (304:1796)
+
+Canvas: 1280 × 1424
+
+- Previous Step
+- Legal & Compliance
+- Please provide the legal documentation required for your business type. This ensures we meet all regulatory requirements.
+- Compliance Documents
+- REQUIRED
+- Drag & drop your documents here
+- or click to browse from your computer
+- SUPPORTED:
+- PDF
+- JPG
+- PNG
+- Choose Files
+- No file chosen
+- Certificate_of_Incorporation.pdf
+- 100%
+- Tax_ID_Document (Pending Upload)
+- 0%
+- Additional Information
+- Source of Funds
+- Select primary source
+- Expected Monthly Volume
+- 0.00
+- $
+- Continue to Step 4
+- Why we need this
+- As a regulated financial institution, FlurryPay is required by law to verify the identity and legal standing of all businesses operating on our platform. This helps prevent fraud and ensures a secure network for everyone.
+- Bank-Level Security
+- Your documents are encrypted using AES-256 and stored securely in our isolated vault.
+- © 2024 FlurryPay Inc. All rights reserved.
+- Privacy Policy
+- Terms of Service
+- Help Center
+- FlurryPay
+- VERIFICATION PROGRESS
+- Step 3 of 5
+
+## Onboarding - Step 4: Proof of Address (304:1943)
+
+Canvas: 1280 × 1314
+
+- Step 4: Compliance
+- Verify your address
+- Provide a document that confirms your current place of residence. This helps us comply with local regulations and secure your account.
+- Document Requirements
+- Issued within the last 3 months
+- Shows your full legal name
+- Matches the address provided earlier
+- PCI-DSS
+- AES-256
+- GDPR
+- SELECT DOCUMENT TYPE
+- Utility Bill
+- Electricity, water, gas, or landline phone bills.
+- Bank Statement
+- Official statements from retail banks or credit unions.
+- UPLOAD DOCUMENT
+- Drop your file here
+- or click to browse from your device
+- PDF
+- JPG/PNG
+- MAX 10MB
+- Previous Step
+- Continue to Step 5
+- © 2024 FlurryPay Inc. All rights reserved.
+- Privacy Policy
+- Terms of Service
+- Help Center
+- FlurryPay
+- VERIFICATION PROGRESS
+- Step 1 of 4
+
+## Onboarding - Step 5: Final Review (304:2094)
+
+Canvas: 1280 × 1578
+
+- 1
+- Business Info
+- 2
+- Compliance
+- 3
+- Identity
+- 4
+- Proof of Address
+- 5
+- Review
+- Review and Submit
+- Please review the information provided. Once submitted, our team will begin the verification process.
+- Business Details
+- Edit
+- LEGAL BUSINESS NAME
+- Acme Corporation Ltd.
+- REGISTRATION NUMBER
+- CRN-987654321
+- REGISTERED ADDRESS
+- 123 Financial District, Suite 400 New York, NY 10004 United States
+- Compliance Documents
+- Edit
+- Certificate of Incorporation
+- cert_incorp_acme.pdf
+- Identity Details (Director)
+- Edit
+- FULL NAME
+- Jane Doe
+- DATE OF BIRTH
+- 1985-04-12
+- ID VERIFICATION
+- Verified
+- Proof of Address
+- Edit
+- Utility Bill
+- utility_bill_acme.pdf
+- Final Declarations
+- I confirm that all the information provided in this application is true, accurate, and complete to the best of my knowledge. I understand that false statements may lead to account suspension or legal action.
+- I have read and agree to the Terms of Service and Privacy Policy of FlurryPay.
+- Previous
+- Submit for Verification
+- © 2024 FlurryPay Inc. All rights reserved.
+- Privacy Policy
+- Terms of Service
+- Help Center
+- FlurryPay
+- VERIFICATION PROGRESS
+- Step 5 of 5
+
+## OTC Desk Dashboard (306:2290)
+
+Canvas: 1280 × 1196
+
+- OTC Desk
+- Execute high-volume trades with deep liquidity and dedicated support.
+- Request Quote
+- New Trade
+- 30D OTC VOLUME
+- $12,450,000
+- +15.2% vs last month
+- PENDING QUOTES
+- 3
+- Requires review
+- COMPLETED (YTD)
+- 142
+- Avg execution: 4.2 mins
+- Active Quotes
+- View All
+- PAIR
+- TYPE
+- AMOUNT
+- QUOTE PRICE
+- STATUS
+- ACTION
+- BTC / USD
+- Buy
+- 15.5 BTC
+- $64,210.50
+- 02:45
+- Accept
+- ETH / USDT
+- Sell
+- 250.0 ETH
+- $3,450.25
+- 00:15
+- Accept
+- BTC/USD Market Depth
+- Live
+- 1H
+- 24H
+- 7D
+- SPREAD
+- $12.50
+- Recent Activity
+- Bought BTC
+- Today, 14:32
+- +10.5 BTC
+- $674,205.00
+- Sold ETH
+- Today, 09:15
+- -500.0 ETH
+- $1,725,000.00
+- Bought SOL
+- Yesterday, 16:45
+- +10,000 SOL
+- $1,450,000.00
+- Sold USDC
+- Yesterday, 11:20
+- -2,000,000 USDC
+- $2,000,000.00
+- Bought BTC
+- Oct 24, 08:30
+- +5.0 BTC
+- $320,000.00
+- View Full History
+- Search portal...
+- Acme Corp
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Request OTC Quote (306:2640)
+
+Canvas: 1280 × 1358
+
+- OTC TRADING DESK
+- Request Block Trade
+- Secure, large-volume crypto execution with guaranteed zero slippage and instantaneous settlement options.
+- CURRENT MARKET VOLUME
+- $42.8M
+- Trade Parameters
+- Step 1 of 2
+- Buy Crypto
+- Sell Crypto
+- Target Asset
+- Bitcoin (BTC)
+- Trade Amount
+- Use Max
+- 0.00
+- USD
+- Settlement Currency
+- USD
+- FedWire
+- EUR
+- SEPA
+- GBP
+- CHAPS
+- USDC
+- ERC-20
+- Execution Details
+- Step 2 of 2
+- Destination Address
+- Address Book
+- Enter wallet address or ENS domain
+- Settlement Speed
+- Instant Execution
+- Guaranteed price lock for 30 seconds. Higher spread.
+- TWAP (24h)
+- Time-weighted average price to minimize market impact.
+- Institutional Grade
+- Assets held in SOC2 compliant cold storage.
+- Request Quote
+- Search portal...
+- Acme Corp
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Trade History (306:2861)
+
+Canvas: 1280 × 1106
+
+- Trade History
+- View and manage all your OTC desk transactions.
+- Export CSV
+- New Trade
+- Search Trade ID or Counterparty
+- Date Range
+- Asset
+- Status
+- Clear Filters
+- TRADE ID
+- DATE & TIME
+- PAIR
+- SIDE
+- AMOUNT
+- PRICE
+- STATUS
+- COUNTERPARTY
+- TRD-9281A
+- Oct 24, 2023 · 14:32:05
+- ₿
+- BTC/USD
+- BUY
+- 12.50000000
+- $34,210.50
+- Completed
+- Wintermute
+- TRD-8472B
+- Oct 24, 2023 · 11:15:22
+- Ξ
+- ETH/USD
+- SELL
+- 150.00000000
+- $1,780.25
+- Completed
+- Cumberland
+- TRD-7731C
+- Oct 24, 2023 · 09:05:11
+- ₮
+- USDT/EUR
+- BUY
+- 500,000.00
+- €0.9450
+- Pending
+- B2C2
+- Showing 1 to 3 of 128 entries
+- 1
+- 2
+- 3
+- ...
+- Search portal...
+- Acme Corp
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Crypto Dashboard (306:3176)
+
+Canvas: 1280 × 1056
+
+- TOTAL CRYPTO BALANCE
+- $124,582.40
+- 2.4% (24h)
+- Buy
+- Sell
+- Swap
+- Performance
+- 1D
+- 1W
+- 1M
+- 1Y
+- Your Assets
+- Bitcoin
+- BTC
+- 1.2450 BTC
+- $82,145.20
+- Ethereum
+- ETH
+- 12.8000 ETH
+- $34,560.00
+- Tether
+- USDT
+- 7,877.20 USDT
+- $7,877.20
+- STAKING APY UP TO 8%
+- Explore Options →
+- Recent Activity
+- Today, 10:42 AM
+- Bought 0.05 BTC
+- -$3,298.50 from USD Wallet
+- Yesterday, 14:20 PM
+- Swapped 2.5 ETH to USDT
+- +$6,750.00 USDT
+- Oct 12, 09:15 AM
+- Received 500 USDT
+- From External Address
+- Oct 10, 16:00 PM
+- Sold 1.0 ETH
+- +$2,700.00 to USD Wallet
+- View All Transactions
+- Search portal...
+- Acme Corp
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Buy Crypto (306:3404)
+
+Canvas: 1280 × 1024
+
+- Buy Crypto
+- YOU PAY
+- Balance: $12,450.00
+- 1,000
+- $
+- USD
+- YOU RECEIVE
+- 0.0152
+- BTC
+- 1 BTC = $65,742.10
+- View Chart
+- Network Fee
+- $2.50
+- FlurryPay Fee
+- Free
+- Buy Bitcoin
+- Bank-Grade Security
+- PCI-DSS Compliant
+- Search transactions, customers...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Sell Crypto (306:3591)
+
+Canvas: 1280 × 1084
+
+- Sell Crypto
+- Convert your crypto to fiat instantly
+- YOU SELL
+- BALANCE: 1.254 BTC
+- Bitcoin
+- BTC
+- 0.15
+- MAX
+- YOU RECEIVE (EST.)
+- US Dollar
+- USD
+- $9,482.50
+- Exchange Rate
+- 1 BTC = $63,216.67
+- Network Fee
+- 0.0001 BTC (~$6.32)
+- Total Settlement
+- $9,476.18
+- Sell & Withdraw
+- Search transactions, customers...
+- Fintech Solutions
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Institutional Buy/Sell (306:3769)
+
+Canvas: 1280 × 1088
+
+- Swap
+- Exchange Rate
+- 1 BTC = 63,758.20 USDC
+- Network Fee
+- ~12.50 USDC
+- Destination
+- Vault Alpha (3FZb...9pxC)
+- PAY
+- Balance: 124,500 USDC
+- 50,000
+- USDC
+- RECEIVE
+- 0.7842
+- BTC
+- Review Order
+- SECURE OTC DESK • REGULATED EXECUTION
+- Search portal...
+- Acme Corp
+- MERCHANT
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Bitcoin (BTC) Details - Refined (307:3951)
+
+Canvas: 1280 × 1598.4110107421875
+
+- Bitcoin
+- BTC
+- 12.4500 
+- BTC
+- ≈ $812,450.20
+- Send
+- Receive
+- Buy
+- Sell
+- Swap
+- $65,241.12
+- +4.25% (24h)
+- 1D
+- 1W
+- 1M
+- 1Y
+- ALL
+- Mar 1
+- Mar 3
+- Mar 5
+- Mar 7
+- Today
+- Recent Activity
+- View All
+- TRANSACTION
+- DATE & TIME
+- AMOUNT (BTC)
+- VALUE (USD)
+- STATUS
+- Received Bitcoin
+- From: 1A1zP1eP5QGefi2DMPTfTL5SLmv7DivfNa
+- Today, 14:23
+- +0.5000
+- +$32,620.56
+- Completed
+- Sent to Cold Wallet
+- To: 3J98t1WpEZ73CNmQviecrnyiWrnqRhWNLy
+- Yesterday, 09:15
+- -2.0000
+- -$130,482.24
+- Completed
+- Swapped for USDC
+- Rate: 1 BTC = $64,800.00
+- Mar 5, 2024
+- -0.2500
+- -$16,200.00
+- Completed
+- Bought via ACH
+- Chase Bank ****4589
+- Mar 1, 2024
+- +1.1500
+- +$72,450.00
+- Completed
+- Search transactions...
+- Merchant HQ
+- Pro Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+- Logout
+
+## Send Crypto Assets (307:4206)
+
+Canvas: 1280 × 1087
+
+- Send Bitcoin
+- Recipient Address
+- Enter BTC address
+- Select Network
+- Bitcoin Network
+- Amount to Send
+- Balance: 2.45 BTC
+- 0.00
+- BTC
+- MAX
+- ~ $0.00 USD
+- Network Fee
+- 0.0001 BTC
+- Estimated Arrival
+- ~10 Minutes
+- Send Bitcoin
+- Search transactions, customers...
+- Fintech Solutions Merchant
+- Admin Account
+- FlurryPay
+- Overview
+- PAYMENTS
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Teams
+- Developers
+- Activity Logs
+- Settings
+
+## Team Directory (310:2)
+
+Canvas: 1280 × 1024
+
+- Team Directory
+- Manage your organization's members, control access levels, and invite new collaborators to FlurryPay.
+- Invite Team Member
+- Search by name or email...
+- All Roles
+- Admin
+- Manager
+- Developer
+- Staff
+- MEMBER
+- ROLE
+- STATUS
+- DATE ADDED
+- ACTIONS
+- Elena Rodriguez
+- elena.r@flurrypay.com
+- Admin
+- Active
+- Oct 12, 2023
+- Marcus Chen
+- m.chen@flurrypay.com
+- Developer
+- Active
+- Nov 05, 2023
+- SJ
+- Sarah Jenkins
+- s.jenkins@flurrypay.com
+- Manager
+- Pending
+- Jan 18, 2024
+- Showing 3 of 24 members
+- Previous
+- Next
+- Search transactions...
+- FlurryPay
+- Overview
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Customers
+- Developers
+- Team
+- Activity Logs
+- Settings
+
+## Invite Team Member (310:207)
+
+Canvas: 1280 × 1080
+
+- Invite Team Member
+- Add a new member to your FlurryPay organization.
+- Full Name
+- e.g. Jane Doe
+- Email Address
+- jane@example.com
+- Role
+- Viewer
+- Permission Preview
+- Read-only access to transactions, payment links, and overview. Cannot initiate payments, create API keys, or modify settings.
+- Cancel
+- Send Invitation
+- Search transactions...
+- FlurryPay
+- Overview
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Customers
+- Developers
+- Team
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Role Permissions Access (310:342)
+
+Canvas: 1280 × 1217
+
+- MODULE ACCESS
+- READ ONLY
+- READ / WRITE
+- FULL ADMIN
+- STATUS
+- Payments
+- Process transactions, handle refunds, and manage fiat…
+- ACTIVE
+- Wallets
+- View balances, generate addresses, and initiate…
+- ACTIVE
+- Team Management
+- Invite users, assign roles, and audit access logs.
+- BLOCKED
+- OTC Desk
+- Execute large-volume trades, manage liquidity…
+- ACTIVE
+- ROLE MANAGEMENT
+- Staff Member
+- Manage access controls and functional permissions for standard internal staff operations across all modules.
+- Duplicate Role
+- Save Changes
+- Security Advisory
+- The 'Full Admin' permission bypasses secondary approval flows. Assign with caution to maintain compliance standards.
+- Approval Routing
+- Transactions exceeding $50,000 initiated by Staff require Level 2 authorization.
+- ROUTING LOGIC
+- View Rules
+- Search transactions...
+- FlurryPay
+- Overview
+- Payment Links
+- Transactions
+- Wallet
+- OTC Desk
+- Crypto
+- Customers
+- Developers
+- Team
+- Activity Logs
+- Settings
+- Merchant User
+- Admin
+
+## Html → Body (312:736)
+
+Canvas: 1280 × 1010.5
+
+- Team Activity
+- Monitor administrative actions and security-related events across your organization.
+- Export CSV
+- Search staff name or action...
+- Any Date
+- All Roles
+- All Actions
+- ACTOR
+- ACTION
+- DATE & TIME
+- STATUS
+- Alex Sterling
+- alex@flurrypay.com
+- Generated new API Key
+- Role: Admin • IP: 192.168.1.104
+- Oct 24, 2023
+- 14:32:05
+- Success
+- Elena Rodriguez
+- elena@flurrypay.com
+- Changed permissions for 'Dev Team'
+- Role: Manager • IP: 10.0.0.52
+- Oct 24, 2023
+- 11:15:22
+- Success
+- System Service
+- automated@flurrypay.com
+- Failed Login Attempt
+- Role: System • IP: 203.0.113.45
+- Oct 23, 2023
+- 23:45:10
+- Warning
+- Marcus Chen
+- marcus@flurrypay.com
+- Invited new user: Sarah Jenkins
+- Role: Admin • IP: 192.168.1.200
+- Oct 23, 2023
+- 09:12:45
+- Success
+- Unknown Actor
+- N/A
+- Multiple Failed Logins Detected
+- Role: N/A • IP: 45.33.22.11
+- Oct 22, 2023
+- 02:30:11
+- Blocked
+- Showing 1-5 of 142 events
+- Search transactions, customers...
+- Alex Sterling
+- Admin Account
+- FlurryPay
+- Overview
+- Payments
+- Payment Links
+- Transactions
+- Wallet
+- Treasury
+- Multi-Currency
+- Global Deposits
+- Crypto
+- Customers
+- Developers
+- Activity Logs
+
+## Create Payment Link (NGN) - Premium (327:2)
+
+Canvas: 1280 × 1120
+
+- Create Payment Link
+- Generate a secure link to collect instant payments globally in Nigerian Naira.
+- NGN
+- 0.00
+- AMOUNT
+- e.g. Design Consulting Retainer
+- DESCRIPTION (OPTIONAL)
+- Generate Secure Link
+- Search transactions, customers, or API docs...
+- FlurryPay
+- MAIN
+- Overview
+- Payments
+- Transactions
+- FINANCES
+- Wallet
+- Multi-Currency
+- Global Deposits
+- Crypto
+- MANAGEMENT
+- Customers
+- Developers
+- Activity Logs
+- Flurry Merchant
+- Premium Account
+
+## Payment Link Ready - Premium QR Preview (327:130)
+
+Canvas: 1280 × 1167
+
+- SECURE PAYMENT SESSION
+- Aura Roasters
+- TERMINAL ID: #8492-X
+- AMOUNT DUE
+- ₦
+- 14,500
+- .00
+- Share Link
+- Done
+- Ask the customer to scan this code with their banking app to complete payment.
+
+## Checkout - Premium Order Preview (327:205)
+
+Canvas: 1280 × 1161
+
+- PAYING TO
+- Aura Roasters
+- Total Amount
+- $
+- 42.50
+- Ethiopian Yirgacheffe Beans (250g)
+- $28.00
+- Oat Milk Flat White
+- $6.50
+- Almond Croissant
+- $8.00
+- Pay Now
+- Secured by FlurryPay Encrypted Network
+- Search transactions, customers, or API docs...
+- FlurryPay
+- MAIN
+- Overview
+- Payments
+- Transactions
+- FINANCES
+- Wallet
+- Multi-Currency
+- Global Deposits
+- Crypto
+- MANAGEMENT
+- Customers
+- Developers
+- Activity Logs
+- Flurry Merchant
+- Premium Account
+
+## Customer Terminal - Select Method (327:346)
+
+Canvas: 1280 × 1024
+
+- Verified Merchant
+- Select Payment Method
+- Choose your preferred way to fund this transaction. All methods are encrypted and settled instantly.
+- Pay with Crypto
+- Supported Assets:
+- B
+- E
+- T
+- +12 more
+- OR
+- Bank Transfer
+- ACH, Wire, SEPA, SWIFT
+- End-to-end encrypted by FlurryShield™
+
+## Checkout - Premium Crypto Details (327:417)
+
+Canvas: 1280 × 1324.6666259765625
+
+- PAYING TO
+- Acme Corp. Services
+- Total Amount Due
+- $4,250.00
+- USD
+- 1
+- Select Asset
+- Bitcoin
+- BTC
+- 2
+- Select Network
+- Bitcoin Network
+- AMOUNT TO SEND
+- 0.14729
+- BTC
+- Rate guaranteed for 14:59
+- bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh
+- I've made the payment
+- Transaction will be verified automatically after 3 network confirmations.
+- Search transactions, customers, or API docs...
+- FlurryPay
+- MAIN
+- Overview
+- Payments
+- Transactions
+- FINANCES
+- Wallet
+- Multi-Currency
+- Global Deposits
+- Crypto
+- MANAGEMENT
+- Customers
+- Developers
+- Activity Logs
+- Flurry Merchant
+- Premium Account
+
+## Customer Terminal - Bank Transfer (Currency Switcher) (327:596)
+
+Canvas: 1280 × 1076
+
+- Back to Payment Methods
+- 🇳🇬
+- NGN
+- 🇺🇸
+- USD
+- 🇪🇺
+- EUR
+- 🇬🇧
+- GBP
+- Transfer Details
+- Please make a transfer to the account details below. Your transaction will be processed automatically.
+- RATE EXPIRES IN
+- 14:59
+- TOTAL AMOUNT TO PAY
+- ₦14,500
+- .00
+- BANK NAME
+- Guaranty Trust Bank
+- ACCOUNT NUMBER
+- 0123456789
+- ACCOUNT NAME
+- FlurryPay / Fintech Solutions
+- REFERENCE CODE
+- Must include in description
+- FP-892A4C
+- I've made the transfer
+- Takes 1-3 minutes to confirm after sending.
+- Copied to clipboard
+
+## Super-Admin Overview (328:714)
+
+Canvas: 1280 × 1024
+
+- Overview
+- System performance and key metrics at a glance.
+- TOTAL VOLUME (24H)
+- +12.4%
+- $4.2M
+- TOTAL REVENUE (24H)
+- +8.2%
+- $840k
+- ACTIVE MERCHANTS
+- Consistent
+- 1,248
+- PENDING ALERTS
+- Requires Action
+- 24
+- High-Value Transactions
+- View All
+- TXID
+- MERCHANT
+- AMOUNT
+- ROUTE
+- STATUS
+- TIME
+- 0x7F...a2B4
+- AE
+- Apex Exchange
+- $1,250,000.00
+- USD -> EUR
+- Cleared
+- 2 mins ago
+- 0x3A...9cF1
+- GM
+- Global Markets Inc.
+- ¥85,000,000
+- JPY -> USD
+- Processing
+- 15 mins ago
+- 0x9B...e4D2
+- VQ
+- Valient Quants
+- £420,000.00
+- GBP -> AED
+- Cleared
+- 45 mins ago
+- 0x1C...f5A8
+- NT
+- Nexus Trading
+- $2,100,000.00
+- BTC -> USD
+- Flagged
+- 1 hr ago
+- Quick Actions
+- Onboard Merchant
+- Manage Settlements
+- Fund Treasury
+- Compliance Review
+- System Health
+- All core services operating nominally.
+- API Latency
+- 42ms
+- Database Load
+- 28%
+- Search merchants, users, TXIDs...
+- API: Healthy
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Merchant Management (328:1011)
+
+Canvas: 1280 × 1048
+
+- Merchant Directory
+- Manage and monitor global merchant accounts, compliance status, and processing volumes.
+- Onboard Merchant
+- Total Merchants
+- 1,248
+- 12%
+- Active Now
+- 982
+- / 1,248
+- Pending Verification
+- 45
+- Requires Action
+- Flagged / High Risk
+- 12
+- Immediate review required
+- Search by name, ID, email...
+- Status
+- Country
+- Showing 1-10 of 1,248
+- MERCHANT
+- ID
+- STATUS
+- VOL (30D)
+- CUR
+- RISK
+- JOINED
+- ACTIONS
+- Nexus Global Trade
+- contact@nexusglobal.io
+- MC- 8924A
+- ACTIVE
+- $4.2M
+- USD, EUR
+- Low
+- Oct 12, 2023
+- V
+- Vanguard Digital Assets
+- compliance@vda.com
+- MC- 1044B
+- PENDING
+- --
+- GBP
+- TBD
+- Today, 09:14
+- Review
+- Apex Remittance Ltd
+- admin@apexremit.net
+- MC- 7721F
+- FLAGGED
+- $18.5M
+- USD, AED, SGD
+- High
+- Mar 02, 2021
+- O
+- Osprey Logistics
+- billing@osprey.co.uk
+- MC- 9920C
+- ACTIVE
+- $890K
+- EUR
+- Low
+- Nov 18, 2023
+- Search merchants, users, TXIDs...
+- API: Healthy
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Merchant Detail: Overview (328:1360)
+
+Canvas: 1280 × 1277
+
+- Acme Corp International
+- Active
+- Merchant ID: MER-847291
+- Enterprise e-commerce platform specializing in high-volume digital goods. Operating across 14 jurisdictions with global payout requirements.
+- Overview
+- Transactions
+- Wallets & Balances
+- Users
+- 30D REVENUE
+- +12.4%
+- $4,285,910
+- Settled in USD equivalent
+- LIFETIME VOLUME
+- $142M
+- +
+- Across 8.2M transactions since Jan 2022
+- Volume Trends
+- 30D
+- 90D
+- 1Y
+- Oct 1
+- Oct 15
+- Nov 1
+- Recent Payouts
+- View All
+- ID
+- DATE
+- AMOUNT
+- CURRENCY
+- STATUS
+- PO-99281-X
+- Today, 14:22
+- $125,000.00
+- USDC (ERC-20)
+- Completed
+- PO-99280-W
+- Yesterday, 09:15
+- €84,200.00
+- SEPA Instant
+- Completed
+- PO-99279-V
+- Oct 28, 16:45
+- £42,100.50
+- BACS
+- Processing
+- Business Profile
+- ENTITY NAME
+- Acme Corp International Ltd
+- REGISTRATION
+- UK (CRN: 12345678)
+- INCORPORATION
+- 15 March 2018
+- INDUSTRY
+- Digital Goods (5814)
+- PRIMARY CONTACT
+- Jane Doe
+- Edit Profile
+- Compliance Status
+- Verified
+- KYB DOCUMENTS
+- Approved
+- UBO DECLARATION
+- Approved
+- PROOF OF ADDRESS
+- Pending Review
+- View Full Compliance
+- Top Regions
+- By Processing Volume
+- US 45%
+- EU 32%
+- Search merchants, users, TXIDs...
+- API: Healthy
+- Super Admin
+- admin@flurrypay.io
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Merchant Detail: Transactions (328:1680)
+
+Canvas: 1280 × 1629.5
+
+- AS
+- Acme Supply Co.
+- Merchant ID: MER-88392-XT
+- Edit Details
+- Suspend
+- Overview
+- Transactions
+- Wallets & Balances
+- Users
+- Filter ID, amount...
+- All Types
+- Any Status
+- Export CSV
+- TRANSACTION ID
+- DATE & TIME
+- TYPE
+- AMOUNT
+- STATUS
+- METHOD
+- ACTION
+- TX-992A-4B8C
+- Oct 24, 14:32:01
+- Payment
+- + $1,250.00
+- COMPLETED
+- Credit Card •••• 4242
+- TX-881B-7C9D
+- Oct 24, 11:15:44
+- Withdrawal
+- - €5,000.00
+- PENDING
+- SEPA Transfer
+- TX-770C-2F1E
+- Oct 23, 09:05:12
+- Swap
+- 0.54 BTC → USDC
+- FAILED
+- Internal OTC
+- TX-4679-OBWX
+- Oct 21, 04:43:12
+- Payment
+- + $202.52
+- COMPLETED
+- Apple Pay
+- TX-7481-W5EC
+- Oct 23, 03:37:13
+- Payment
+- + $333.15
+- COMPLETED
+- Apple Pay
+- TX-2730-6XL8
+- Oct 21, 05:11:25
+- Payment
+- + $244.96
+- COMPLETED
+- Apple Pay
+- TX-3438-WYKQ
+- Oct 21, 02:57:29
+- Payment
+- + $498.71
+- COMPLETED
+- Apple Pay
+- TX-5770-ZMTF
+- Oct 21, 01:21:43
+- Payment
+- + $275.60
+- COMPLETED
+- Apple Pay
+- TX-8962-NG8B
+- Oct 22, 01:15:18
+- Payment
+- + $25.42
+- COMPLETED
+- Apple Pay
+- TX-1047-9I4V
+- Oct 21, 03:29:20
+- Payment
+- + $339.97
+- COMPLETED
+- Apple Pay
+- TX-5393-PIAV
+- Oct 22, 09:47:10
+- Payment
+- + $362.27
+- COMPLETED
+- Apple Pay
+- TX-1106-WC4J
+- Oct 22, 07:10:13
+- Payment
+- + $197.32
+- COMPLETED
+- Apple Pay
+- TX-8374-QNIH
+- Oct 21, 01:30:40
+- Payment
+- + $96.78
+- COMPLETED
+- Apple Pay
+- TX-4763-AUBT
+- Oct 23, 07:59:15
+- Payment
+- + $409.96
+- COMPLETED
+- Apple Pay
+- TX-2482-DBN6
+- Oct 21, 08:21:35
+- Payment
+- + $257.68
+- COMPLETED
+- Apple Pay
+- TX-6483-I640
+- Oct 22, 05:31:14
+- Payment
+- + $245.76
+- COMPLETED
+- Apple Pay
+- TX-3980-6U4E
+- Oct 21, 09:31:21
+- Payment
+- + $109.59
+- COMPLETED
+- Apple Pay
+- TX-7298-4HA9
+- Oct 22, 02:44:12
+- Payment
+- + $494.58
+- COMPLETED
+- Apple Pay
+- TX-3974-I2P0
+- Oct 21, 06:37:22
+- Payment
+- + $62.98
+- COMPLETED
+- Apple Pay
+- TX-7924-FZVH
+- Oct 23, 09:11:11
+- Payment
+- + $149.30
+- COMPLETED
+- Apple Pay
+- TX-1486-PEIC
+- Oct 23, 01:17:56
+- Payment
+- + $495.42
+- COMPLETED
+- Apple Pay
+- TX-3679-Q4H2
+- Oct 23, 08:54:33
+- Payment
+- + $92.04
+- COMPLETED
+- Apple Pay
+- TX-8616-KOD4
+- Oct 23, 01:14:11
+- Payment
+- + $410.17
+- COMPLETED
+- Apple Pay
+- TX-1581-NA3E
+- Oct 23, 01:29:18
+- Payment
+- + $93.21
+- COMPLETED
+- Apple Pay
+- TX-5347-KF1P
+- Oct 22, 01:33:24
+- Payment
+- + $199.35
+- COMPLETED
+- Apple Pay
+- TX-1332-7JGE
+- Oct 22, 06:54:15
+- Payment
+- + $497.72
+- COMPLETED
+- Apple Pay
+- TX-8886-9KUD
+- Oct 21, 05:33:22
+- Payment
+- + $211.40
+- COMPLETED
+- Apple Pay
+- TX-5128-XSZJ
+- Oct 23, 05:51:43
+- Payment
+- + $448.63
+- COMPLETED
+- Apple Pay
+- TX-2283-ASPW
+- Oct 22, 07:54:16
+- Payment
+- + $396.35
+- COMPLETED
+- Apple Pay
+- TX-3730-VXLM
+- Oct 22, 03:17:47
+- Payment
+- + $83.16
+- COMPLETED
+- Apple Pay
+- TX-5917-JOE1
+- Oct 23, 03:42:57
+- Payment
+- + $90.13
+- COMPLETED
+- Apple Pay
+- TX-6448-HT9D
+- Oct 21, 02:49:11
+- Payment
+- + $358.81
+- COMPLETED
+- Apple Pay
+- TX-8721-DQMK
+- Oct 22, 04:50:15
+- Payment
+- + $320.30
+- COMPLETED
+- Apple Pay
+- Showing 1 to 18 of 2,451 entries
+- Page 1 of 137
+- Search merchants, users, TXIDs...
+- API: Healthy
+- Super Admin
+- admin@flurrypay.io
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Merchant Detail: Wallets & Balances (Revamped) (328:2445)
+
+Canvas: 1280 × 1109
+
+- Overview
+- Transactions
+- Wallets & Balances
+- Compliance
+- Users
+- Acme Corp: Wallets & Balances
+- Merchant Asset Management & Liquidity Overview
+- Export Report
+- Create Wallet
+- TOTAL FIAT VALUE
+- $12,450,890.00
+- +4.2% this week
+- TOTAL CRYPTO VALUE (USD EQ.)
+- $8,720,400.50
+- -1.5% this week
+- Asset Allocation
+- Fiat
+- Stablecoin
+- Crypto
+- 59%
+- USD
+- Fiat Wallets
+- $
+- USD Wallet
+- Account: ****8921
+- 8,450,200.00
+- $12k today
+- €
+- EUR Wallet
+- Account: ****4432
+- 2,100,500.00
+- 0.00 today
+- £
+- GBP Wallet
+- Account: ****1102
+- 980,100.00
+- £4k today
+- Crypto Wallets
+- $
+- USDC Wallet
+- Network: Ethereum
+- 4,500,000.00
+- $4.5M USD eq.
+- B
+- BTC Wallet
+- Network: Bitcoin
+- 42.500000
+- ~$2.8M USD eq.
+- Ξ
+- ETH Wallet
+- Network: Ethereum
+- 450.250000
+- ~$1.4M USD eq.
+- Search merchants, users, TXIDs...
+- API: Healthy
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Merchant Detail: Compliance (328:2733)
+
+Canvas: 1280 × 1245
+
+- Compliance
+- Manage verification status, KYC/KYB documentation, and compliance review history for this merchant entity.
+- Export
+- Suspend
+- Overview
+- Transactions
+- Compliance
+- Users
+- Application
+- 2
+- Documents
+- 3
+- Manual Review
+- 4
+- Approval
+- Verification Status
+- Under Review
+- Entity is currently in a restrictive operating state pending final sign-off on recent director changes.
+- 75%
+- RISK LEVEL
+- Medium
+- JURISDICTION
+- United
+- NEXT REVIEW
+- Oct 14,
+- Application
+- 2
+- Documents
+- 3
+- Manual Review
+- 4
+- Approval
+- Certificate of Incorporation
+- Uploaded 2h ago • j.doe@merchant.com
+- Pending
+- Approve
+- Reject
+- Corporate Tax ID (VAT)
+- Verified Aug 12, 2024 • Jumio
+- Verified
+- Proof of Address
+- Rejected Aug 11, 2024 • S.Admin
+- Action Required
+- Re-request
+- KYC/KYB Documents
+- Request Update
+- Compliance Notes
+- Add internal compliance note...
+- Save Note
+- S.Admin • Today 10:45 AM
+- Requested updated Certificate of Incorporation due to recent structural changes notified by entity.
+- System • Aug 12, 2024
+- Initial KYC checks passed via automated provider. Medium risk tier assigned based on industry.
+- Review History
+- IN PROGRESS
+- Document verification for structural update.
+- AUG 12, 2024
+- Initial Onboarding Review approved.
+- AUG 10, 2024
+- Application submitted by merchant.
+- AUG 09, 2024
+- Account created.
+- Search merchants, users, TXIDs...
+- API: Healthy
+- Super Admin
+- admin@flurrypay.io
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## User Management Directory (329:3084)
+
+Canvas: 1280 × 1080
+
+- Overview
+- Transactions
+- Wallets & Balances
+- Users
+- Compliance
+- Acme Corp : Users
+- Manage and monitor all users associated with Acme Corp International, including roles, security status, and activity.
+- Export Report
+- Invite User
+- TOTAL USERS
+- 8,452
+- +5%
+- ACTIVE NOW
+- 1,204
+- PENDING VERIFICATION
+- 86
+- FLAGGED/SUSPICIOUS
+- 14
+- Needs Review
+- Search by name, email, or ID...
+- Role
+- Status
+- USER
+- ROLE
+- MERCHANT ORG
+- STATUS
+- LAST LOGIN
+- ACTIONS
+- Sarah Chen
+- s.chen@example.com
+- Admin
+- Global System
+- Active
+- 2 mins ago
+- MJ
+- Marcus Johnson
+- mjohnson@acmecorp.com
+- Merchant User
+- Acme Corp
+- Active
+- Oct 24, 09:41
+- David Vance
+- dvance.external@nexus.io
+- API Key Holder
+- Nexus Global
+- Suspicious
+- Oct 24, 03:12 (VPN)
+- EL
+- Elena Rostova
+- erostova@flurrypay.com
+- Compliance Officer
+- Global System
+- Active
+- Oct 23, 16:45
+- TK
+- Tariq Kazi
+- tkazi@meridian.ltd
+- Merchant User
+- Meridian Ltd
+- Pending
+- -
+- Showing 
+- 1
+-  to 
+- 5
+-  of 
+- 8,452
+-  users
+- 1
+- 2
+- 3
+- ...
+- 846
+- Search transactions, users...
+- API Online
+
+## User Detail: Overview (329:3409)
+
+Canvas: 1280 × 1426
+
+- Users
+- Sarah Chen
+- Sarah Chen
+- ACTIVE
+- Compliance Officer
+- •
+- sarah.chen@acmecorp.com
+- •
+- Acme Corp
+- Deactivate User
+- Edit Permissions
+- Overview
+- Permissions
+- Activity Log
+- 12
+- Security
+- User Information
+- USER ID
+- USR-9928-XA4
+- DATE JOINED
+- Oct 12, 2022 (2 yrs ago)
+- DEPARTMENT
+- Risk & Compliance
+- DIRECT MANAGER
+- David Ross
+- PRIMARY MERCHANT AFFILIATION
+- A
+- Acme Corp Global
+- MER-001-USA
+- Recent Activity
+- View All
+- Approved KYB Application
+- High Priority
+- Reviewed and approved merchant documentation for 
+- Globex Holdings
+- .
+- 2 hours ago
+- Exported Transaction Report
+- Generated monthly settlement report (CSV) for Oct 2023.
+- Yesterday, 14:32
+- Logged in from New IP
+- Successful authentication from 
+- 192.168.1.45
+-  (London, UK).
+- Oct 24, 09:15
+- Security Status
+- 2FA Status
+- Enforced
+- Last Password Change
+- 45 days ago
+- Last Known Location
+- London, United Kingdom
+- 192.168.1.45
+- Key Permissions
+- Compliance Officer (Role)
+- Full access to KYB/KYC reviews, document approval, and risk scoring.
+- Treasury Viewer
+- Read-only access to global settlement accounts and balances.
+- Initiate Transfers
+- Explicitly denied for this user profile.
+- View All 42 Permissions
+- Overview
+- Transactions
+- Wallets & Balances
+- Users
+- Compliance
+- Search transactions, users...
+- API Online
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Aside (329:3714)
+
+Canvas: 280 × 1080
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Wallet: Liquidity Overview (332:3984)
+
+Canvas: 1280 × 1024
+
+- Overview
+- Settlement Accounts
+- Treasury Holdings
+- Transactions
+- Settings
+- Liquidity Overview
+- Real-time consolidation of fiat and digital assets.
+- Export Report
+- TOTAL FIAT LIQUIDITY
+- $124.5M
+- +2.4% vs last week
+- TOTAL CRYPTO VALUE
+- $87.2M
+- -0.8% vs last week
+- 24H SETTLEMENT VOL
+- $12.8M
+- +15.2% vs yesterday
+- Top Settlement Accounts
+- INSTITUTION
+- CURRENCY
+- BALANCE
+- JP
+- JPMorgan Chase
+- ...4921 • Operating
+- USD
+- $45,210,000.00
+- Available
+- DB
+- Deutsche Bank
+- ...8832 • Settlement
+- EUR
+- €28,500,450.00
+- $31,350,495.00
+- BC
+- Barclays
+- ...1109 • Reserve
+- GBP
+- £18,900,000.00
+- $23,625,000.00
+- Add Bank Account
+- Hot Treasury Wallets
+- WALLET / NETWORK
+- ASSET
+- BALANCE
+- USDC Treasury
+- 0x8f...3a9b • Ethereum
+- USDC
+- 42,500,000.00
+- $42,500,000.00
+- BTC Cold Storage
+- bc1q...m2kd • Bitcoin
+- BTC
+- 450.25
+- $28,350,000.00
+- ETH Defi Op
+- 0x4a...9f2e • Arbitrum
+- ETH
+- 8,500.00
+- $16,350,000.00
+- Generate Wallet
+- Search transactions, merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Wallet: Settlement Accounts (332:4271)
+
+Canvas: 1280 × 1037
+
+- Overview
+- Settlement Accounts
+- Treasury Holdings
+- Transactions
+- Settings
+- Settlement Accounts
+- Add Bank Account
+- Manage global fiat settlement accounts, regional banking relationships, and cross-border liquidity pools.
+- TOTAL FIAT BALANCE
+- $1.42B
+- 2.4%
+- ACTIVE REGIONS
+- 14
+- / 18
+- US
+- EU
+- JP
+- +11
+- View Map
+- PENDING APPROVALS
+- 3
+- HSBC HK Settlement
+- KYC
+- Barclays GBP Pool
+- Limit Auth
+- Search accounts by name or number...
+- Currency
+- Region
+- Status
+- ACCOUNT NAME
+- BANK
+- CURRENCY
+- ACCOUNT NUMBER
+- CURRENT BALANCE
+- STATUS
+- JPM USD Settlement Main
+- JPMorgan Chase
+- USD
+- **** **** 9821
+- $845,210,000.00
+- Active
+- DB EUR Core Liquidity
+- Deutsche Bank
+- EUR
+- **** **** 4452
+- €312,500,000.00
+- Active
+- HSBC HK Settlement
+- HSBC
+- HKD
+- Pending Allocation
+- --
+- Pending KYC
+- SMBC JPY Reserve
+- SMBC
+- JPY
+- **** **** 1198
+- ¥18,450,000,000
+- Active
+- Showing 4 of 24 accounts
+- Search transactions, merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Users
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Wallet: Treasury Holdings (332:4580)
+
+Canvas: 1280 × 1355
+
+- Overview
+- Settlement Accounts
+- Treasury Holdings
+- Transactions
+- Settings
+- Treasury Holdings
+- Manage and monitor institutional-grade reserves across multiple networks. Real-time valuation based on aggregated spot pricing.
+- Add Currency/Asset
+- Initiate Sweep
+- TOTAL VALUE SECURED
+- $1.24B
+- +0.4% (24h)
+- STABLECOIN ALLOCATION
+- 84.2%
+- ACTIVE NETWORKS
+- Ethereum
+- Solana
+- Polygon
+- Tron
+- Stablecoin Reserves
+- ASSET
+- NETWORK
+- ADDRESS
+- BALANCE
+- USD VALUE
+- USDC
+- USD Coin
+- Circle
+- Ethereum
+- 0x742d...44e
+- 450,230,000.00
+- $450,230,000.00
+- USDT
+- Tether
+- Tether Ltd
+- Tron
+- T9yD...h7u
+- 320,500,000.00
+- $320,500,000.00
+- PYUSD
+- PayPal USD
+- Paxos
+- Solana
+- 4k3D...19b
+- 150,000,000.00
+- $149,985,000.00
+- Crypto Assets
+- ASSET
+- BALANCE
+- PRICE
+- MARKET VALUE
+- BTC
+- Bitcoin
+- 2,450.50
+- $64,230.00
+- $157,400,000.00
+- +2.1%
+- ETH
+- Ethereum
+- 12,800.00
+- $3,450.00
+- $44,160,000.00
+- -0.5%
+- SOL
+- Solana
+- 45,000.00
+- $145.00
+- $6,525,000.00
+- +5.4%
+- Auto-Sweeping
+- Automatically transfer funds from operational wallets to treasury holding addresses when thresholds are met.
+- Daily Revenue Sweep
+- Moves collected fees at 00:00 UTC
+- Threshold Sweep
+- Trigger when hot wallet > $1M
+- Network Optimization
+- Delay sweeps during high gas fees
+- Configure Thresholds
+- Search transactions, merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Wallet: Settlement Transactions (332:4911)
+
+Canvas: 1280 × 1024
+
+- Overview
+- Settlement Accounts
+- Treasury Holdings
+- Transactions
+- Settings
+- Ledger Operations
+- Comprehensive view of all settlement transactions, payouts, and internal treasury sweeps.
+- Manual Entry
+- Export Report
+- Jan 1 - Jan 31, 2024
+- All
+- Settlements
+- Payouts
+- Sweeps
+- TX-
+- 9847A2B
+- Oct 24, 2023
+- 14:32:01 UTC
+- Inbound Settlement
+- Stripe Inc.
+- +$124,500.00
+- Settled
+- TX-
+- 8736B1C
+- Oct 24, 2023
+- 11:15:44 UTC
+- Payout
+- Acme Corp
+- -$45,200.50
+- Processing
+- TX-
+- 7625C9D
+- Oct 23, 2023
+- 09:00:00 UTC
+- Internal Sweep
+- Main Treasury Account
+- $1,000,000.00
+- Settled
+- TX-
+- 6514D8E
+- Oct 23, 2023
+- 08:45:12 UTC
+- Inbound Settlement
+- PayPal Holdings
+- +$89,150.75
+- Settled
+- Showing 1 to 10 of 2,451 entries
+- 1
+- 2
+- 3
+- ...
+- 245
+- TXID
+- DATE/TIME
+- TYPE & COUNTERPARTY
+- AMOUNT
+- STATUS
+- ACTION
+- Search transactions, merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Wallet: Settings (332:5200)
+
+Canvas: 1280 × 1850
+
+- Overview
+- Settlement Accounts
+- Treasury Holdings
+- Transactions
+- Settings
+- Wallet Settings
+- Configure global wallet preferences, security thresholds, and automated sweep protocols. Changes to settlement routing require dual-authorization.
+- Audit Log
+- Save Configurations
+- General
+- Security
+- Webhooks
+- Thresholds
+- Settlement Preferences
+- Default routing and currency handling.
+- DEFAULT SETTLEMENT CURRENCY
+- USD - US Dollar
+- FX CONVERSION POLICY
+- Auto-convert at EOD
+- Real-time FX Spreads Active
+- Current institutional spread is 0.05% over interbank rate.
+- Global Sweep Thresholds
+- Automated treasury management rules.
+- Operating Account Maximum
+- $5,000,000 USD
+- Balances exceeding this amount will automatically sweep to
+- Treasury Yield accounts at EOD.
+- Edit
+- Minimum Liquidity Buffer
+- $1,000,000 USD
+- Trigger alert and halt auto-sweeps if aggregate balance falls
+- below buffer.
+- Edit
+- Transfer Approvals (Multi-sig)
+- Define authorization tiers for outbound capital.
+- Add Tier
+- TRANSACTION VOLUME
+- REQUIRED APPROVALS
+- AUTHORIZED ROLES
+- STATUS
+- < $50,000
+- 1 Signer
+- Manager, Admin
+- Active
+- $50,000 - $1M
+- 2 Signers
+- Admin, Super Admin
+- Active
+- > $1,000,000
+- 3 Signers + MFA
+- Super Admin (At least 1)
+- Active
+- Bank Connections
+- Manage linked institutional API endpoints.
+- Link New API
+- J.P. Morgan Chase
+- •••• 4892 (Treasury)
+- API Connected (Last sync: 2m ago)
+- Citibank N.A.
+- •••• 1104 (Operating)
+- API Connected (Last sync: 5m ago)
+- Security Posture
+- Wallet configuration meets institutional standards.
+- 98
+- / 100
+- Multi-sig Enabled
+- IP Whitelisting Active
+- Hardware Key Required
+- Routing Visualization
+- Auto-sweep pathways are functioning nominally.
+- Search transactions, merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Payments: Overview (336:2)
+
+Canvas: 1280 × 1413
+
+- TOTAL VOLUME (24H)
+- $12.4M
+- SUCCESS RATE
+- 99.8%
+- Last 7 days
+- AVG. TX VALUE
+- $84.50
+- Fiat: $92.10
+- Crypto: $45.20
+- ACTIVE DISPUTES
+- 12
+- Resolve
+- Volume Trends
+- Transaction volume over the last 30 days (USD)
+- 30D
+- 90D
+- 1Y
+- 15M
+- 10M
+- 5M
+- $11.2M
+- Method Split
+- 65%
+- CARDS
+- Credit/Debit
+- 65%
+- Bank Transfer
+- 25%
+- Crypto
+- 10%
+- Recent Activity
+- View All
+- ID
+- MERCHANT
+- METHOD
+- AMOUNT
+- STATUS
+- #98A1
+- G
+- GlobalTech Inc.
+- Visa *4242
+- $1,250.00
+- SUCCESS
+- #98A0
+- A
+- Acme Corp
+- Bank Wire
+- $45,000.00
+- PENDING
+- #989F
+- N
+- Nexa Retail
+- USDC (ETH)
+- $3,400.00
+- SUCCESS
+- #989E
+- O
+- Omni Services
+- MC *8812
+- $85.50
+- FAILED
+- #989D
+- G
+- GlobalTech Inc.
+- Visa *4242
+- $2,100.00
+- SUCCESS
+- OVERVIEW
+- TRANSACTIONS
+- PAYOUTS
+- DISPUTES
+- 12
+- Search transactions, merchants, or logs...
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Payments: Transactions (336:341)
+
+Canvas: 1280 × 1023
+
+- Payments
+- Review and manage all inbound transactions across your merchant network.
+- Overview
+- Transactions
+- Payouts
+- Disputes
+- Search by TXID, Merchant, or Customer...
+- Last 30 Days
+- Status
+- Method
+- Export
+- Transaction ID
+- Date & Time
+- Merchant
+- Amount
+- Fee
+- Net
+- Method
+- Status
+- TX-9824-A1B2
+- Oct 24, 2023 14:32:01
+- Acme Corp Global
+- $12,450.00
+- -$249.00
+- $12,201.00
+- Visa *4242
+- SETTLED
+- TX-9825-C3D4
+- Oct 24, 2023 14:15:22
+- Stark Industries
+- €4,200.50
+- -€84.01
+- €4,116.49
+- SEPA Transfer
+- PROCESSING
+- TX-9826-E5F6
+- Oct 24, 2023 13:45:10
+- Wayne Enterprises
+- £8,900.00
+- -£178.00
+- £8,722.00
+- Amex *1005
+- SETTLED
+- TX-9827-G7H8
+- Oct 24, 2023 11:20:05
+- LexCorp
+- $1,250.00
+- -$25.00
+- $1,225.00
+- Apple Pay
+- FAILED
+- TX-9828-I9J0
+- Oct 24, 2023 09:15:44
+- Daily Planet
+- $45,000.00
+- -$900.00
+- $44,100.00
+- Wire Transfer
+- SETTLED
+- Showing 1 to 5 of 24,091 transactions
+- 1
+- 2
+- 3
+- ...
+- 48
+- Search transactions, merchants, or logs...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Payments: Payouts (336:626)
+
+Canvas: 1280 × 1268.5
+
+- Payouts Management
+- Monitor, manage, and execute global merchant settlements and batch transfers.
+- TREASURY OPS
+- Initiate Batch Payout
+- Overview
+- Transactions
+- Payouts
+- Disputes 
+- 3
+- Pending Payouts
+- $12.4M
+- USD
+- 142 batches
+- Awaiting clearing
+- Scheduled for Today
+- $4.8M
+- USD
+- Completion
+- 65%
+- Total Paid Out (MTD)
+- $148.2M
+- USD
+- +12.4% vs last month
+- Payout Records
+- 842 Total
+- Search ID or Destination...
+- PAYOUT ID
+- DESTINATION
+- SCHEDULED DATE
+- AMOUNT (USD)
+- STATUS
+- ACTION
+- PO-8842-A1
+- Acme Corp EMEA
+- IBAN: GB82CHES...
+- Oct 24, 2023
+- 14:30 UTC
+- $1,240,500.00
+- Processing
+- View Details
+- PO-8841-B2
+- Global Tech Partners
+- SWIFT: CHASUS...
+- Oct 25, 2023
+- 09:00 UTC
+- $84,200.50
+- Scheduled
+- Edit
+- PO-8840-C3
+- Nexus Retail Group
+- ABA: 021000...
+- Oct 23, 2023
+- 16:45 UTC
+- $450,000.00
+- Completed
+- PO-8839-D4
+- Zenith Logistics
+- Invalid Routing #
+- Oct 23, 2023
+- 11:20 UTC
+- $12,500.00
+- Failed
+- Retry
+- PO-8838-E5
+- Veridian Dynamics
+- IBAN: DE89370...
+- Oct 24, 2023
+- 15:00 UTC
+- $3,105,200.00
+- Processing
+- View Details
+- Showing 1 to 5 of 842 entries
+- 1
+- 2
+- 3
+- ...
+- 169
+- Search transactions, merchants, or logs...
+
+## Payments: Disputes (336:1012)
+
+Canvas: 1280 × 1020
+
+- Overview
+- Transactions
+- Payouts
+- Disputes
+- Settings
+- Dispute Management
+- Filter
+- Export CSV
+- Win Rate (30d)
+- 68.4%
+- 2.1%
+- Active Disputes Value
+- $142k
+- / 412 cases
+- Dispute Ratio
+- 0.12%
+- 0.02%
+- Search Case ID...
+- Showing 1-10 of 412 active
+- CASE ID
+- MERCHANT
+- ORIG. AMOUNT
+- DEADLINE
+- STATUS
+- ACTION
+- #DSP-8921A
+- G
+- Global Retail Inc.
+- $1,245.00
+- In 2 hours
+- Action Required
+- Review Evidence
+- #DSP-8919F
+- S
+- SaaS Provider LLC
+- $49.99
+- Oct 24, 2023
+- Evidence Submitted
+- View Details
+- #DSP-8872C
+- E
+- ElectroMart
+- $899.50
+- Tomorrow
+- In Inquiry
+- Review Evidence
+- #DSP-8850Z
+- T
+- TravelHub Ltd
+- $2,100.00
+- -
+- Lost
+- View Result
+- Previous
+- 1
+- 2
+- 3
+- ...
+- Next
+- Search transactions, merchants, or logs...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin Portal
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Aside (336:1539)
+
+Canvas: 280 × 1269
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Treasury: Overview (337:1933)
+
+Canvas: 1280 × 1154
+
+- TOTAL ASSETS SECURED
+- $2.45B
+- +4.2%
+- vs last month
+- AVERAGE YIELD
+- 4.8% 
+- APY
+- 0.3%
+- 30d trailing
+- LIQUIDITY RATIO
+- 88.5%
+- PENDING REBALANCING
+- 3
+- Review
+- Asset Distribution
+- Stablecoins
+- Crypto
+- Fiat
+- Jan
+- Feb
+- Mar
+- Apr
+- May
+- Jun
+- Jul
+- Aug
+- Recent Treasury Operations
+- View All
+- OPERATION
+- ASSET
+- AMOUNT
+- ENTITY
+- STATUS
+- Rebalancing
+- USDC
+- $45,000,000
+- Global Liquidity Pool
+- Completed
+- Yield Harvest
+- ETH
+- 1,250 ETH
+- Staking Node Alpha
+- Completed
+- Fiat Settlement
+- EUR
+- €12,500,000
+- European Entity Ltd
+- Processing
+- Network Health
+- Ethereum
+- Mainnet
+- Operational
+- 14ms latency
+- Solana
+- Mainnet Beta
+- Operational
+- 400ms latency
+- Polygon
+- PoS Chain
+- Degraded
+- 1.2s latency
+- Generate Reports
+- Export full treasury audit logs and compliance reports instantly.
+- Download
+- Overview
+- Asset Allocation
+- Yield Management
+- Search...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Treasury: Asset Allocation (337:2260)
+
+Canvas: 1280 × 1088
+
+- Asset Allocation
+- Comprehensive overview of treasury holdings across diverse asset classes and custodial vaults. Monitor actual vs. target distributions to maintain strategic liquidity and risk profiles.
+- Export Report
+- Rebalance Portfolio
+- TOTAL AUM
+- $142,590,200.00
+- +2.4%
+- Total value across all tracked assets, updated 5 minutes ago. Last rebalance was on Oct 12, 2023.
+- 5
+- Asset Types
+- Target vs. Actual Allocation
+- Edit Targets
+- USDC (Stablecoin)
+- 45%
+- / 40% Target
+- $64,165,590.00
+- +5% Deviation
+- USDT (Stablecoin)
+- 20%
+- / 25% Target
+- $28,518,040.00
+- -5% Deviation
+- Bitcoin (BTC)
+- 15%
+- / 15% Target
+- $21,388,530.00
+- 0% Deviation
+- Ethereum (ETH)
+- 10%
+- / 10% Target
+- $14,259,020.00
+- 0% Deviation
+- Fiat Reserves (USD/EUR)
+- 10%
+- / 10% Target
+- $14,259,020.00
+- 0% Deviation
+- Vaults & Custodians
+- F
+- Fireblocks MPC
+- Hot Wallet
+- Secured
+- $65,240,000.00
+- 45.7% of total
+- C
+- Coinbase Custody
+- Cold Storage
+- Secured
+- $52,100,200.00
+- 36.5% of total
+- J
+- J.P. Morgan
+- Fiat Accounts
+- Secured
+- $25,250,000.00
+- 17.8% of total
+- Add Custodian
+- Overview
+- Asset Allocation
+- Yield Management
+- Search...
+
+## Treasury: Yield Management (337:2566)
+
+Canvas: 1280 × 1024
+
+- Yield Performance
+- 1M
+- 3M
+- YTD
+- 8%
+- 6%
+- 4%
+- 2%
+- Active Strategies
+- View All
+- Protocol
+- APY
+- Principal
+- Accrued
+- Auto-Harvest
+- A
+- Aave V3
+- USDC Lending
+- 5.24%
+- $2,450,000
+- +$12,450
+- C
+- Compound
+- USDT Lending
+- 4.89%
+- $1,100,000
+- +$5,230
+- Treasury Bills
+- 1M T-Bill Token
+- 5.10%
+- $5,000,000
+- +$21,250
+- N/A
+- L
+- Lido
+- ETH Staking
+- 3.45%
+- 850 ETH
+- +2.4 ETH
+- Total Yield Generated
+- $84,532.00
+- +12.4% vs last month
+- Harvest All
+- Risk Management
+- Value at Risk (95%)
+- $125,000
+- DeFi Exposure Limit
+- 68% / 80%
+- Concentration Risk: USDC lending represents >50% of total active yield strategies. Consider diversifying.
+- TOP PERFORMING POOLS
+- Aave V3 USDC
+- 5.24% APY
+- Maker DSR
+- 5.00% APY
+- Compound USDT
+- 4.89% APY
+- Overview
+- Asset Allocation
+- Yield Management
+- Search...
+
+## Aside (337:3118)
+
+Canvas: 280 × 1088
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Aside (337:3258)
+
+Canvas: 280 × 1024
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin Portal
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Crypto: Assets (338:3398)
+
+Canvas: 1280 × 1095.166748046875
+
+- Crypto Asset Management
+- Manage platform-wide digital assets and network operations.
+- Deposit
+- Send
+- Convert
+- TOTAL CRYPTO AUM
+- $248,593,102.45
+- +2.4% (24h)
+- 24H P&L
+- +$1,204,500.00
+- Across 45 active trading pairs
+- ACTIVE NETWORKS
+- 12 / 14
+- All systems operational
+- Assets
+- OTC Desk
+- Trading
+- History
+- Settings
+- Platform Holdings
+- Search assets...
+- ASSET
+- NETWORK
+- BALANCE
+- MARKET PRICE
+- TOTAL VALUE (USD)
+- ACTION
+- Bitcoin
+- BTC
+- Bitcoin
+- 2,450.12 BTC
+- $64,230.00
+- +1.2%
+- $157,370,123.60
+- Ethereum
+- ETH
+- ERC-20
+- 15,340.50 ETH
+- $3,450.20
+- +0.8%
+- $52,927,792.10
+- Solana
+- SOL
+- Solana
+- 45,210.00 SOL
+- $145.60
+- -2.1%
+- $6,582,576.00
+- USD Coin
+- USDC
+- ERC-20
+- SPL
+- 15,450,210.00 USDC
+- $1.00
+- 0.0%
+- $15,450,210.00
+- Showing 4 of 24 assets
+- Search transactions, wallets, or merchants...
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin Portal
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Crypto: OTC Desk (338:3705)
+
+Canvas: 1280 × 1218
+
+- Assets
+- OTC Desk
+- Trading
+- History
+- Settings
+- Quote Requests
+- 3 New
+- Search by merchant or asset...
+- NX
+- Nexus Global
+- Pending
+- Buy
+- 50,000 USDC
+- Pay with EUR
+- 2 mins ago
+- AV
+- Apex Ventures
+- Quoted
+- Sell
+- 5.00 BTC
+- Receive USD
+- Expires in 1:45
+- QR
+- Quantum Retail
+- Expired
+- Buy
+- 1,000,000 USDT
+- Pay with GBP
+- 1 hour ago
+- OP
+- OmniPay
+- Executed
+- Sell
+- 250 ETH
+- Receive EUR
+- Yesterday
+- PENDING QUOTE
+- Request ID: #QR-992-KLA
+- Nexus Global
+- TIME ELAPSED
+- 02:14
+- REQUEST DETAILS
+- Requested Action
+- Buy
+- USDC
+- Settlement Currency
+- EUR
+- Target Quantity
+- 50,000.00
+- Indicative Market Price (Binance)
+- 0.9142 EUR/USDC
+- PROVIDE RETURN QUOTE
+- Exchange Rate (EUR/USDC)
+- 0.9165
+- EUR
+- +0.25% markup from market
+- Total Settlement Amount
+- 45,825.00
+- EUR
+- Quote Validity
+- 1 Minute
+- Markup Strategy
+- Standard Tier 1 (0.25%)
+- Send Quote
+- Reject Request
+- Search transactions, wallets, or merchants...
+
+## Crypto: History (338:4290)
+
+Canvas: 1280 × 1048.5
+
+- Assets
+- OTC Desk
+- Trading
+- History
+- Settings
+- Crypto Activity Ledger
+- Comprehensive record of all cryptocurrency transactions and executions.
+- Date Range
+- Asset
+- Type
+- TOTAL VOLUME (30D)
+- $24,592,100.00
+- ↑12.4%
+- TOTAL TRADES (30D)
+- 1,492
+- AVERAGE FEE
+- 0.08%
+- Date / Time
+- Transaction ID
+- Asset
+- Type
+- Amount
+- Status
+- Action
+- Oct 24, 2023
+- 14:32:01 UTC
+- tx_98a7b6c5...
+- BTC
+- OTC Execution
+- +12.50 BTC
+- ≈ $437,500.00
+- Completed
+- Receipt
+- Oct 24, 2023
+- 11:15:44 UTC
+- tx_45d3e2f1...
+- ETH
+- Manual Trade
+- -150.00 ETH
+- ≈ $270,000.00
+- Pending
+- Details
+- Oct 23, 2023
+- 09:05:12 UTC
+- tx_11b2c3d4...
+- USDC
+- Deposit
+- +1,000,000.00 USDC
+- ≈ $1,000,000.00
+- Completed
+- Receipt
+- Oct 22, 2023
+- 16:45:22 UTC
+- tx_88f9e0a1...
+- BTC
+- Internal Transfer
+- -5.00 BTC
+- ≈ $175,000.00
+- Failed
+- Review
+- Showing 1 to 4 of 1,492 entries
+- 1
+- 2
+- 3
+- ...
+- Search transactions, merchants...
+
+## Aside (339:5324)
+
+Canvas: 280 × 1218
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Aside (339:5560)
+
+Canvas: 280 × 1049
+
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Html → Body (340:5678)
+
+Canvas: 1280 × 1024
+
+- Assets
+- OTC Desk
+- Trading
+- History
+- Settings
+- Network Rate Overview
+- Asset
+- Live Price
+- Merchant Buy
+- Merchant Sell
+- Trend
+- BTC
+- 64,105.00
+- 64,425.52
+- 63,784.47
+- +2.45%
+- E
+- ETH
+- 3,450.00
+- 3,467.25
+- 3,432.75
+- -1.20%
+- $
+- USDC
+- 1.000
+- ₦1,395.00
+- ₦1,385.00
+- 0.00%
+- Recent Merchant Trades
+- View All
+- Time
+- Merchant
+- Type
+- Asset
+- Amount
+- Platform Fee
+- 14:32:01
+- Acme Corp
+- Buy
+- BTC
+- 0.5
+- $160.25
+- 13:15:44
+- Global Tech
+- Sell
+- ETH
+- 12.0
+- $207.00
+- Merchant Rate Config
+- Adjust fixed Naira markups and markdown amounts per USDT applied against market benchmarks.
+- Merchant Buy Rate (₦/USDT)
+- 1395
+- ₦
+- Merchant Sell Rate (₦/USDT)
+- 1385
+- ₦
+- Swap Commission (%)
+- 1.0
+- %
+- Automatic Hedging
+- Auto-execute on LPs
+- Save Configuration
+- Search transactions, wallets, or merchants...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Activity Logs: Global Ledger (340:6715)
+
+Canvas: 1280 × 1024
+
+- Global Activity Ledger
+- Comprehensive audit trail of all platform-wide events and administrative operations.
+- Admin Actions
+- System Logs
+- Global Activities
+- TOTAL LOGS (24H)
+- 12,402
+- +4.2% vs yesterday
+- SECURITY ALERTS
+- 0
+- All systems normal
+- SUCCESS RATE
+- 99.98%
+- 0.02% failure rate
+- Search logs...
+- Date Range
+- Action Type
+- Export CSV
+- TIMESTAMP
+- ACTOR
+- CATEGORY
+- DESCRIPTION
+- IP ADDRESS
+- STATUS
+- 2024-05-20 14:32:01
+- Sarah J.
+- sarah@flurrypay.com
+- Rate Update
+- Updated USDT Sell Rate to ₦1385
+- 192.168.1.104
+- Success
+- 2024-05-20 14:15:22
+- System Admin
+- admin@flurrypay.com
+- Login
+- Successful super-admin dashboard login
+- 45.22.19.102
+- Success
+- 2024-05-20 13:45:00
+- API
+- Binance Service
+- api-gateway
+- Sync
+- Automated global liquidity sync completed
+- 10.0.0.55
+- Success
+- 2024-05-20 12:10:14
+- Sarah J.
+- sarah@flurrypay.com
+- Merchant App
+- Approved KYC for Global Tech Ltd (ID: #8921)
+- 192.168.1.104
+- Success
+- 2024-05-20 11:05:33
+- EXT
+- Unknown User
+- -
+- Auth
+- Failed login attempt (Invalid MFA token)
+- 185.12.99.3
+- Failed
+- Showing 1 to 5 of 12,402 logs
+- 1
+- 2
+- 3
+- ...
+- 2481
+- Search transactions, merchants, or logs...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Activity Logs: Admin Actions (340:7003)
+
+Canvas: 1280 × 1024
+
+- Global Activity Ledger
+- Comprehensive audit trail of all platform-wide events and administrative operations.
+- Global Activities
+- System Logs
+- Merchants Actions
+- ADMIN OPERATIONS (24H)
+- 842
+- +12% vs yesterday
+- SECURITY FLAGS
+- 2
+- Active review required
+- ADMIN SUCCESS RATE
+- 100%
+- Optimal performance
+- Search logs...
+- Date Range
+- Action Type
+- Export CSV
+- TIMESTAMP
+- ACTOR
+- CATEGORY
+- DESCRIPTION
+- IP ADDRESS
+- STATUS
+- 2024-05-20 14:45:12
+- SJ
+- Sarah J.
+- Super Admin
+- User Permissions
+- Updated role for merchant user id: MT-4492 to Administrator
+- 192.168.1.104
+- Success
+- 2024-05-20 14:10:05
+- MT
+- Mark T.
+- Admin
+- Merchant Config
+- Increased daily withdrawal limit for Acme Corp to ₦50,000,000
+- 192.168.1.112
+- Success
+- 2024-05-20 13:55:40
+- ER
+- Elena R.
+- Compliance Officer
+- KYC Review
+- Approved KYC documents for Global Tech Ltd
+- 192.168.1.15
+- Success
+- 2024-05-20 13:22:18
+- SJ
+- Sarah J.
+- Super Admin
+- Rate Update
+- Modified USDT Merchant Buy Rate from ₦1390 to ₦1395
+- 192.168.1.104
+- Success
+- 2024-05-20 12:45:01
+- MT
+- Mark T.
+- Admin
+- System Config
+- Modified 2FA requirements for all merchant-level admin accounts
+- 192.168.1.112
+- Success
+- Showing 1 to 5 of 12,402 logs
+- 1
+- 2
+- 3
+- ...
+- 2481
+- Search transactions, merchants, or logs...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Activity Logs: System Logs (340:7294)
+
+Canvas: 1280 × 1024
+
+- Global Activity Ledger
+- Comprehensive audit trail of all platform-wide events and administrative operations.
+- Global Activities
+- Admin Actions
+- System Logs
+- SYSTEM EVENTS (24H)
+- 45,820
+- +12% vs yesterday
+- UPTIME (30D)
+- 99.99%
+- All systems operational
+- API LATENCY (AVG)
+- 142ms
+- Stable performance
+- Search logs...
+- Date Range
+- Action Type
+- Export CSV
+- TIMESTAMP
+- ACTOR
+- CATEGORY
+- DESCRIPTION
+- IP ADDRESS
+- STATUS
+- 2024-05-20 14:50:00
+- API
+- Bybit Service
+- price-feed
+- Price Feed
+- Successfully synchronized global BTC/USDT market rates
+- 10.0.0.12
+- Success
+- 2024-05-20 14:48:22
+- SYS
+- Webhook Manager
+- internal
+- Settlement
+- Dispatched payout confirmation webhook to merchant: MT-8821
+- 10.0.0.45
+- Success
+- 2024-05-20 14:45:05
+- LIQ
+- Liquidity Engine
+- engine-01
+- Hedging
+- Auto-hedging triggered: Executed $15,400 USDT purchase on LP-1
+- 10.0.0.88
+- Success
+- 2024-05-20 14:42:10
+- DB
+- Database
+- cluster-main
+- Optimization
+- Completed automated index cleanup for transactions_ledger
+- 10.0.0.2
+- Success
+- 2024-05-20 14:40:00
+- IDP
+- Identity Provider
+- auth-service
+- Auth Service
+- Cleaned up expired session tokens for 1,240 inactive users
+- 10.0.0.15
+- Success
+- Showing 1 to 5 of 12,402 logs
+- 1
+- 2
+- 3
+- ...
+- 2481
+- Search transactions, merchants, or logs...
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Developer: API Management (344:7794)
+
+Canvas: 1280 × 1181
+
+- Developer Overview
+- Monitor platform integrations, manage global webhook infrastructure, and analyze API performance across all merchants.
+- API Keys
+- Webhooks
+- API Logs
+- Documentation Settings
+- TOTAL API KEYS
+- 8,420
+- 12%
+- ACTIVE WEBHOOKS
+- 1,240
+- 99.9% Success
+- API TRAFFIC (24H)
+- 45.2M
+- reqs
+- AVG LATENCY
+- 124
+- ms
+- Recent Integrations
+- MERCHANT
+- KEY NAME
+- STATUS
+- CREATED
+- LAST USED
+- Acme Corp
+- prod_checkout_v2
+- Active
+- Oct 24, 2023
+- 2 mins ago
+- Globex Inc
+- staging_payment_gateway
+- Active
+- Oct 22, 2023
+- 1 hour ago
+- Soylent Corp
+- legacy_api_key_01
+- Revoked
+- Sep 15, 2022
+- Oct 10, 2023
+- Initech
+- test_env_key
+- Active
+- Oct 25, 2023
+- Never
+- View All Integrations
+- Global API Health
+- 00:00
+- 12:00
+- 24:00
+- 99.98%
+- Uptime (30d)
+- Peak: 2.1M
+- Search transactions, logs, or keys...
+- FinCore
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Developer: Webhook Monitoring (344:8073)
+
+Canvas: 1280 × 1039
+
+- Webhooks
+- Manage global endpoint delivery and failure retry queues.
+- New Endpoint
+- API Keys
+- Webhooks
+- API Logs
+- Documentation Settings
+- TOTAL SENT (30D)
+- 1.2M
+- 12%
+- FAILURE RATE
+- 0.02%
+- 0.01%
+- RETRIES IN PROGRESS
+- 45
+- AVG DELIVERY TIME
+- 850ms
+- Active Endpoints
+- FILTER
+- MERCHANT
+- DESTINATION URL
+- EVENT TYPES
+- STATUS
+- Acme Corp
+- ID: ep_01h9...
+- https://api.acme.com/v1/webhook
+- payment.success
+- refund.created
+- Globex Inc
+- ID: ep_02x4...
+- https://hooks.globex.io/receive
+- settlement.failed
+- Soylent Corp
+- ID: ep_09z1...
+- https://api.soylent.net/hook
+- *
+- View All Endpoints
+- Recent Failures
+- Retry All
+- Globex Inc
+- settlement.failed
+- 500 Internal Server Error
+- {   "event_id": "evt_998x",   "type": "settlement.failed",   "data": { ... } }
+- ATTEMPT 3 OF 5
+- 2 mins ago
+- Initech
+- payment.success
+- 408 Request Timeout
+- {   "event_id": "evt_452z",   "type": "payment.success",   "data": { "amount": 4500 } }
+- ATTEMPT 1 OF 5
+- 15 mins ago
+- Search transactions, logs, or keys...
+- FinCore
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- SA
+- Super Admin
+- admin@fincore.io
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Developer: API Audit Logs (344:8332)
+
+Canvas: 1280 × 1084
+
+- Developer Hub
+- API Keys
+- Webhooks
+- API Logs
+- Documentation Settings
+- Export CSV
+- Search by trace ID or endpoint...
+- METHOD
+- All Methods
+- STATUS
+- All Codes
+- TIME
+- Last 24 Hours
+- Live Stream
+- TIMESTAMP (UTC)
+- MERCHANT
+- METHOD & ENDPOINT
+- STATUS
+- DURATION
+- 2023-10-27 14:32:01.142
+- GL
+- GlobalCorp Inc.
+- POST
+- /v1/payments/charges
+- 201
+- 124ms
+- 2023-10-27 14:31:45.891
+- NX
+- Nexus Retail
+- GET
+- /v1/customers/cus_12345
+- 404
+- 45ms
+- 2023-10-27 14:30:12.005
+- GL
+- GlobalCorp Inc.
+- GET
+- /v1/balance
+- 200
+- 89ms
+- Showing 1-50 of 12,450 requests
+- 1
+- 2
+- 3
+- ...
+- Search transactions, logs, or keys...
+- FinCore
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- SA
+- Super Admin
+- admin@fincore.io
+- FinCore
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- SA
+- Super Admin
+- admin@fincore.io
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Developer: Portal Settings (344:8561)
+
+Canvas: 1280 × 1386
+
+- Developer Portal
+- API Keys
+- Webhooks
+- API Logs
+- Documentation Settings
+- Portal Branding
+- Customize the appearance of the merchant-facing developer portal.
+- Portal Logo
+- Change Logo
+- Recommended size: 256x256px. PNG or SVG.
+- Primary Brand Color
+- #2170e4
+- API Versioning
+- Manage the default API version shown in the documentation.
+- Stable: v2024- 04
+- Current Default Version
+- v2024-04 (Latest Stable)
+- Merchants without a specific version pinned will see this documentation by default.
+- Public Announcements
+- Display a banner at the top of the developer portal.
+- Banner Message
+- Active
+- We are deprecating v2023-05 on August 1st. Please migrate to  v2024-04.
+- Content Sections
+- Manage visibility and order of topics.
+- Authentication
+- Payment Intents
+- Webhooks
+- Legacy Methods
+- Discard Changes
+- Save Settings
+- Search transactions, logs, or keys...
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Settings: General Platform (345:9642)
+
+Canvas: 1280 × 1407
+
+- Settings
+- Manage global platform configurations and preferences.
+- Discard Changes
+- Save Configuration
+- General
+- Security
+- Team Management
+- Roles & Permissions
+- Regional Settings
+- General
+- Security
+- Team Management
+- Roles & Permissions
+- Platform Branding
+- Customize the core identity of the platform visible to all merchants.
+- PLATFORM NAME
+- FlurryPay
+- PRIMARY BRAND COLOR
+- #2170E4
+- GLOBAL LOGO
+- Change Logo
+- Remove
+- Recommended: SVG or PNG, transparent background. Max 2MB.
+- Transaction Rules
+- Define baseline parameters for processing and settlements.
+- DEFAULT SETTLEMENT DELAY
+- T+2 (Two Days)
+- MAX TRANSACTION LIMIT (USD)
+- 1,000,000.00
+- $
+- Global Processing Fees
+- Apply default platform fees across all merchant accounts unless overridden.
+- Maintenance Mode
+- Temporarily disable merchant access to the dashboard and API for updates.
+- Enable Maintenance Mode
+- All active sessions will be terminated. Scheduled tasks will pause.
+- PUBLIC STATUS MESSAGE
+- The platform is currently undergoing scheduled maintenance. We  expect to be back online shortly. Thank you for your patience.
+- Search transactions, merchants, logs...
+- Super Admin
+- v4.2.0-stable
+- System Core
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- SYSTEM
+- Activity Logs
+- Developers
+- Settings
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Settings: Security & Auth (345:9836)
+
+Canvas: 1280 × 1380
+
+- General
+- Security
+- Team Management
+- Roles & Permissions
+- Authentication Policy
+- Configure global authentication requirements to secure administrative access.
+- MFA Enforcement
+- Require multi-factor authentication for all administrative accounts.
+- Enforced for all Admins
+- Edit
+- Session Timeout
+- Automatically log out inactive administrative sessions.
+- 30 minutes
+- Password Rules
+- Define complexity requirements for administrative passwords.
+- Min 12 characters
+- Special characters required
+- IP Whitelisting
+- Authorized IP addresses for Super-Admin access.
+- Add IP Address
+- IP ADDRESS
+- LABEL
+- ADDED BY
+- ACTIONS
+- 192.168.1.100
+- HQ Main Office
+- System Admin
+- 10.0.0.50
+- Data Center Alpha
+- System Admin
+- 172.16.254.1
+- London Branch
+- System Admin
+- API Security
+- Key Rotation
+- Global API keys must be rotated periodically to maintain security compliance.
+- Rotation Period
+- 90 Days
+- Rate Limiting
+- Thresholds for administrative API endpoints to prevent abuse.
+- Burst Limit
+- 100 req/sec
+- Sustained Limit
+- 10,000 req/hr
+- Search transactions, merchants, logs...
+- Super Admin
+- v4.2.0-stable
+- System Core
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- SYSTEM
+- Activity Logs
+- Developers
+- Settings
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Settings: Team Management (345:10069)
+
+Canvas: 1280 × 1023.5
+
+- General
+- Security
+- Team Management
+- Roles & Permissions
+- New Admin
+- Administrative Users
+- Search name or email...
+- Role: All
+- USER
+- ROLE
+- STATUS
+- LAST LOGIN
+- ACTIONS
+- Sarah Jenkins
+- sarah.j@systemcore.io
+- Super Admin
+- Active
+- Oct 24, 2023
+- 09:41 AM PST
+- MC
+- Marcus Chen
+- m.chen@systemcore.io
+- Compliance Officer
+- Active
+- Oct 23, 2023
+- 14:22 PM PST
+- David Rivera
+- drivera@systemcore.io
+- Developer
+- Inactive
+- Sep 15, 2023
+- 11:05 AM PST
+- AL
+- Aisha Lin
+- aisha.l@systemcore.io
+- Super Admin
+- Active
+- Oct 24, 2023
+- 08:15 AM PST
+- Showing 1 to 4 of 24 users
+- 1
+- 2
+- 3
+- Search transactions, merchants, logs...
+- Super Admin
+- v4.2.0-stable
+- System Core
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- SYSTEM
+- Activity Logs
+- Developers
+- Settings
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+- Super Admin
+- admin@flurrypay.io
+- Logout
+
+## Settings: Roles & Permissions (345:10301)
+
+Canvas: 1280 × 800
+
+- General
+- Security
+- Team Management
+- Roles & Permissions
+- System Roles
+- Select a role to configure access levels and permissions across the platform.
+- Super Admin
+- 3 Users
+- Full unrestricted access to all system features and…
+- Support Specialist
+- 12 Users
+- Read access to merchant data, transaction logs, and ticketing…
+- Compliance Officer
+- 5 Users
+- Access to KYC/KYB records, risk profiling, and audit logs.
+- API Developer
+- 8 Users
+- Manage API keys, webhooks, and view integration analytics.
+- Super Admin Permissions
+- CRITICAL ACCESS
+- Configure granular access rights for the selected role.
+- Discard Changes
+- Save Changes
+- Merchant Management
+- SELECT ALL
+- View Merchants
+- Access to merchant directory and profiles
+- Edit Profiles
+- Modify merchant details and settings
+- Manage Fees
+- Adjust custom pricing and tier levels
+- Suspend/Delete
+- High-risk action: disable accounts
+- Financial Operations
+- SELECT ALL
+- View Transactions
+- Global ledger visibility
+- Initiate Payouts
+- Create manual settlement runs
+- Approve Payouts
+- Dual-control authorization
+- Process Refunds
+- Issue full or partial refunds
+- Dispute Override
+- Force resolve chargebacks
+- System Core
+- SELECT ALL
+- Platform Settings
+- Global configuration (Locked)
+- User Management
+- Add/remove admin accounts
+- View Audit Logs
+- Access system activity history
+- Search transactions, merchants, logs...
+- Super Admin
+- v4.2.0-stable
+- System Core
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- SYSTEM
+- Activity Logs
+- Developers
+- Settings
+- System Core
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- SYSTEM
+- Activity Logs
+- Developers
+- Settings
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- Developers
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Global Deposits
+- Crypto
+- Activity Logs
+- Super Admin
+- Admin
+- FlurryPay
+- Overview
+- Merchants
+- Payments
+- Wallet
+- Treasury
+- Crypto
+- Activity Logs
+- SYSTEM
+- Developers
+- Settings
+- Super Admin
+- admin@flurrypay.io
+- Logout
+- Super Admin
+- admin@flurrypay.io
+- Logout

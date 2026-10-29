@@ -1,0 +1,88 @@
+.screen-form { margin: 0; }
+.interaction-hit-area, .custom-dropdown-trigger { width: 100%; height: 100%; position: absolute; inset: 0; border-radius: inherit; display: block; cursor: pointer; color: inherit; background: transparent; text-align: inherit; padding: 0; font: inherit; }
+.interaction-hit-area.is-selected { outline: 2px solid #003ec7; outline-offset: -2px; border-radius: inherit; }
+.interaction-hit-area:focus-visible, .custom-dropdown-trigger:focus-visible { outline: 2px solid #003ec7; outline-offset: 3px; }
+.custom-dropdown-trigger:not(.source-menu-trigger) { display: flex; align-items: center; justify-content: space-between; gap: 12px; padding: 0 16px; font: 400 14px Inter, sans-serif; }
+.custom-dropdown-trigger > span { min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.custom-dropdown-trigger .control-placeholder { color: #737688; }
+.field-dropdown-wrapper { position: absolute; inset: 0; }
+.custom-dropdown-popup { z-index: 5000; overflow: auto; overscroll-behavior: contain; border: 1px solid #c3c5d9; background: #fff; border-radius: 8px; box-shadow: 0 8px 24px #131b2e26; padding: 6px; color: #131b2e; font: 400 14px Inter, sans-serif; }
+.custom-dropdown-popup [role="option"] { width: 100%; display: flex; justify-content: space-between; align-items: center; gap: 12px; min-height: 40px; padding: 10px 12px; border-radius: 4px; text-align: left; }
+.custom-dropdown-popup [role="option"]:hover, .custom-dropdown-popup .option-active { background: #f2f3ff; }
+.custom-dropdown-popup [aria-selected="true"] { color: #003ec7; font-weight: 600; }
+.custom-dropdown-popup [aria-disabled="true"] { opacity: .45; cursor: default; }
+.dropdown-search { position: sticky; top: 0; display: block; width: 100%; border: 1px solid #c3c5d9; background: white; padding: 10px 12px; margin-bottom: 6px; border-radius: 4px; font: inherit; }
+.dropdown-empty { padding: 8px 12px; color: #737688; }
+.selected-control-label { display: flex; align-items: center; height: 100%; justify-content: center; padding: 0 12px; font-size: 13px; white-space: nowrap; }
+.native-field-shell.field-checkbox { background: transparent; }
+.native-checkbox { appearance: auto; accent-color: #003ec7; width: 100%; height: 100%; margin: 0; cursor: pointer; }
+.native-field { padding: 0 16px; font-size: 14px; }
+textarea.native-field { padding: 14px 16px; resize: none; line-height: 1.5; }
+.field-has-error { box-shadow: 0 0 0 1px #bc2443; border-radius: inherit; }
+.inline-field-error { position: absolute; left: 0; top: calc(100% + 4px); color: #a31634; font-size: 11px; line-height: 14px; white-space: normal; background: #fff; padding: 2px 4px; border-radius: 3px; z-index: 30; }
+.validation-summary { position: fixed; bottom: 18px; left: 18px; width: min(380px, calc(100vw - 36px)); max-height: 240px; overflow: auto; background: white; border: 1px solid #bc2443; box-shadow: 0 4px 18px #131b2e1f; padding: 14px 18px; border-radius: 8px; z-index: 700; font-size: 12px; }
+.validation-summary strong { color: #a31634; }
+.validation-summary ul { padding-left: 16px; margin-bottom: 0; }
+.validation-summary li { padding: 4px 0; }
+.validation-summary button { text-align: left; color: #a31634; font-size: inherit; }
+.interaction-notice { position: fixed; z-index: 6000; right: 20px; bottom: 20px; display: flex; align-items: flex-start; gap: 12px; max-width: min(440px, calc(100vw - 40px)); padding: 16px 18px; background: #131b2e; color: white; border-radius: 8px; box-shadow: 0 8px 20px #131b2e33; font: 400 14px/1.6 Inter, sans-serif; }
+.interaction-notice button { color: white; font-size: 20px; line-height: 1; padding: 4px; }
+.interaction-backdrop { position: fixed; inset: 0; padding: 24px; background: #131b2e80; z-index: 4000; display: grid; place-items: center; overflow: auto; }
+.interaction-dialog { position: relative; width: min(100%, 560px); max-height: calc(100dvh - 48px); overflow: auto; background: #fff; padding: 32px; border: 1px solid #c3c5d9; border-radius: 12px; box-shadow: 0 16px 48px #131b2e33; color: #131b2e; font: 400 14px/1.6 Inter, sans-serif; }
+.interaction-dialog h2 { margin: 0 32px 12px 0; font-size: 24px; line-height: 1.3; font-weight: 600; }
+.interaction-dialog p { color: #596176; }
+.dialog-close { position: absolute; right: 16px; top: 14px; font-size: 24px; width: 32px; height: 32px; }
+.dialog-details { margin: 20px 0; max-height: 40vh; overflow: auto; font-size: 13px; }
+.dialog-details > div { padding: 10px 0; border-bottom: 1px solid #e5e7ef; }
+.dialog-details dt { font-weight: 600; }
+.dialog-details dd { margin: 4px 0 0; color: #596176; overflow-wrap: anywhere; white-space: pre-wrap; }
+.dialog-actions { display: flex; justify-content: flex-end; gap: 12px; flex-wrap: wrap; margin-top: 24px; }
+.primary-action, .secondary-action { display: inline-flex; justify-content: center; align-items: center; min-height: 40px; padding: 10px 16px; border-radius: 4px; font-size: 13px; font-weight: 500; cursor: pointer; }
+.primary-action { background: #003ec7; color: white; }
+.secondary-action { border: 1px solid #c3c5d9; background: white; color: #131b2e; }
+button:disabled { cursor: not-allowed; opacity: .5; }
+.date-range { display: flex; flex-direction: column; gap: 12px; }
+.date-range label { display: flex; flex-direction: column; gap: 6px; }
+.date-range input { border: 1px solid #c3c5d9; padding: 10px; border-radius: 4px; }
+.file-picker-surface { position: absolute; inset: 0; border-radius: inherit; min-height: 40px; }
+.file-picker-surface.is-dragging { outline: 2px dashed #003ec7; background: #f2f3ff; }
+.file-picker-art { position: absolute; inset: 0; pointer-events: none; }
+.file-picker-button { position: absolute; inset: 0; width: 100%; height: 100%; cursor: pointer; }
+.visually-hidden { position: absolute; width: 1px; height: 1px; padding: 0; margin: -1px; overflow: hidden; clip-path: inset(50%); white-space: nowrap; border: 0; }
+.selected-files { position: absolute; inset: 0; overflow: auto; background: #faf8ff; padding: 16px; border: 1px dashed #c3c5d9; border-radius: inherit; }
+.selected-files ul { list-style: none; margin: 0 0 12px; padding: 0; }
+.picked-file { display: flex; align-items: center; gap: 12px; background: white; border: 1px solid #c3c5d9; border-radius: 4px; margin-bottom: 8px; padding: 10px; font-size: 12px; }
+.picked-file img { width: 48px; height: 48px; object-fit: cover; border-radius: 4px; }
+.picked-file > span { flex: 1; min-width: 0; }
+.picked-file strong { display: block; overflow-wrap: anywhere; }
+.picked-file small { display: block; margin-top: 3px; color: #737688; }
+.picked-file button { width: 28px; height: 28px; font-size: 22px; }
+.dialog-file-label { display: flex; flex-direction: column; gap: 12px; padding: 16px; border: 1px dashed #c3c5d9; border-radius: 4px; }
+.dialog-file-label input { max-width: 100%; }
+.upload-dialog-body { display: flex; flex-direction: column; gap: 12px; }
+.camera-preview { display: block; width: 100%; aspect-ratio: 4/3; object-fit: cover; background: #131b2e; border-radius: 4px; }
+.empty-table-message { position: fixed; left: 50%; bottom: 24px; transform: translateX(-50%); z-index: 300; padding: 12px 18px; background: #fff; border: 1px solid #c3c5d9; border-radius: 4px; font-size: 13px; }
+.empty-table-message button { color: #003ec7; margin-left: 8px; text-decoration: underline; }
+@media(max-width: 540px) { .interaction-dialog { padding: 24px; } .interaction-backdrop { padding: 16px; } .validation-summary { max-height: 180px; } }
+.design-control { z-index: 2; }
+.design-control.overlay { z-index: 10; }
+.interaction-hit-area, .native-field, .native-checkbox, .custom-dropdown-trigger, .file-picker-button { pointer-events: auto; }
+.local-file-status { position: absolute; right: 0; top: calc(100% + 6px); padding: 2px 8px; color: #167347; background: #f0fbf4; font-size: 11px; line-height: 16px; border-radius: 4px; white-space: nowrap; }
+.picked-file a { color: #003ec7; text-decoration: underline; font-size: 11px; }
+.native-field:focus-visible { z-index: 1; }
+.design-control.overlay { z-index: 30; }
+/* Visual layers never intercept real form controls or native button hit areas. */
+.design-layer { pointer-events: none; }
+.native-table, .table-content { pointer-events: auto; }
+.file-picker-surface, .selected-files, .selected-files button, .selected-files a { pointer-events: auto; }
+.mobile-menu-item { position: relative; height: 46px; }
+.mobile-menu-item .custom-dropdown-trigger { font-size: 15px; padding: 0; }
+.screen-error { max-width: 640px; margin: 80px auto; padding: 24px; }
+.file-checking { position: absolute; left: 12px; bottom: 12px; background: #faf8ff; color: #003ec7; padding: 4px 8px; border: 1px solid #c3c5d9; border-radius: 4px; font-size: 12px; pointer-events: none; }
+.preview-action-form { display: flex; flex-direction: column; gap: 16px; }
+.preview-editor-field { display: flex; flex-direction: column; gap: 6px; }
+.preview-editor-field > label { font-size: 13px; font-weight: 500; }
+.preview-editor-field > input, .preview-editor-field > textarea { border: 1px solid #c3c5d9; border-radius: 4px; padding: 12px; min-width: 0; width: 100%; font: inherit; background: white; }
+.preview-editor-field > textarea { min-height: 90px; resize: vertical; }
+.preview-editor-select { position: relative; height: 44px; border: 1px solid #c3c5d9; border-radius: 4px; }
+.preview-editor-error { color: #a31634; font-size: 12px; }

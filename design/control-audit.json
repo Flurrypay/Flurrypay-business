@@ -1,0 +1,4286 @@
+[
+  {
+    "route": "/",
+    "name": "HomePage",
+    "fields": [],
+    "buttons": [
+      "Explore API Documentation",
+      "Get Started",
+      "Contact Sales",
+      "Create Free Account",
+      "Talk to an Expert",
+      "Privacy",
+      "Terms",
+      "Cookies",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/solutions",
+    "name": "Solutions | FlurryPay Industry Infrastructure",
+    "fields": [],
+    "buttons": [
+      "Get Started",
+      "Contact Sales",
+      "View API Docs",
+      "Talk to an Expert",
+      "Create Account",
+      "Schedule Demo",
+      "Global Payments",
+      "Card Issuing",
+      "Embedded Finance",
+      "E-commerce",
+      "SaaS Platform",
+      "Marketplaces",
+      "Documentation",
+      "API Reference",
+      "Status",
+      "About Us",
+      "Careers",
+      "Privacy Policy",
+      "Twitter",
+      "LinkedIn",
+      "GitHub",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/resources",
+    "name": "Resources | Insights and Support",
+    "fields": [
+      {
+        "id": "162:1917",
+        "name": "Input",
+        "text": "Search the FlurryPay Help Center...",
+        "context": " Search the FlurryPay Help Center... Search",
+        "parent": "Background+Shadow"
+      },
+      {
+        "id": "162:2039",
+        "name": "Input",
+        "text": "work@company.com",
+        "context": "work@company.com Subscribe",
+        "parent": "Form"
+      }
+    ],
+    "buttons": [
+      "Search",
+      "Download Report",
+      "Subscribe",
+      "Documentation",
+      "API Reference",
+      "Community Forum",
+      "24/7 Support",
+      "System Status",
+      "Global Payments",
+      "Card Issuing",
+      "Embedded Finance",
+      "E-commerce",
+      "SaaS Platform",
+      "Marketplaces",
+      "Documentation",
+      "API Reference",
+      "Status",
+      "About Us",
+      "Careers",
+      "Privacy Policy",
+      "Twitter",
+      "LinkedIn",
+      "GitHub",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/contact",
+    "name": "Contact Us | Get in Touch with FlurryPay",
+    "fields": [
+      {
+        "id": "162:2178",
+        "name": "Input",
+        "text": "Jane Doe",
+        "context": "Full Name Jane Doe",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2184",
+        "name": "Input",
+        "text": "jane@company.com",
+        "context": "Work Email jane@company.com",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2203",
+        "name": "Textarea",
+        "text": "Tell us about your project or specific needs...",
+        "context": "How can we help? Tell us about your project or specific needs...",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Send Message",
+      "support@flurrypay.io",
+      "+1 (800) 358-7790",
+      "[icon 162:2279]",
+      "[icon 162:2282]",
+      "[icon 162:2285]",
+      "Visit Help Center",
+      "Global Payments",
+      "Card Issuing",
+      "Embedded Finance",
+      "E-commerce",
+      "SaaS Platform",
+      "Marketplaces",
+      "Documentation",
+      "API Reference",
+      "Status",
+      "About Us",
+      "Careers",
+      "Privacy Policy",
+      "Twitter",
+      "LinkedIn",
+      "GitHub",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/register",
+    "name": "Register | Join FlurryPay",
+    "fields": [
+      {
+        "id": "162:2475",
+        "name": "Input",
+        "text": "John Doe",
+        "context": "Full Name John Doe",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2480",
+        "name": "Input",
+        "text": "name@company.com",
+        "context": "Work Email name@company.com",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2486",
+        "name": "Input",
+        "text": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "context": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 ",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2502",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Continue with Google",
+      "Continue with GitHub",
+      "[icon 162:2489]",
+      "Create free account",
+      "Privacy Policy",
+      "Terms of Service",
+      "Support",
+      "Contact Sales"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/login",
+    "name": "Login | FlurryPay Merchant Portal",
+    "fields": [
+      {
+        "id": "162:2577",
+        "name": "Input",
+        "text": "name@company.com",
+        "context": "name@company.com ",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2589",
+        "name": "Input",
+        "text": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "context": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022  ",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2598",
+        "name": "Input",
+        "text": "",
+        "context": " Remember me for 30 days",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Google",
+      "GitHub",
+      "Forgot password?",
+      "[icon 162:2594]",
+      "Log In",
+      "Privacy Policy",
+      "Terms of Service",
+      "Support",
+      "Contact Sales"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/forgot-password",
+    "name": "Forgot Password | FlurryPay Support",
+    "fields": [
+      {
+        "id": "162:2665",
+        "name": "Input",
+        "text": "name@company.com",
+        "context": "name@company.com ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Send Reset Link",
+      "Back to Login"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/reset-password",
+    "name": "Reset Password | FlurryPay Security",
+    "fields": [
+      {
+        "id": "162:2716",
+        "name": "Input",
+        "text": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "context": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 ",
+        "parent": "Container"
+      },
+      {
+        "id": "162:2725",
+        "name": "Input",
+        "text": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022",
+        "context": "\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022\u2022 ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "[icon 162:2719]",
+      "[icon 162:2728]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/pricing",
+    "name": "Pricing - FlurryPay",
+    "fields": [],
+    "buttons": [
+      "Get Started",
+      "Contact Sales",
+      "Start Scaling",
+      "Talk to Sales",
+      "Read Documentation",
+      "Multi-currency",
+      "Cross-border",
+      "Documentation",
+      "API Reference",
+      "About Us",
+      "Careers",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": [
+      [
+        "182:617",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/developers",
+    "name": "Html \u2192 Body",
+    "fields": [],
+    "buttons": [
+      "View Guide",
+      "View Guide",
+      "View Guide",
+      "Contact Support",
+      "Visit Help Center",
+      "Multi-currency",
+      "Cross-border",
+      "Documentation",
+      "API Reference",
+      "About Us",
+      "Careers",
+      "Products",
+      "Solutions",
+      "Pricing",
+      "Developers",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": [
+      [
+        "183:1073",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/cross-border-payments-flurrypay",
+    "name": "Cross-border Payments - FlurryPay",
+    "fields": [
+      {
+        "id": "185:1176",
+        "name": "Input",
+        "text": "5,000.00",
+        "context": "5,000.00 $ USD ",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "185:1193",
+        "name": "Input",
+        "text": "72,450.50",
+        "context": "72,450.50 \u20a6 NGN ",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Start Transfer",
+      "View API Docs",
+      "Confirm & Execute",
+      "Create Account",
+      "Contact Sales",
+      "Payments",
+      "Wallets",
+      "OTC",
+      "Documentation",
+      "API Reference",
+      "Support",
+      "Privacy Policy",
+      "Terms of Service",
+      "Pricing",
+      "Developers",
+      "Company",
+      "Log in",
+      "Get Started"
+    ],
+    "uploads": [
+      [
+        "185:1356",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/global-payouts-flurrypay",
+    "name": "Global Payouts - FlurryPay",
+    "fields": [
+      {
+        "id": "185:1427",
+        "name": "Switch between SWIFT, SEPA, and local clearing houses or instant stablecoin settlements (USDC/USDT) via one integration. Zero manual intervention required.",
+        "text": "Switch between SWIFT, SEPA, and local clearing houses or\ninstant stablecoin settlements (USDC/USDT) ",
+        "context": "Switch between SWIFT, SEPA, and local clearing houses or\ninstant stablecoin settlements (USDC/USDT) via one\nintegration. Zero manual intervention required.",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Explore API Docs",
+      "Contact Sales",
+      "Get Started Now",
+      "Talk to an Expert",
+      "Payments",
+      "Wallets",
+      "OTC",
+      "Documentation",
+      "API Reference",
+      "Support",
+      "Privacy Policy",
+      "Terms of Service",
+      "[icon 185:1601]",
+      "Pricing",
+      "Developers",
+      "Company",
+      "Log in",
+      "Get Started"
+    ],
+    "uploads": [
+      [
+        "185:1513",
+        "Upload Batch",
+        "Upload Batch"
+      ],
+      [
+        "185:1628",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/merchant-gateway-flurrypay",
+    "name": "Merchant Gateway - FlurryPay",
+    "fields": [],
+    "buttons": [
+      "Node.js",
+      "Python",
+      "Go",
+      "Rust",
+      "Pay Now",
+      "Start Integrating",
+      "View API Docs",
+      "Create Free Account",
+      "Talk to Sales",
+      "Payments",
+      "Wallets",
+      "OTC",
+      "Documentation",
+      "API Reference",
+      "Support",
+      "Privacy Policy",
+      "Terms of Service",
+      "Pricing",
+      "Developers",
+      "Company",
+      "Log in",
+      "Get Started"
+    ],
+    "uploads": [
+      [
+        "185:1919",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/otc-desk-flurrypay",
+    "name": "OTC Desk - FlurryPay",
+    "fields": [],
+    "buttons": [
+      "Speak to a Trader",
+      "View Live Spreads",
+      "Direct Line +1 (800) FLURRY-OTC",
+      "Institutional Desk otc@flurrypay.com",
+      "Payments",
+      "Wallets",
+      "OTC",
+      "Documentation",
+      "API Reference",
+      "Support",
+      "Privacy Policy",
+      "Terms of Service",
+      "Pricing",
+      "Developers",
+      "Company",
+      "Log in",
+      "Get Started"
+    ],
+    "uploads": [
+      [
+        "185:2248",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/digital-wallet-services-flurrypay",
+    "name": "Digital Wallet Services - FlurryPay",
+    "fields": [],
+    "buttons": [
+      "Create My Wallet",
+      "Security Protocol",
+      "Get API Keys",
+      "Explore Documentation",
+      "Payments",
+      "Wallets",
+      "OTC",
+      "Documentation",
+      "API Reference",
+      "Support",
+      "Privacy Policy",
+      "Terms of Service",
+      "Pricing",
+      "Developers",
+      "Company",
+      "Log in",
+      "Get Started"
+    ],
+    "uploads": [
+      [
+        "185:2518",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/products/multi-currency-accounts",
+    "name": "Html \u2192 Body",
+    "fields": [],
+    "buttons": [
+      "Read Documentation",
+      "Get API Keys",
+      "Explore Docs",
+      "Launch Sandbox",
+      "Send Request",
+      "Start Coding Now",
+      "Contact Dev Support",
+      "Global Payments",
+      "Card Issuing",
+      "Embedded Finance",
+      "E-commerce",
+      "SaaS Platform",
+      "Marketplaces",
+      "Documentation",
+      "API Reference",
+      "Status",
+      "About Us",
+      "Careers",
+      "Privacy Policy",
+      "Twitter",
+      "LinkedIn",
+      "GitHub",
+      "Products",
+      "Developers",
+      "Solutions",
+      "Pricing",
+      "Resources",
+      "Contact",
+      "Log in",
+      "Create Account"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant",
+    "name": "FlurryPay Overview",
+    "fields": [
+      {
+        "id": "241:267",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "Search transactions, customers... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Create Payment Link",
+      "Week",
+      "Month",
+      "View all transactions",
+      "[icon 241:273]",
+      "[icon 241:276]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/payment-links",
+    "name": "Payment Links - Overview (v2)",
+    "fields": [
+      {
+        "id": "241:416",
+        "name": "Input",
+        "text": "Search link name...",
+        "context": "Search link name... ",
+        "parent": "Container"
+      },
+      {
+        "id": "241:532",
+        "name": "Input",
+        "text": "Search...",
+        "context": "Search... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Create Link",
+      "Filter",
+      "[icon 241:461]",
+      "[icon 241:485]",
+      "[icon 241:509]",
+      "[icon 241:516]",
+      "1",
+      "2",
+      "3",
+      "[icon 241:526]",
+      "[icon 241:538]",
+      "[icon 241:541]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/payment-links/create",
+    "name": "Create Payment Link - Updated Preview",
+    "fields": [
+      {
+        "id": "241:670",
+        "name": "Input",
+        "text": "e.g. Consulting Fee",
+        "context": "Link Title e.g. Consulting Fee",
+        "parent": "Container"
+      },
+      {
+        "id": "241:676",
+        "name": "Input",
+        "text": "0.00",
+        "context": "0.00   USD",
+        "parent": "Container"
+      },
+      {
+        "id": "241:688",
+        "name": "Textarea",
+        "text": "Explain what the customer is paying for...",
+        "context": "Description (Optional) Explain what the customer is paying for...",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "[icon 241:663]",
+      "Generate Payment Link",
+      "Pay Now"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/streamlined-customer-checkout-flow",
+    "name": "Streamlined Customer Checkout Flow",
+    "fields": [],
+    "buttons": [
+      "Pay with Crypto BTC, ETH, USDT, USDC",
+      "Bank Transfer Pay via IBAN, SEPA, or Local Transfer"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/transactions",
+    "name": "Transactions - Overview",
+    "fields": [
+      {
+        "id": "241:866",
+        "name": "Input",
+        "text": "Search ID or Customer...",
+        "context": "Search ID or Customer... ",
+        "parent": "Container"
+      },
+      {
+        "id": "241:1066",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "Search transactions, customers... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Last 30 Days",
+      "Status",
+      "Method",
+      "New Payment",
+      "[icon 241:914]",
+      "Details",
+      "[icon 241:947]",
+      "Details",
+      "[icon 241:980]",
+      "Details",
+      "[icon 241:1013]",
+      "Retry",
+      "[icon 241:1046]",
+      "1",
+      "2",
+      "3",
+      "249",
+      "[icon 241:1060]",
+      "[icon 241:1072]",
+      "[icon 241:1075]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings",
+      "[icon 241:1164]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/wallets",
+    "name": "Wallets Overview",
+    "fields": [
+      {
+        "id": "241:1387",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "Search transactions, customers... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Quick Exchange",
+      "Add New Wallet",
+      "[icon 241:1257]",
+      "[icon 241:1260]",
+      "[icon 241:1294]",
+      "[icon 241:1297]",
+      "[icon 241:1300]",
+      "[icon 241:1321]",
+      "[icon 241:1324]",
+      "[icon 241:1327]",
+      "[icon 241:1348]",
+      "[icon 241:1351]",
+      "[icon 241:1354]",
+      "[icon 241:1375]",
+      "[icon 241:1378]",
+      "[icon 241:1381]",
+      "[icon 241:1393]",
+      "[icon 241:1396]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/quick-exchange-modal",
+    "name": "Quick Exchange Modal",
+    "fields": [
+      {
+        "id": "241:1522",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": " Search transactions, customers...",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "241:1649",
+        "name": "Input",
+        "text": "10,000",
+        "context": " USD  10,000",
+        "parent": "Container"
+      },
+      {
+        "id": "241:1668",
+        "name": "Input",
+        "text": "0.1523",
+        "context": " BTC  0.1523",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "[icon 241:1526]",
+      "[icon 241:1529]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "Treasury",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs",
+      "Settings",
+      "[icon 241:1616]",
+      "USD",
+      "BTC",
+      "[icon 241:1672]",
+      "Cancel",
+      "Confirm Exchange"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/add-new-wallet-redesigned-modal",
+    "name": "Add New Wallet - Redesigned Modal",
+    "fields": [
+      {
+        "id": "241:1738",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": " Search transactions, customers...",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "241:1848",
+        "name": "Input",
+        "text": "Search currencies...",
+        "context": " Search currencies...",
+        "parent": "Search"
+      },
+      {
+        "id": "241:1897",
+        "name": "Input",
+        "text": "e.g. Operations Fund",
+        "context": "Name your wallet e.g. Operations Fund",
+        "parent": "Wallet Name"
+      }
+    ],
+    "buttons": [
+      "[icon 241:1742]",
+      "[icon 241:1745]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "Treasury",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs",
+      "Settings",
+      "[icon 241:1835]",
+      "Fiat",
+      "Crypto",
+      "Cancel",
+      "Create Wallet"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/add-new-wallet-crypto-selection-state",
+    "name": "Add New Wallet - Crypto Selection State",
+    "fields": [
+      {
+        "id": "241:1960",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": " Search transactions, customers...",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "241:2070",
+        "name": "Input",
+        "text": "Search currencies...",
+        "context": " Search currencies...",
+        "parent": "Search"
+      },
+      {
+        "id": "241:2119",
+        "name": "Input",
+        "text": "e.g. Operations Fund",
+        "context": "Name your wallet e.g. Operations Fund",
+        "parent": "Wallet Name"
+      }
+    ],
+    "buttons": [
+      "[icon 241:1964]",
+      "[icon 241:1967]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "Treasury",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs",
+      "Settings",
+      "[icon 241:2057]",
+      "Fiat",
+      "Crypto",
+      "Cancel",
+      "Create Wallet"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/us-dollar-wallet-details",
+    "name": "US Dollar Wallet Details",
+    "fields": [
+      {
+        "id": "241:2318",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": " Search transactions, customers...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Back to Overview",
+      "Deposit",
+      "Withdraw",
+      "7D",
+      "30D",
+      "1Y",
+      "View All",
+      "[icon 241:2322]",
+      "[icon 241:2325]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/developers",
+    "name": "Developer Hub",
+    "fields": [
+      {
+        "id": "280:2746",
+        "name": "Input",
+        "text": "Search transactions, APIs...",
+        "context": " Search transactions, APIs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Create New Key",
+      "[icon 280:2584]",
+      "[icon 280:2609]",
+      "[icon 280:2630]",
+      "Manage All",
+      "Read Full Documentation Guides, API reference, and\nexamples.",
+      "Go Go SDK",
+      "Docs",
+      "[icon 280:2755]",
+      "Overview",
+      "Payments",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/create-new-api-key",
+    "name": "Create New API Key",
+    "fields": [
+      {
+        "id": "280:2844",
+        "name": "Input",
+        "text": "e.g., Mobile App Integration",
+        "context": "e.g., Mobile App Integration ",
+        "parent": "Container"
+      },
+      {
+        "id": "280:2941",
+        "name": "Input",
+        "text": "Search transactions, APIs...",
+        "context": " Search transactions, APIs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "[icon 280:2830]",
+      "Sandbox",
+      "Production",
+      "Select All",
+      "Cancel",
+      "Generate Key",
+      "Docs",
+      "[icon 280:2950]",
+      "Overview",
+      "Payments",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/html-body",
+    "name": "Html \u2192 Body",
+    "fields": [
+      {
+        "id": "281:3032",
+        "name": "Input",
+        "text": "https://api.yourdomain.com/webhooks",
+        "context": "https://api.yourdomain.com/webhooks POST",
+        "parent": "Container"
+      },
+      {
+        "id": "281:3055",
+        "name": "Input",
+        "text": "e.g., Main billing event listener",
+        "context": "Description (Optional) e.g., Main billing event listener",
+        "parent": "Container"
+      },
+      {
+        "id": "281:3074",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      },
+      {
+        "id": "281:3078",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      },
+      {
+        "id": "281:3082",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      },
+      {
+        "id": "281:3093",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      },
+      {
+        "id": "281:3097",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Input:margin"
+      },
+      {
+        "id": "281:3110",
+        "name": "Input",
+        "text": "Search transactions, APIs...",
+        "context": " Search transactions, APIs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "[icon 281:3019]",
+      "Sandbox",
+      "Production",
+      "Select All",
+      "Cancel",
+      "Add Endpoint",
+      "Docs",
+      "[icon 281:3119]",
+      "Overview",
+      "Payments",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/settings",
+    "name": "Merchant Settings",
+    "fields": [
+      {
+        "id": "282:3228",
+        "name": "Input",
+        "text": "Acme Corporation Ltd.",
+        "context": "LEGAL BUSINESS NAME Acme Corporation Ltd.",
+        "parent": "Container"
+      },
+      {
+        "id": "282:3240",
+        "name": "Input",
+        "text": "support@acmecorp.com",
+        "context": "SUPPORT EMAIL support@acmecorp.com",
+        "parent": "Container"
+      },
+      {
+        "id": "282:3246",
+        "name": "Input",
+        "text": "+1 (555) 019-2834",
+        "context": "SUPPORT PHONE +1 (555) 019-2834",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Business Profile",
+      "Display Preferences",
+      "Security",
+      "Notifications",
+      "Cancel",
+      "Update Settings",
+      "[icon 282:3255]",
+      "[icon 282:3258]",
+      "Overview",
+      "Payments",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": [
+      [
+        "282:3214",
+        "Section - Business Profile Tab",
+        "Acme Corp Global Enterprise Merchant ID: FP-892-XQ LEGAL BUSINESS NAME Acme Corporation Ltd. INDUSTR"
+      ]
+    ]
+  },
+  {
+    "route": "/merchant/logout-confirmation",
+    "name": "Logout Confirmation",
+    "fields": [],
+    "buttons": [
+      "Cancel",
+      "Yes, Logout",
+      "[icon 282:3406]",
+      "[icon 282:3409]",
+      "Overview",
+      "Payments",
+      "Wallet",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": [
+      [
+        "282:3344",
+        "Profile Card",
+        "Merchant User admin@flurrypay.com Company Name FlurryPay Inc. Merchant ID MERCH-99382-XYZ"
+      ]
+    ]
+  },
+  {
+    "route": "/merchant/onboarding-step-1-business-information-refined",
+    "name": "Onboarding - Step 1: Business Information (Refined)",
+    "fields": [
+      {
+        "id": "304:1470",
+        "name": "Input",
+        "text": "e.g. Acme Corp LLC",
+        "context": "Legal Business Name e.g. Acme Corp LLC",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1480",
+        "name": "Select type...",
+        "text": "Select type...",
+        "context": "Select type...",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1486",
+        "name": "Input",
+        "text": "XX-XXXXXXX",
+        "context": "Business Registration Number (EIN/CRN/VAT) XX-XXXXXXX",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1500",
+        "name": "Input",
+        "text": "YYYY",
+        "context": "Year of Incorporation YYYY  ",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1512",
+        "name": "Select industry...",
+        "text": "Select industry...",
+        "context": "Select industry...",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1519",
+        "name": "Input",
+        "text": "https://example.com",
+        "context": "https://example.com ",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1528",
+        "name": "Select volume...",
+        "text": "Select volume...",
+        "context": "Select volume...",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1540",
+        "name": "Input",
+        "text": "123 Business St, Suite 100",
+        "context": "Street Address 123 Business St, Suite 100",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1548",
+        "name": "Input",
+        "text": "San Francisco",
+        "context": "City San Francisco",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1554",
+        "name": "Input",
+        "text": "CA",
+        "context": "State / Province CA",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1560",
+        "name": "Input",
+        "text": "94103",
+        "context": "ZIP / Postal Code 94103",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1568",
+        "name": "Select country...",
+        "text": "Select country...",
+        "context": "Select country...",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1581",
+        "name": "Textarea",
+        "text": "Provide a brief description of your business...",
+        "context": "Provide a brief description of your business... Max 500 characters",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Back",
+      "Continue",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help Center"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/onboarding-step-2-identity-verification",
+    "name": "Onboarding - Step 2: Identity Verification",
+    "fields": [],
+    "buttons": [
+      "Take Selfie",
+      "Previous Step",
+      "Continue",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help Center"
+    ],
+    "uploads": [
+      [
+        "304:1702",
+        "Upload Flow:margin",
+        "2. UPLOAD DOCUMENT JPG, PNG, PDF (Max 5MB)  Drag & drop your file here or click to browse"
+      ],
+      [
+        "304:1703",
+        "Upload Flow",
+        "2. UPLOAD DOCUMENT JPG, PNG, PDF (Max 5MB)  Drag & drop your file here or click to browse"
+      ]
+    ]
+  },
+  {
+    "route": "/merchant/onboarding-step-3-legal-compliance",
+    "name": "Onboarding - Step 3: Legal Compliance",
+    "fields": [
+      {
+        "id": "304:1837",
+        "name": "Input - Upload documents",
+        "text": "Choose Files No file chosen",
+        "context": " Drag & drop your documents here or click to browse from your computer SUPPORTED: PDF JPG PNG Choose Files No file chosen",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "304:1838",
+        "name": "Input",
+        "text": "Choose Files",
+        "context": "Choose Files No file chosen",
+        "parent": "Input - Upload documents"
+      },
+      {
+        "id": "304:1878",
+        "name": "Select primary source",
+        "text": "Select primary source",
+        "context": "Select primary source",
+        "parent": "Container"
+      },
+      {
+        "id": "304:1885",
+        "name": "Input",
+        "text": "0.00",
+        "context": "0.00 $",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Previous Step",
+      "Continue to Step 4",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help Center"
+    ],
+    "uploads": [
+      [
+        "304:1837",
+        "Input - Upload documents",
+        "Choose Files No file chosen"
+      ],
+      [
+        "304:1841",
+        "Uploaded File Item Example",
+        "Certificate_of_Incorporation.pdf 100%"
+      ],
+      [
+        "304:1852",
+        "Button - Remove file",
+        ""
+      ],
+      [
+        "304:1865",
+        "Button - Upload",
+        ""
+      ],
+      [
+        "304:1903",
+        "Document Upload Layout Reference",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/merchant/onboarding-step-4-proof-of-address",
+    "name": "Onboarding - Step 4: Proof of Address",
+    "fields": [
+      {
+        "id": "304:2017",
+        "name": "Selected state ring",
+        "text": "",
+        "context": " Utility Bill Electricity, water, gas, or landline\nphone bills. ",
+        "parent": "Label - Option 1"
+      }
+    ],
+    "buttons": [
+      "Previous Step",
+      "Continue to Step 5",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help Center"
+    ],
+    "uploads": [
+      [
+        "304:2032",
+        "UPLOAD DOCUMENT",
+        "UPLOAD DOCUMENT"
+      ]
+    ]
+  },
+  {
+    "route": "/merchant/onboarding-step-5-final-review",
+    "name": "Onboarding - Step 5: Final Review",
+    "fields": [
+      {
+        "id": "304:2235",
+        "name": "Input",
+        "text": "",
+        "context": " ",
+        "parent": "Container"
+      },
+      {
+        "id": "304:2242",
+        "name": "Input",
+        "text": "",
+        "context": " ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Edit",
+      "Edit",
+      "Edit",
+      "Edit",
+      "Previous",
+      "Submit for Verification",
+      "Privacy Policy",
+      "Terms of Service",
+      "Help Center"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/otc-desk-dashboard",
+    "name": "OTC Desk Dashboard",
+    "fields": [
+      {
+        "id": "306:2565",
+        "name": "Input",
+        "text": "Search portal...",
+        "context": "Search portal... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Request Quote",
+      "New Trade",
+      "View All",
+      "Accept",
+      "Accept",
+      "1H",
+      "24H",
+      "7D",
+      "[icon 306:2480]",
+      "View Full History",
+      "[icon 306:2571]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/request-otc-quote",
+    "name": "Request OTC Quote",
+    "fields": [
+      {
+        "id": "306:2691",
+        "name": "Input",
+        "text": "0.00",
+        "context": "0.00   USD",
+        "parent": "Container"
+      },
+      {
+        "id": "306:2739",
+        "name": "Input",
+        "text": "Enter wallet address or ENS domain",
+        "context": "Enter wallet address or ENS domain ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:2786",
+        "name": "Input",
+        "text": "Search portal...",
+        "context": "Search portal... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Request Quote",
+      "[icon 306:2792]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/trade-history",
+    "name": "Trade History",
+    "fields": [
+      {
+        "id": "306:2881",
+        "name": "Input",
+        "text": "Search Trade ID or Counterparty",
+        "context": "Search Trade ID or Counterparty ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:3027",
+        "name": "Input",
+        "text": "Search portal...",
+        "context": "Search portal... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Export CSV",
+      "New Trade",
+      "Date Range",
+      "Asset",
+      "Status",
+      "Clear Filters",
+      "[icon 306:2947]",
+      "[icon 306:2975]",
+      "[icon 306:3003]",
+      "[icon 306:3010]",
+      "1",
+      "2",
+      "3",
+      "[icon 306:3021]",
+      "[icon 306:3033]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/crypto-dashboard",
+    "name": "Crypto Dashboard",
+    "fields": [
+      {
+        "id": "306:3329",
+        "name": "Input",
+        "text": "Search portal...",
+        "context": "Search portal... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Buy",
+      "Sell",
+      "Swap",
+      "1D",
+      "1W",
+      "1M",
+      "1Y",
+      "View All Transactions",
+      "[icon 306:3335]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/buy-crypto",
+    "name": "Buy Crypto",
+    "fields": [
+      {
+        "id": "306:3430",
+        "name": "Input - Amount to pay",
+        "text": "1,000",
+        "context": "1,000 $ USD ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:3446",
+        "name": "Input - Amount to receive",
+        "text": "0.0152",
+        "context": "0.0152  BTC ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:3504",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "Search transactions, customers... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "$ USD",
+      "BTC",
+      "[icon 306:3510]",
+      "[icon 306:3513]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/sell-crypto",
+    "name": "Sell Crypto",
+    "fields": [
+      {
+        "id": "306:3622",
+        "name": "Input for amount",
+        "text": "0.15  MAX",
+        "context": "0.15  MAX",
+        "parent": "Input for amount:margin"
+      },
+      {
+        "id": "306:3623",
+        "name": "Input",
+        "text": "0.15",
+        "context": "0.15  MAX",
+        "parent": "Input for amount"
+      },
+      {
+        "id": "306:3682",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "Search transactions, customers... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "MAX",
+      "[icon 306:3635]",
+      "[icon 306:3688]",
+      "[icon 306:3691]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Crypto",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/institutional-buy-sell",
+    "name": "Institutional Buy/Sell",
+    "fields": [
+      {
+        "id": "306:3808",
+        "name": "Input",
+        "text": "50,000",
+        "context": "50,000   USDC ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:3825",
+        "name": "Input",
+        "text": "0.7842",
+        "context": "0.7842   BTC ",
+        "parent": "Container"
+      },
+      {
+        "id": "306:3853",
+        "name": "Input",
+        "text": "Search portal...",
+        "context": "Search portal... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "[icon 306:3776]",
+      "USDC",
+      "BTC",
+      "[icon 306:3843]",
+      "[icon 306:3859]",
+      "Overview",
+      "Payments",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/bitcoin-btc-details-refined",
+    "name": "Bitcoin (BTC) Details - Refined",
+    "fields": [
+      {
+        "id": "307:4135",
+        "name": "Input",
+        "text": "Search transactions...",
+        "context": "Search transactions... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Send",
+      "Receive",
+      "Buy",
+      "Sell",
+      "Swap",
+      "1D",
+      "1W",
+      "1M",
+      "1Y",
+      "ALL",
+      "View All",
+      "[icon 307:4139]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/send-crypto-assets",
+    "name": "Send Crypto Assets",
+    "fields": [
+      {
+        "id": "307:4223",
+        "name": "Input",
+        "text": "Enter BTC address",
+        "context": "Enter BTC address ",
+        "parent": "Container"
+      },
+      {
+        "id": "307:4231",
+        "name": "Select Network",
+        "text": "Select Network",
+        "context": "Select Network",
+        "parent": "Label"
+      },
+      {
+        "id": "307:4245",
+        "name": "Input",
+        "text": "0.00",
+        "context": "0.00 BTC MAX",
+        "parent": "Container"
+      },
+      {
+        "id": "307:4275",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": " Search transactions, customers...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "[icon 307:4226]",
+      "MAX",
+      "Send Bitcoin",
+      "[icon 307:4279]",
+      "[icon 307:4282]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Teams",
+      "Developers",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/team-directory",
+    "name": "Team Directory",
+    "fields": [
+      {
+        "id": "310:20",
+        "name": "Input",
+        "text": "Search by name or email...",
+        "context": "Search by name or email... ",
+        "parent": "Container"
+      },
+      {
+        "id": "310:131",
+        "name": "Input",
+        "text": "Search transactions...",
+        "context": " Search transactions...",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Invite Team Member",
+      "All Roles",
+      "Admin",
+      "Manager",
+      "Developer",
+      "Staff",
+      "[icon 310:69]",
+      "[icon 310:92]",
+      "[icon 310:116]",
+      "Previous",
+      "Next",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Team",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/invite-team-member",
+    "name": "Invite Team Member",
+    "fields": [
+      {
+        "id": "310:228",
+        "name": "Input",
+        "text": "e.g. Jane Doe",
+        "context": "Full Name e.g. Jane Doe",
+        "parent": "Full Name"
+      },
+      {
+        "id": "310:234",
+        "name": "Input",
+        "text": "jane@example.com",
+        "context": "Email Address jane@example.com",
+        "parent": "Email Address"
+      },
+      {
+        "id": "310:266",
+        "name": "Input",
+        "text": "Search transactions...",
+        "context": " Search transactions...",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "[icon 310:214]",
+      "Cancel",
+      "Send Invitation",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Team",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/role-permissions-access",
+    "name": "Role Permissions Access",
+    "fields": [
+      {
+        "id": "310:518",
+        "name": "Input",
+        "text": "Search transactions...",
+        "context": " Search transactions...",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Duplicate Role",
+      "Save Changes",
+      "View Rules",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "OTC Desk",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Team",
+      "Activity Logs",
+      "Settings"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/html-body-312-736",
+    "name": "Html \u2192 Body",
+    "fields": [
+      {
+        "id": "312:754",
+        "name": "Input",
+        "text": "Search staff name or action...",
+        "context": "Search staff name or action... ",
+        "parent": "Container"
+      },
+      {
+        "id": "312:924",
+        "name": "Input",
+        "text": "Search transactions, customers...",
+        "context": "  Search transactions, customers...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "Export CSV",
+      "[icon 312:912]",
+      "[icon 312:915]",
+      "[icon 312:928]",
+      "[icon 312:931]",
+      "Overview",
+      "Payment Links",
+      "Transactions",
+      "Wallet",
+      "Treasury",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/create-payment-link-ngn-premium",
+    "name": "Create Payment Link (NGN) - Premium",
+    "fields": [
+      {
+        "id": "327:24",
+        "name": "Input",
+        "text": "0.00",
+        "context": "NGN 0.00  ",
+        "parent": "Background+Shadow"
+      },
+      {
+        "id": "327:35",
+        "name": "Input",
+        "text": "e.g. Design Consulting Retainer",
+        "context": "e.g. Design Consulting Retainer DESCRIPTION (OPTIONAL)",
+        "parent": "Container"
+      },
+      {
+        "id": "327:51",
+        "name": "Input",
+        "text": "Search transactions, customers, or API docs...",
+        "context": "Search transactions, customers, or API docs...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Generate Secure Link",
+      "[icon 327:55]",
+      "[icon 327:58]",
+      "Overview",
+      "Payments",
+      "Transactions",
+      "Wallet",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/payment-link-ready-premium-qr-preview",
+    "name": "Payment Link Ready - Premium QR Preview",
+    "fields": [],
+    "buttons": [
+      "Share Link",
+      "Done"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/checkout-premium-order-preview",
+    "name": "Checkout - Premium Order Preview",
+    "fields": [
+      {
+        "id": "327:267",
+        "name": "Input",
+        "text": "Search transactions, customers, or API docs...",
+        "context": "Search transactions, customers, or API docs...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Pay Now",
+      "[icon 327:271]",
+      "[icon 327:274]",
+      "Overview",
+      "Payments",
+      "Transactions",
+      "Wallet",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/customer-terminal-select-method",
+    "name": "Customer Terminal - Select Method",
+    "fields": [],
+    "buttons": [],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/checkout-premium-crypto-details",
+    "name": "Checkout - Premium Crypto Details",
+    "fields": [
+      {
+        "id": "327:498",
+        "name": "Input",
+        "text": "bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh",
+        "context": " bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh ",
+        "parent": "Background+Shadow"
+      },
+      {
+        "id": "327:517",
+        "name": "Input",
+        "text": "Search transactions, customers, or API docs...",
+        "context": "Search transactions, customers, or API docs...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Bitcoin BTC",
+      "Bitcoin Network",
+      "[icon 327:502]",
+      "I've made the payment",
+      "[icon 327:521]",
+      "[icon 327:524]",
+      "Overview",
+      "Payments",
+      "Transactions",
+      "Wallet",
+      "Multi-Currency",
+      "Global Deposits",
+      "Crypto",
+      "Customers",
+      "Developers",
+      "Activity Logs"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/merchant/customer-terminal-bank-transfer-currency-switcher",
+    "name": "Customer Terminal - Bank Transfer (Currency Switcher)",
+    "fields": [],
+    "buttons": [
+      "Back to Payment Methods",
+      "\ud83c\uddf3\ud83c\uddec NGN",
+      "\ud83c\uddfa\ud83c\uddf8 USD",
+      "\ud83c\uddea\ud83c\uddfa EUR",
+      "\ud83c\uddec\ud83c\udde7 GBP",
+      "[icon 327:662]",
+      "[icon 327:680]",
+      "I've made the transfer"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin",
+    "name": "Super-Admin Overview",
+    "fields": [
+      {
+        "id": "328:928",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "View All",
+      "Onboard\nMerchant",
+      "Manage\nSettlements",
+      "Fund\nTreasury",
+      "Compliance\nReview",
+      "[icon 328:936]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/merchant-management",
+    "name": "Merchant Management",
+    "fields": [
+      {
+        "id": "328:1086",
+        "name": "Input",
+        "text": "Search by name, ID, email...",
+        "context": "Search by name, ID, email... ",
+        "parent": "Container"
+      },
+      {
+        "id": "328:1272",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Onboard Merchant",
+      "Status",
+      "Country",
+      "[icon 328:1108]",
+      "[icon 328:1111]",
+      "[icon 328:1161]",
+      "[icon 328:1164]",
+      "[icon 328:1167]",
+      "Review",
+      "[icon 328:1226]",
+      "[icon 328:1229]",
+      "[icon 328:1259]",
+      "[icon 328:1262]",
+      "[icon 328:1265]",
+      "[icon 328:1280]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/merchant-detail-overview",
+    "name": "Merchant Detail: Overview",
+    "fields": [
+      {
+        "id": "328:1597",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Transactions",
+      "Wallets & Balances",
+      "[icon 328:1380]",
+      "Wallets & Balances",
+      "Users",
+      "30D",
+      "90D",
+      "1Y",
+      "View All",
+      "[icon 328:1530]",
+      "Edit Profile",
+      "View Full Compliance",
+      "[icon 328:1605]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "328:1498",
+        "Business Profile Card",
+        "Business Profile ENTITY\nNAME Acme Corp\nInternational Ltd REGISTRATION UK (CRN: 12345678) INCORPORATI"
+      ],
+      [
+        "328:1502",
+        "Business Profile",
+        "Business Profile"
+      ],
+      [
+        "328:1537",
+        "Risk Profile Card",
+        "Compliance\nStatus Verified KYB DOCUMENTS  Approved UBO DECLARATION  Approved PROOF OF\nADDRESS  Pendi"
+      ],
+      [
+        "328:1615",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/merchant-detail-transactions",
+    "name": "Merchant Detail: Transactions",
+    "fields": [
+      {
+        "id": "328:1719",
+        "name": "Input",
+        "text": "Filter ID, amount...",
+        "context": " Filter ID, amount...",
+        "parent": "Background+Border"
+      },
+      {
+        "id": "328:2362",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Edit Details",
+      "Suspend",
+      "Overview",
+      "Transactions",
+      "[icon 328:1709]",
+      "Wallets & Balances",
+      "Users",
+      "Export CSV",
+      "[icon 328:1767]",
+      "[icon 328:1785]",
+      "[icon 328:1803]",
+      "[icon 328:1821]",
+      "[icon 328:1839]",
+      "[icon 328:1857]",
+      "[icon 328:1875]",
+      "[icon 328:1893]",
+      "[icon 328:1911]",
+      "[icon 328:1929]",
+      "[icon 328:1947]",
+      "[icon 328:1965]",
+      "[icon 328:1983]",
+      "[icon 328:2001]",
+      "[icon 328:2019]",
+      "[icon 328:2037]",
+      "[icon 328:2055]",
+      "[icon 328:2073]",
+      "[icon 328:2091]",
+      "[icon 328:2109]",
+      "[icon 328:2127]",
+      "[icon 328:2145]",
+      "[icon 328:2163]",
+      "[icon 328:2181]",
+      "[icon 328:2199]",
+      "[icon 328:2217]",
+      "[icon 328:2235]",
+      "[icon 328:2253]",
+      "[icon 328:2271]",
+      "[icon 328:2289]",
+      "[icon 328:2307]",
+      "[icon 328:2325]",
+      "[icon 328:2343]",
+      "[icon 328:2350]",
+      "[icon 328:2355]",
+      "[icon 328:2370]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "328:2380",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/merchant-detail-wallets-balances-revamped",
+    "name": "Merchant Detail: Wallets & Balances (Revamped)",
+    "fields": [
+      {
+        "id": "328:2645",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Transactions",
+      "Wallets & Balances",
+      "Compliance",
+      "Users",
+      "Export\nReport",
+      "Create\nWallet",
+      "[icon 328:2541]",
+      "[icon 328:2595]",
+      "[icon 328:2653]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/merchant-detail-compliance",
+    "name": "Merchant Detail: Compliance",
+    "fields": [
+      {
+        "id": "328:2911",
+        "name": "Textarea",
+        "text": "Add internal compliance note...",
+        "context": "Add internal compliance note... Save Note",
+        "parent": "Container"
+      },
+      {
+        "id": "328:2961",
+        "name": "Input",
+        "text": "Search merchants, users, TXIDs...",
+        "context": " Search merchants, users, TXIDs...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Export",
+      "Suspend",
+      "Overview",
+      "Transactions",
+      "Compliance",
+      "Users",
+      "Approve",
+      "Reject",
+      "[icon 328:2882]",
+      "Re-request",
+      "Request Update",
+      "Save Note",
+      "[icon 328:2969]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "328:2861",
+        "Uploaded 2h ago \u2022 j.doe@merchant.com",
+        "Uploaded 2h ago \u2022\nj.doe@merchant.com"
+      ],
+      [
+        "328:2979",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/user-management-directory",
+    "name": "User Management Directory",
+    "fields": [
+      {
+        "id": "329:3163",
+        "name": "Input",
+        "text": "Search by name, email, or ID...",
+        "context": " Search by name, email, or ID...",
+        "parent": "Background+Shadow"
+      },
+      {
+        "id": "329:3348",
+        "name": "Input",
+        "text": "Search transactions, users...",
+        "context": " Search transactions, users...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Transactions",
+      "Wallets & Balances",
+      "Users",
+      "Compliance",
+      "[icon 329:3099]",
+      "Export\nReport",
+      "Invite\nUser",
+      "Role",
+      "Status",
+      "[icon 329:3217]",
+      "[icon 329:3241]",
+      "[icon 329:3265]",
+      "[icon 329:3289]",
+      "[icon 329:3314]",
+      "[icon 329:3327]",
+      "1",
+      "2",
+      "3",
+      "846",
+      "[icon 329:3341]",
+      "[icon 329:3356]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/user-detail-overview",
+    "name": "User Detail: Overview",
+    "fields": [
+      {
+        "id": "329:3652",
+        "name": "Input",
+        "text": "Search transactions, users...",
+        "context": " Search transactions, users...",
+        "parent": "Background+Border"
+      }
+    ],
+    "buttons": [
+      "Users",
+      "Deactivate\nUser",
+      "Edit\nPermissions",
+      "Overview",
+      "Permissions",
+      "Activity Log 12",
+      "Security",
+      "[icon 329:3512]",
+      "View All",
+      "[icon 329:3604]",
+      "View All 42 Permissions",
+      "Overview",
+      "Transactions",
+      "Wallets & Balances",
+      "Users",
+      "Compliance",
+      "[icon 329:3660]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "329:3420",
+        "Header Profile",
+        "Sarah Chen ACTIVE  Compliance\nOfficer \u2022  sarah.chen@acmecorp.com \u2022  Acme\nCorp  Deactivate\nUser  Edit"
+      ]
+    ]
+  },
+  {
+    "route": "/admin/wallet-liquidity-overview",
+    "name": "Wallet: Liquidity Overview",
+    "fields": [
+      {
+        "id": "332:4205",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Settlement Accounts",
+      "Treasury Holdings",
+      "Transactions",
+      "Settings",
+      "Export Report",
+      "[icon 332:4054]",
+      "Add Bank Account",
+      "[icon 332:4131]",
+      "Generate Wallet",
+      "[icon 332:4211]",
+      "[icon 332:4214]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/wallet-settlement-accounts",
+    "name": "Wallet: Settlement Accounts",
+    "fields": [
+      {
+        "id": "332:4366",
+        "name": "Input",
+        "text": "Search accounts by name or number...",
+        "context": "Search accounts by name or number... ",
+        "parent": "Container"
+      },
+      {
+        "id": "332:4515",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Settlement Accounts",
+      "Treasury Holdings",
+      "Transactions",
+      "Settings",
+      "Add Bank Account",
+      "Currency",
+      "Region",
+      "Status",
+      "[icon 332:4386]",
+      "[icon 332:4427]",
+      "[icon 332:4451]",
+      "[icon 332:4475]",
+      "[icon 332:4499]",
+      "[icon 332:4506]",
+      "[icon 332:4509]",
+      "[icon 332:4521]",
+      "[icon 332:4524]",
+      "Overview",
+      "Merchants",
+      "Users",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/wallet-treasury-holdings",
+    "name": "Wallet: Treasury Holdings",
+    "fields": [
+      {
+        "id": "332:4846",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Settlement Accounts",
+      "Treasury Holdings",
+      "Transactions",
+      "Settings",
+      "Add\nCurrency/Asset",
+      "Initiate\nSweep",
+      "[icon 332:4673]",
+      "[icon 332:4750]",
+      "[icon 332:4822]",
+      "[icon 332:4830]",
+      "[icon 332:4838]",
+      "Configure Thresholds",
+      "[icon 332:4852]",
+      "[icon 332:4855]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/wallet-settlement-transactions",
+    "name": "Wallet: Settlement Transactions",
+    "fields": [
+      {
+        "id": "332:4950",
+        "name": "Input",
+        "text": "Jan 1 - Jan 31, 2024",
+        "context": "Jan 1 - Jan 31, 2024 ",
+        "parent": "Container"
+      },
+      {
+        "id": "332:5135",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Settlement Accounts",
+      "Treasury Holdings",
+      "Transactions",
+      "Settings",
+      "Manual\nEntry",
+      "Export\nReport",
+      "All",
+      "Settlements",
+      "Payouts",
+      "Sweeps",
+      "[icon 332:4965]",
+      "[icon 332:4968]",
+      "[icon 332:4999]",
+      "[icon 332:5029]",
+      "[icon 332:5059]",
+      "[icon 332:5089]",
+      "[icon 332:5097]",
+      "1",
+      "2",
+      "3",
+      "245",
+      "[icon 332:5111]",
+      "[icon 332:5141]",
+      "[icon 332:5144]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/wallet-settings",
+    "name": "Wallet: Settings",
+    "fields": [
+      {
+        "id": "332:5477",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Settlement Accounts",
+      "Treasury Holdings",
+      "Transactions",
+      "Settings",
+      "Audit\nLog",
+      "Save\nConfigurations",
+      "General",
+      "Security",
+      "Webhooks",
+      "Thresholds",
+      "Edit",
+      "Edit",
+      "Add Tier",
+      "Link New API",
+      "[icon 332:5419]",
+      "[icon 332:5434]",
+      "[icon 332:5483]",
+      "[icon 332:5486]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/payments-overview",
+    "name": "Payments: Overview",
+    "fields": [
+      {
+        "id": "336:266",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Resolve",
+      "30D",
+      "90D",
+      "1Y",
+      "View All",
+      "OVERVIEW",
+      "TRANSACTIONS",
+      "PAYOUTS",
+      "DISPUTES 12",
+      "[icon 336:251]",
+      "[icon 336:272]",
+      "[icon 336:275]",
+      "[icon 336:278]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/payments-transactions",
+    "name": "Payments: Transactions",
+    "fields": [
+      {
+        "id": "336:368",
+        "name": "Input",
+        "text": "Search by TXID, Merchant, or Customer...",
+        "context": "Search by TXID, Merchant, or Customer... ",
+        "parent": "Container"
+      },
+      {
+        "id": "336:551",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Transactions",
+      "Payouts",
+      "Disputes",
+      "Last 30 Days",
+      "Status",
+      "Method",
+      "Export",
+      "[icon 336:522]",
+      "1",
+      "2",
+      "3",
+      "48",
+      "[icon 336:535]",
+      "[icon 336:557]",
+      "[icon 336:560]",
+      "[icon 336:563]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/payments-payouts",
+    "name": "Payments: Payouts",
+    "fields": [
+      {
+        "id": "336:738",
+        "name": "Input",
+        "text": "Search ID or Destination...",
+        "context": "Search ID or Destination... ",
+        "parent": "Container"
+      },
+      {
+        "id": "336:937",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Initiate Batch Payout",
+      "Overview",
+      "Transactions",
+      "Payouts",
+      "Disputes  3",
+      "[icon 336:671]",
+      "View Details",
+      "Edit",
+      "[icon 336:845]",
+      "Retry",
+      "View Details",
+      "[icon 336:907]",
+      "1",
+      "2",
+      "3",
+      "169",
+      "[icon 336:921]",
+      "[icon 336:943]",
+      "[icon 336:946]",
+      "[icon 336:949]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/payments-disputes",
+    "name": "Payments: Disputes",
+    "fields": [
+      {
+        "id": "336:1105",
+        "name": "Input",
+        "text": "Search Case ID...",
+        "context": "Search Case ID... ",
+        "parent": "Container"
+      },
+      {
+        "id": "336:1234",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Overview",
+      "Transactions",
+      "Payouts",
+      "Disputes",
+      "Settings",
+      "Filter",
+      "Export CSV",
+      "Review Evidence",
+      "View Details",
+      "Review Evidence",
+      "View Result",
+      "Previous",
+      "1",
+      "2",
+      "3",
+      "Next",
+      "[icon 336:1240]",
+      "[icon 336:1243]",
+      "[icon 336:1246]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 336:1306]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "336:1300",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/treasury-overview",
+    "name": "Treasury: Overview",
+    "fields": [
+      {
+        "id": "337:2202",
+        "name": "Input",
+        "text": "Search...",
+        "context": "Search...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Review",
+      "View All",
+      "Download",
+      "Overview",
+      "Asset Allocation",
+      "Yield Management",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/treasury-asset-allocation",
+    "name": "Treasury: Asset Allocation",
+    "fields": [
+      {
+        "id": "337:2508",
+        "name": "Input",
+        "text": "Search...",
+        "context": "Search...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "Export Report",
+      "Rebalance Portfolio",
+      "Edit Targets",
+      "Add Custodian",
+      "Overview",
+      "Asset Allocation",
+      "Yield Management"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/treasury-yield-management",
+    "name": "Treasury: Yield Management",
+    "fields": [
+      {
+        "id": "337:2779",
+        "name": "Input",
+        "text": "Search...",
+        "context": "Search...",
+        "parent": "Input:margin"
+      }
+    ],
+    "buttons": [
+      "1M",
+      "3M",
+      "YTD",
+      "View All",
+      "Harvest All",
+      "Overview",
+      "Asset Allocation",
+      "Yield Management"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/crypto-assets",
+    "name": "Crypto: Assets",
+    "fields": [
+      {
+        "id": "338:3490",
+        "name": "Input",
+        "text": "Search assets...",
+        "context": "Search assets... ",
+        "parent": "Container"
+      },
+      {
+        "id": "338:3635",
+        "name": "Input",
+        "text": "Search transactions, wallets, or merchants...",
+        "context": " Search transactions, wallets, or merchants...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "Deposit",
+      "Send",
+      "Convert",
+      "Assets",
+      "OTC Desk",
+      "Trading",
+      "History",
+      "Settings",
+      "[icon 338:3534]",
+      "[icon 338:3561]",
+      "[icon 338:3588]",
+      "[icon 338:3618]",
+      "[icon 338:3625]",
+      "[icon 338:3628]",
+      "[icon 338:3639]",
+      "[icon 338:3643]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 340:6642]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "340:6636",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/crypto-otc-desk",
+    "name": "Crypto: OTC Desk",
+    "fields": [
+      {
+        "id": "338:3730",
+        "name": "Input",
+        "text": "Search by merchant or asset...",
+        "context": "Search by merchant or asset... ",
+        "parent": "Container"
+      },
+      {
+        "id": "338:3860",
+        "name": "Input",
+        "text": "0.9165",
+        "context": "0.9165 EUR",
+        "parent": "Container"
+      },
+      {
+        "id": "338:3874",
+        "name": "Input",
+        "text": "45,825.00",
+        "context": "45,825.00 EUR",
+        "parent": "Container"
+      },
+      {
+        "id": "338:3903",
+        "name": "Input",
+        "text": "Search transactions, wallets, or merchants...",
+        "context": " Search transactions, wallets, or merchants...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "Assets",
+      "OTC Desk",
+      "Trading",
+      "History",
+      "Settings",
+      "Send Quote",
+      "Reject Request",
+      "[icon 338:3907]",
+      "[icon 338:3911]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/crypto-history",
+    "name": "Crypto: History",
+    "fields": [
+      {
+        "id": "338:4482",
+        "name": "Input",
+        "text": "Search transactions, merchants...",
+        "context": "Search transactions, merchants... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Assets",
+      "OTC Desk",
+      "Trading",
+      "History",
+      "Settings",
+      "Date Range",
+      "Asset",
+      "Type",
+      "Receipt",
+      "Details",
+      "Receipt",
+      "Review",
+      "[icon 338:4466]",
+      "1",
+      "2",
+      "3",
+      "[icon 338:4477]",
+      "[icon 338:4488]",
+      "[icon 338:4493]"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/html-body",
+    "name": "Html \u2192 Body",
+    "fields": [
+      {
+        "id": "340:5813",
+        "name": "Input",
+        "text": "1395",
+        "context": "1395  \u20a6",
+        "parent": "Container"
+      },
+      {
+        "id": "340:5826",
+        "name": "Input",
+        "text": "1385",
+        "context": "1385  \u20a6",
+        "parent": "Container"
+      },
+      {
+        "id": "340:5839",
+        "name": "Input",
+        "text": "1.0",
+        "context": "1.0  %",
+        "parent": "Container"
+      },
+      {
+        "id": "340:5864",
+        "name": "Input",
+        "text": "Search transactions, wallets, or merchants...",
+        "context": " Search transactions, wallets, or merchants...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "Trading",
+      "View All",
+      "Save Configuration",
+      "[icon 340:5868]",
+      "[icon 340:5872]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": []
+  },
+  {
+    "route": "/admin/activity-logs-global-ledger",
+    "name": "Activity Logs: Global Ledger",
+    "fields": [
+      {
+        "id": "340:6776",
+        "name": "Input",
+        "text": "Search logs...",
+        "context": "Search logs... ",
+        "parent": "Container"
+      },
+      {
+        "id": "340:6939",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Admin Actions",
+      "System Logs",
+      "Global Activities",
+      "Date Range",
+      "Action Type",
+      "Export CSV",
+      "[icon 340:6920]",
+      "1",
+      "2",
+      "3",
+      "2481",
+      "[icon 340:6934]",
+      "[icon 340:6945]",
+      "[icon 340:6949]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 340:7000]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "340:6994",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/activity-logs-admin-actions",
+    "name": "Activity Logs: Admin Actions",
+    "fields": [
+      {
+        "id": "340:7064",
+        "name": "Input",
+        "text": "Search logs...",
+        "context": "Search logs... ",
+        "parent": "Container"
+      },
+      {
+        "id": "340:7230",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Global Activities",
+      "System Logs",
+      "Merchants Actions",
+      "Date Range",
+      "Action Type",
+      "Export CSV",
+      "[icon 340:7211]",
+      "1",
+      "2",
+      "3",
+      "2481",
+      "[icon 340:7225]",
+      "[icon 340:7236]",
+      "[icon 340:7240]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 340:7291]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "340:7285",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/activity-logs-system-logs",
+    "name": "Activity Logs: System Logs",
+    "fields": [
+      {
+        "id": "340:7353",
+        "name": "Input",
+        "text": "Search logs...",
+        "context": "Search logs... ",
+        "parent": "Container"
+      },
+      {
+        "id": "340:7519",
+        "name": "Input",
+        "text": "Search transactions, merchants, or logs...",
+        "context": "Search transactions, merchants, or logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Global Activities",
+      "Admin Actions",
+      "System Logs",
+      "Date Range",
+      "Action Type",
+      "Export CSV",
+      "[icon 340:7500]",
+      "1",
+      "2",
+      "3",
+      "2481",
+      "[icon 340:7514]",
+      "[icon 340:7525]",
+      "[icon 340:7529]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 340:7580]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "340:7574",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/developer-api-management",
+    "name": "Developer: API Management",
+    "fields": [
+      {
+        "id": "344:7998",
+        "name": "Input",
+        "text": "Search transactions, logs, or keys...",
+        "context": " Search transactions, logs, or keys...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "API Keys",
+      "Webhooks",
+      "API Logs",
+      "Documentation Settings",
+      "[icon 344:7880]",
+      "View All Integrations",
+      "[icon 344:8002]",
+      "[icon 344:8006]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 344:9569]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "344:8011",
+        "Profile",
+        ""
+      ],
+      [
+        "344:9563",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/developer-webhook-monitoring",
+    "name": "Developer: Webhook Monitoring",
+    "fields": [
+      {
+        "id": "344:8257",
+        "name": "Input",
+        "text": "Search transactions, logs, or keys...",
+        "context": " Search transactions, logs, or keys...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "New Endpoint",
+      "API Keys",
+      "Webhooks",
+      "API Logs",
+      "Documentation Settings",
+      "View All Endpoints",
+      "Retry\nAll",
+      "[icon 344:8261]",
+      "[icon 344:8265]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "[icon 344:8329]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 344:8846]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "344:8270",
+        "Profile",
+        ""
+      ],
+      [
+        "344:8840",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/developer-api-audit-logs",
+    "name": "Developer: API Audit Logs",
+    "fields": [
+      {
+        "id": "344:8360",
+        "name": "Input",
+        "text": "Search by trace ID or endpoint...",
+        "context": " Search by trace ID or endpoint...",
+        "parent": "Background+Shadow"
+      },
+      {
+        "id": "344:8486",
+        "name": "Input",
+        "text": "Search transactions, logs, or keys...",
+        "context": " Search transactions, logs, or keys...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "API Keys",
+      "Webhooks",
+      "API Logs",
+      "Documentation Settings",
+      "Export CSV",
+      "[icon 344:8468]",
+      "1",
+      "2",
+      "3",
+      "[icon 344:8479]",
+      "[icon 344:8490]",
+      "[icon 344:8494]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "[icon 344:8558]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "[icon 344:8975]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 344:9026]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "344:8499",
+        "Profile",
+        ""
+      ],
+      [
+        "344:9020",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/developer-portal-settings",
+    "name": "Developer: Portal Settings",
+    "fields": [
+      {
+        "id": "344:8604",
+        "name": "Input",
+        "text": "#2170e4",
+        "context": " #2170e4",
+        "parent": "Container"
+      },
+      {
+        "id": "344:8643",
+        "name": "Textarea",
+        "text": "We are deprecating v2023-05 on August 1st. Please migrate to \nv2024-04.",
+        "context": "Banner Message  Active  We are deprecating v2023-05 on August 1st. Please migrate to \nv2024-04.",
+        "parent": "Container"
+      },
+      {
+        "id": "344:8722",
+        "name": "Input",
+        "text": "Search transactions, logs, or keys...",
+        "context": " Search transactions, logs, or keys...",
+        "parent": "Background"
+      }
+    ],
+    "buttons": [
+      "API Keys",
+      "Webhooks",
+      "API Logs",
+      "Documentation Settings",
+      "Change Logo",
+      "[icon 344:8652]",
+      "[icon 344:8666]",
+      "[icon 344:8669]",
+      "[icon 344:8679]",
+      "[icon 344:8682]",
+      "[icon 344:8692]",
+      "[icon 344:8695]",
+      "[icon 344:8705]",
+      "[icon 344:8708]",
+      "Discard Changes",
+      "Save Settings",
+      "[icon 344:8726]",
+      "[icon 344:8730]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 344:9448]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "344:8735",
+        "Profile",
+        ""
+      ],
+      [
+        "344:9442",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/settings-general-platform",
+    "name": "Settings: General Platform",
+    "fields": [
+      {
+        "id": "345:9681",
+        "name": "Input",
+        "text": "FlurryPay",
+        "context": "PLATFORM NAME FlurryPay",
+        "parent": "Container"
+      },
+      {
+        "id": "345:9688",
+        "name": "Input",
+        "text": "#2170E4",
+        "context": "#2170E4 ",
+        "parent": "Container"
+      },
+      {
+        "id": "345:9727",
+        "name": "Input",
+        "text": "1,000,000.00",
+        "context": "1,000,000.00 $",
+        "parent": "Container"
+      },
+      {
+        "id": "345:9767",
+        "name": "Textarea",
+        "text": "The platform is currently undergoing scheduled maintenance. We \nexpect to be back online shortly. Th",
+        "context": "PUBLIC STATUS MESSAGE The platform is currently undergoing scheduled maintenance. We \nexpect to be back online shortly. Thank you for your patience.",
+        "parent": "Container"
+      },
+      {
+        "id": "345:9773",
+        "name": "Input",
+        "text": "Search transactions, merchants, logs...",
+        "context": "Search transactions, merchants, logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "Discard Changes",
+      "Save Configuration",
+      "General",
+      "Security",
+      "Team Management",
+      "Roles & Permissions",
+      "Regional Settings",
+      "General",
+      "General",
+      "Security",
+      "Team Management",
+      "Roles & Permissions",
+      "Change Logo",
+      "Remove",
+      "[icon 345:9779]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 345:10699]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "345:9789",
+        "Profile",
+        ""
+      ],
+      [
+        "345:10693",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/settings-security-auth",
+    "name": "Settings: Security & Auth",
+    "fields": [
+      {
+        "id": "345:10006",
+        "name": "Input",
+        "text": "Search transactions, merchants, logs...",
+        "context": "Search transactions, merchants, logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "General",
+      "Security",
+      "Team Management",
+      "Roles & Permissions",
+      "Edit",
+      "Add IP\nAddress",
+      "[icon 345:9939]",
+      "[icon 345:9950]",
+      "[icon 345:9961]",
+      "[icon 345:10012]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 345:10863]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "345:10022",
+        "Profile",
+        ""
+      ],
+      [
+        "345:10857",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/settings-team-management",
+    "name": "Settings: Team Management",
+    "fields": [
+      {
+        "id": "345:10094",
+        "name": "Input",
+        "text": "Search name or email...",
+        "context": "Search name or email... ",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10238",
+        "name": "Input",
+        "text": "Search transactions, merchants, logs...",
+        "context": "Search transactions, merchants, logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "General",
+      "Security",
+      "Team Management",
+      "Roles & Permissions",
+      "New Admin",
+      "Role:\nAll",
+      "[icon 345:10142]",
+      "[icon 345:10167]",
+      "[icon 345:10191]",
+      "[icon 345:10216]",
+      "[icon 345:10223]",
+      "1",
+      "2",
+      "3",
+      "[icon 345:10232]",
+      "[icon 345:10244]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 345:11027]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "345:10254",
+        "Profile",
+        ""
+      ],
+      [
+        "345:11021",
+        "Profile",
+        ""
+      ]
+    ]
+  },
+  {
+    "route": "/admin/settings-roles-permissions",
+    "name": "Settings: Roles & Permissions",
+    "fields": [
+      {
+        "id": "345:10327",
+        "name": "Select a role to configure access levels and permissions across the platform.",
+        "text": "Select a role to configure access levels and\npermissions across the platform.",
+        "context": "Select a role to configure access levels and\npermissions across the platform.",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10415",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10423",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10431",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10439",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10463",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10471",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10479",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10487",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10495",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10519",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10527",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10535",
+        "name": "Input",
+        "text": "",
+        "context": "",
+        "parent": "Container"
+      },
+      {
+        "id": "345:10544",
+        "name": "Input",
+        "text": "Search transactions, merchants, logs...",
+        "context": "Search transactions, merchants, logs... ",
+        "parent": "Container"
+      }
+    ],
+    "buttons": [
+      "General",
+      "Security",
+      "Team Management",
+      "[icon 345:10322]",
+      "Super Admin 3 Users Full unrestricted access to all\nsystem features and\u2026",
+      "Support Specialist 12 Users Read access to merchant data,\ntransaction logs, and ticketing\u2026",
+      "Compliance Officer 5 Users Access to KYC/KYB records, risk\nprofiling, and audit logs.",
+      "API Developer 8 Users Manage API keys, webhooks, and\nview integration analytics.",
+      "Discard\nChanges",
+      "Save\nChanges",
+      "[icon 345:10550]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Global Deposits",
+      "Crypto",
+      "Activity Logs",
+      "[icon 345:11266]",
+      "Overview",
+      "Merchants",
+      "Payments",
+      "Wallet",
+      "Treasury",
+      "Crypto",
+      "Activity Logs",
+      "Developers",
+      "Settings",
+      "Logout",
+      "Logout"
+    ],
+    "uploads": [
+      [
+        "345:10560",
+        "Profile",
+        ""
+      ],
+      [
+        "345:11260",
+        "Profile",
+        ""
+      ]
+    ]
+  }
+]
